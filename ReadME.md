@@ -13,7 +13,7 @@ The documents are grouped into the following categories:
 ### 📜 Governing Documents
 These are the foundational texts of the DRMC.
 - **[DRMC Charter 2026.md](./DRMC%20Charter%202026.md)** – Our mission, vision, and core principles.
-- **[DRMC Bylaws 2026 – Version 3.0.md](./DRMC%20Bylaws%202026%20–%20Version%203.0.md)** – The official rules and operating procedures.
+- **[DRMC Bylaws 2026.md](./DRMC%20Bylaws%202026.md)** – The official rules and operating procedures.
 - **[DRMC Code of Conduct & Facility Regulations.md](./DRMC%20Code%20of%20Conduct%20&%20Facility%20Regulations.md)** – Expected behaviour and rules for using the space.
 
 ### 🤝 Agreements & Forms
