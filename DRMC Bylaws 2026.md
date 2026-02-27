@@ -306,15 +306,16 @@ The transfer is effective upon Executive approval and completion of all required
 
 The Annual General Meeting (AGM) shall take place near season closing of each year. 
 The order of business at the AGM shall include the following:
-Activity Report: Presentation of the year's activities by the Commodore (or presiding officer).
-Financial Report: Presentation of the financial report by the Treasurer.
-Committee Reports: Reports from special committees, as applicable.
-Project Plan: Presentation of proposed project plans and capital initiatives for the upcoming year (in accordance with Article X).
-Project Report: Presentation and review of project status and outcomes for projects completed or underway during the current year.
-Pricing for the Next Season: Presentation and approval of the membership fee schedule for the upcoming year.
-Election: Election of Executive members (in accordance with Article XI).
-Governance Amendments: Decision on any proposed amendments to the By-Laws or Corporate documents, if applicable.
-Other Business: Any other matter brought before the meeting in accordance with the agenda.
+- Call to Order and Approval of Previous Minutes: Opening of the meeting and approval of minutes from the previous meeting.
+- Activity Report: Presentation of the year's activities by the Commodore (or presiding officer).
+- Financial Report: Presentation of the financial report by the Treasurer.
+- Squad Reports: Reports from Squad committees, as applicable.
+- Project Report previous season: Presentation and review of project status and outcomes for projects completed or underway during the current year.
+- Project Plan Next season: Presentation of proposed project plans and capital initiatives for the upcoming year (in accordance with Article X).
+- Pricing for the Next Season: Presentation and approval of the membership fee schedule for the upcoming year.
+- Election: Election of Executive members (in accordance with Article XI).
+- Governance Amendments: Decision on any proposed amendments to the By-Laws or Corporate documents, if applicable.
+- Other Business: Any other matter brought before the meeting in accordance with the agenda.
 
 The meeting format may be in person, web conference, or hybrid, as determined by the Executive.
 
@@ -322,12 +323,12 @@ The meeting format may be in person, web conference, or hybrid, as determined by
 
 A Spring General Meeting shall be held in April of each year, with the format determined by the Executive. 
 The order of business at the Spring General Meeting shall include the following:
-Call to Order and Approval of Previous Minutes: Opening of the meeting and approval of minutes from the previous meeting.
-Budget Presentation: Presentation and approval of the annual operating budget for the upcoming fiscal year by the Treasurer.
-Project Voting: Presentation and vote on any proposed projects requiring membership approval (in accordance with Articles IX and X).
-Special Committees Plan: Presentation of plans and objectives by special committees for the upcoming season.
-By-Law Amendments: Discussion and voting on any proposed amendments to the By-Laws or Corporate documents, if applicable.
-Other Business: Any other matter brought before the meeting in accordance with the agenda.
+- Call to Order and Approval of Previous Minutes: Opening of the meeting and approval of minutes from the previous meeting.
+- Budget Presentation: Presentation and approval of the annual operating budget for the upcoming fiscal year by the Treasurer.
+- Project Voting: Presentation and vote on any proposed projects requiring membership approval (in accordance with Articles IX and X).
+- Special Committees Plan: Presentation of plans and objectives by special committees for the upcoming season.
+- Governance Voting: Discussion and voting on any proposed amendments to the By-Laws or Corporate documents, if applicable.
+- Other Business: Any other matter brought before the meeting in accordance with the agenda.
 
 Minutes from this meeting will announce voting results.
 
