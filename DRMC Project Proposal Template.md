@@ -56,15 +56,10 @@ Will this close any areas? Create noise? For how long? Describe the impact on me
 
 List the vendors/contractors approached for this project and the criteria used for selection.
 
-  ----------------------------------------------------------------------------------------
-  **Vendor/Contractor   **Quote/Proposal   **Selection Criteria  **Notes/Justification**
-  Name**                Amount**           Weighting (e.g., Cost 
-                                           40%, Experience 30%,  
-                                           Timeline 30%)**       
-  --------------------- ------------------ --------------------- -------------------------
-                                                                 
-
-  ----------------------------------------------------------------------------------------
+| **Vendor/Contractor Name** | **Quote/Proposal Amount** | **Selection Criteria Weighting (e.g., Cost 40%, Experience 30%, Timeline 30%)** | **Notes/Justification** |
+| -------- | -------- | -------- | -------- |
+|          |          |          |          |
+|          |          |          |          |
 
 **Recommended Vendor:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -75,13 +70,10 @@ List the vendors/contractors approached for this project and the criteria used f
 
 List any donations of materials, services, or cash for this project.
 
-  ----------------------------------------------------------------------------
-  **Donor**   **Nature of           **Estimated        **Conditions/Timing**
-              Donation**            Value**            
-  ----------- --------------------- ------------------ -----------------------
-                                                       
-
-  ----------------------------------------------------------------------------
+| **Donor** | **Nature of Donation** | **Estimated Value** | **Conditions/Timing** |
+| -------- | -------- | -------- | -------- |
+|          |          |          |          |
+|          |          |          |          |
 
 ### **Volunteer (Bénévolat) Contributions**
 
@@ -105,21 +97,13 @@ must be submitted and approved by the Executive before work commences.
 
 Identify potential risks and mitigation strategies.
 
-  -----------------------------------------------------------------------
-  **Potential      **Likelihood         **Impact           **Mitigation
-  Risk**           (Low/Med/High)**     (Low/Med/High)**   Strategy**
-  ---------------- -------------------- ------------------ --------------
-  Cost overruns                                            
-
-  Timeline delays                                          
-
-  Safety concerns                                          
-
-  Environmental                                            
-  impact                                                   
-
-  Other:                                                   
-  -----------------------------------------------------------------------
+| **Potential** | **Likelihood (Low/Med/High)** | **Impact (Low/Med/High)** | **Mitigation Strategy** |
+| -------- | -------- | -------- | -------- |
+| Cost overruns |          |          |          |
+| Timeline delays |          |          |          |
+| Safety concerns |          |          |          |
+| Environmental impact |          |          |          |
+| Other |          |          |          |
 
 ## **9. Conflict of Interest Declaration (Required)**
 
