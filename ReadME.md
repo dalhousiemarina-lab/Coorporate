@@ -16,10 +16,6 @@ These are the foundational texts of the DRMC.
 - **[DRMC Bylaws 2026.md](./DRMC%20Bylaws%202026.md)** – The official rules and operating procedures.
 - **[DRMC Code of Conduct & Facility Regulations.md](./DRMC%20Code%20of%20Conduct%20&%20Facility%20Regulations.md)** – Expected behaviour and rules for using the space.
 
-### 📜 Descriptive Documents
-These are the governing Documents with descriptive texts of the DRMC.
-- **[DRMC Bylaws 2026 with descriptive.md](./DRMC%20Bylaws%202026%20with%20descriptive.md)** – is the official rules above with a more descriptive details..
-
 ### 🤝 Agreements & Forms
 Legal and binding documents for members and directors.
 - **[DRMC Director Agreement & Consent to Act.md](./DRMC%20Director%20Agreement%20&%20Consent%20to%20Act.md)** – For individuals joining the board of directors.
