@@ -67,9 +67,13 @@ The Corporation shall operate without the intention of generating profit for its
 
 ## **ARTICLE VIII: DISSOLUTION CLAUSE (UNALTERABLE)**
 
-In the event that the Corporation is dissolved or wound up, any assets remaining after all liabilities have been satisfied shall be distributed to members. Any left over assets shall be transferred to one or more qualified non-profit or charitable organizations in Canada whose purposes are similar to those of the Corporation, as determined by the Executive/Board of Directors.
+In the event of the dissolution or winding up of the Corporation, after the payment of all debts and liabilities, the remaining property and assets of the Corporation shall be distributed as follows:
 
-This provision is unalterable and ensures that the Corporation's assets remain committed to the not-for-profit sector in perpetuity.
+Step One – Payment of Debts: All known debts, liabilities, and costs of dissolution shall be paid in full.
+Step Two – Distribution to Members: The remaining assets shall be liquidated and the proceeds distributed equally among the members of the Corporation who are in good standing at the time of dissolution, in accordance with a formula established by the Executive/Board of Directors.
+Step Three – Residual to Non-Profit: Any assets or funds that cannot be distributed to members (for example, unclaimed distributions) shall be transferred to one or more qualified non-profit or charitable organizations in Canada whose purposes are similar to those of the Corporation, as determined by the Executive/Board of Directors.
+
+This provision is unalterable and ensures that the Corporation's assets are first used to satisfy obligations, then returned to the members, and finally, any residual assets remain committed to the not-for-profit sector in perpetuity.
 
 ## **ARTICLE IX: BY-LAWS**
 

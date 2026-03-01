@@ -847,19 +847,27 @@ Any member in good standing may inspect the Corporation's records, including min
 
 ### XXIV.1 Application of Law
 
-The dissolution of the Corporation shall be governed by Part 14 of the *Canada Not-for-profit Corporations Act*.
+The dissolution of the Corporation shall be governed by Part 14 of the Canada Not-for-profit Corporations Act.
 
 ### XXIV.2 Distribution of Remaining Property
 
-If the Corporation is dissolved or wound up, any remaining assets after paying all liabilities shall be transferred to one or more qualified non-profit organizations in Canada with purposes similar to those of the Corporation. This provision is unalterable.
+If the Corporation is dissolved or wound up, any remaining assets after paying all liabilities shall be transferred to one or more qualified non-profit organizations in Canada with purposes similar to those of the Corporation. This provision is unalterable.~~
+Upon the dissolution or winding up of the Corporation, after the payment of all debts and liabilities, the remaining property and assets of the Corporation shall be distributed in the following order:
+
+Payment of Debts: All known debts, liabilities, and reasonable expenses of dissolution shall be paid in full.
+Distribution to Members: The remaining assets shall be liquidated and the proceeds distributed equally among the members of the Corporation who are in good standing at the time of dissolution, in accordance with a formula established by the Executive.
+Residual to Non-Profit: Any assets or funds that cannot be distributed to members (for example, unclaimed distributions) shall be transferred to one or more qualified non-profit or charitable organizations in Canada with purposes similar to those of the Corporation, as determined by the Executive.
+
+This provision is unalterable and reflects the distribution order set forth in the Corporation's Articles of Incorporation (Charter).
 
 ### XXIV.3 Qualified Donees
 
-If the Corporation is a registered charity or a soliciting corporation, any property remaining on liquidation after the discharge of any liabilities shall be distributed to one or more qualified donees within the meaning of subsection 248(1) of the *Income Tax Act*.
+If the Corporation is a registered charity or a soliciting corporation, any property remaining on liquidation after the discharge of any liabilities shall be distributed to one or more qualified donees within the meaning of subsection 248(1) of the Income Tax Act.
 
 ### XXIV.4 Procedure
 
-The dissolution shall be carried out in accordance with the procedures set out in the *Canada Not-for-profit Corporations Act*, including the sending of statements of intent to dissolve, articles of dissolution, and obtaining certificates of dissolution from the Director.
+The dissolution shall be carried out in accordance with the procedures set out in the Canada Not-for-profit Corporations Act, including the sending of statements of intent to dissolve, articles of dissolution, and obtaining certificates of dissolution from the Director.
+
 
 ---
 

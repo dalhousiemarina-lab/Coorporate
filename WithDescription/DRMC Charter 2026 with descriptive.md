@@ -1,11 +1,11 @@
-# DRMC Charter 2026 – Plain-Language Guide
+# DRMC Charter 2026 – Expanded Plain-Language Guide
 
 **Document Version:** 3.0
 **Effective Date:** February 28, 2026
 
-This document pairs each section of the official Articles of Incorporation (the "Charter") with a simple explanation. The original legal text is shown first, followed by a **Descriptive Note** that translates it into everyday language for all members to understand.
+This document pairs each section of the official Articles of Incorporation (the "Charter") with a detailed, easy-to-understand explanation. The original legal text is shown first, followed by a **Descriptive Note** that translates it into everyday language for all members to understand.
 
-The Charter is our founding document. It establishes who we are, what our purpose is, and sets the basic rules that cannot be changed without a formal process. Think of it as the constitution of our marina, while the Bylaws are more detailed operating rules.
+The Charter is our founding document—our constitution. It establishes who we are, why we exist, and sets the fundamental rules that cannot be changed without a formal process. Think of it as the foundation of our marina, while the Bylaws are the detailed operating manuals built on top of it.
 
 ---
 
@@ -14,7 +14,7 @@ The Charter is our founding document. It establishes who we are, what our purpos
 **Source:**
 The undersigned, seeking to establish a not-for-profit corporation in accordance with the Canada Not-for-profit Corporations Act, hereby adopt these Articles of Incorporation (the "Charter") to set forth the foundational principles and organizational structure of the Corporation.
 
-> **Descriptive Note:** This is an introductory statement. It says that the people who started the marina did so under Canada's federal law for non-profit organizations. This document (the Charter) lays out the basic rules and structure of our club.
+> **Descriptive Note:** This is an introductory statement, like the opening of a constitution. It tells us that the people who founded our marina did so under Canada's federal law for non-profit organizations (the *Canada Not-for-profit Corporations Act*). This document—our Charter—lays out the most basic rules about who we are and how we're structured. Everything else we do, including our Bylaws, must follow what's written here.
 
 ---
 
@@ -23,7 +23,7 @@ The undersigned, seeking to establish a not-for-profit corporation in accordance
 **Source:**
 The official name of the Corporation shall be **Dalhousie Regional Marina Ltd**.
 
-> **Descriptive Note:** This is our legal name. We are officially called **"Dalhousie Regional Marina Ltd."** All official documents and contracts use this name.
+> **Descriptive Note:** This is our legal identity. We are officially and formally known as **"Dalhousie Regional Marina Ltd."** This is the name we use on all legal documents, contracts, bank accounts, and government filings. It's how the world officially knows us. Sometimes in our documents we refer to ourselves as "the Corporation," which just means our organization.
 
 ---
 
@@ -40,15 +40,27 @@ The Corporation is established with the primary objective of operating and maint
 - Seeking and managing funds for facility maintenance and improvement
 - Securing all necessary permits, leases, and licenses required for operations
 
-> **Descriptive Note:** This explains why we exist—our purpose. We are here to:
-> *   Run a marina and campground for members and their guests.
-> *   Give boaters safe places for their boats.
-> *   Give campers good campsites with nice amenities.
-> *   Build community through events and activities.
-> *   Follow all government laws and rules.
-> *   Encourage volunteering and working together.
-> *   Raise money to keep our facilities in good shape.
-> *   Get all the permits and licenses we need to operate.
+> **Descriptive Note:** This is our mission statement—it explains why we exist and what we're trying to accomplish. Think of it as our "reason for being." Every activity we undertake should connect back to these goals.
+>
+> Let's break down each part:
+>
+> *   **Operating a marina and campground for members:** Our core business is running these facilities for the people who join. Everything we do serves our members and their guests.
+>
+> *   **Providing secure facilities for boats and equipment:** We give boaters a safe place to keep their boats and gear—protected from weather, theft, and damage.
+>
+> *   **Ensuring campers have well-maintained sites and amenities:** We keep campsites in good condition and provide nice extras (like washrooms, common areas, etc.) so campers enjoy their time here.
+>
+> *   **Fostering community-building activities:** We don't just provide spaces—we actively create opportunities for people to connect, like social events, gatherings, and shared experiences.
+>
+> *   **Upholding compliance with all government regulations:** We follow the law—federal, provincial, and municipal. This means getting proper permits, following safety rules, and being a good corporate citizen.
+>
+> *   **Encouraging strong community spirit through volunteers and events:** We rely on members helping out. Volunteer squads, social events, and working together on decisions are all part of building a community, not just a facility.
+>
+> *   **Seeking and managing funds for maintenance and improvement:** We actively look for money (through fees, grants, fundraising) to keep things in good repair and make improvements when needed.
+>
+> *   **Securing all necessary permits, leases, and licenses:** Before we can operate, we need official permission from various authorities. This is about making sure we have all the legal paperwork we need to exist and function.
+>
+> All of these aims work together to create a marina and campground that serves its members well while following the law and building community.
 
 ---
 
@@ -57,7 +69,7 @@ The Corporation is established with the primary objective of operating and maint
 **Source:**
 The head office of the Corporation shall be located at **111, Rock Island Rd, Dalhousie, Nouveau Brunswick E8C 2K9**. If necessary, the Executive may designate a different location for the head office.
 
-> **Descriptive Note:** This is our official mailing address. Our leaders (the Executive) can change this location if they need to.
+> **Descriptive Note:** This is our official mailing address—the place where legal documents can be delivered and where our official records are kept. It's currently at **111, Rock Island Rd, Dalhousie, NB**. This doesn't mean all our activities happen here, just that this is our official registered address. Our leaders (the Executive) have the power to change this address if they need to, for example if they find a better location for our office or if we move our operations.
 
 ---
 
@@ -81,20 +93,24 @@ The Corporation shall manage or supervise the management of its activities and a
 
 The initial Directors of the Corporation shall be identified in the filed Articles of Incorporation. Subsequent Directors will be elected during the annual general membership meeting, as provided for in the Corporation's By-Laws.
 
-> **Descriptive Note:** This section explains who runs the club. Our leaders (called the Board of Directors or the Executive) must have between 3 and 7 people. If we ever start raising significant money from the public (becoming a "soliciting corporation"), then at least two of our leaders cannot be employees of the club.
+> **Descriptive Note:** This article explains who runs the organization—our leadership structure.
 >
-> We must always have these three leaders:
-> *   **Commodore** (the chairperson)
-> *   **Treasurer** (handles the money)
-> *   **Harbour Master** (looks after the marina)
+> **Size of the Board:** We must have at least 3 leaders and no more than 7. This range ensures we have enough people to share the work but not so many that decision-making becomes difficult.
 >
-> We can also choose to have these optional roles:
-> *   Vice-Commodore
-> *   Secretary
-> *   Campground Manager
-> *   Director of Entertainment & Fundraising
+> **Soliciting Corporation Rule:** If we ever start raising significant money from the public (like through large-scale fundraising campaigns), we'd become what the law calls a "soliciting corporation." If that happens, at least two of our leaders cannot be employees of the club. This rule ensures independence and prevents conflicts of interest when we're handling public donations.
 >
-> The very first leaders were named when we filed our paperwork. After that, members elect new leaders at the Annual General Meeting, following the rules in our Bylaws.
+> **Required Positions (must always have):**
+> *   **Commodore:** The chairperson who leads meetings and represents the organization. Think of this as our president.
+> *   **Treasurer:** The person responsible for money—keeping accounts, paying bills, preparing financial reports.
+> *   **Harbour Master:** The person in charge of the marina facilities, safety, and operations.
+>
+> **Optional Positions (we can choose to have them):**
+> *   **Vice-Commodore:** Assists and fills in for the Commodore when needed.
+> *   **Secretary:** Keeps minutes, manages records, handles official communications.
+> *   **Campground Manager:** Oversees the campground operations and maintenance.
+> *   **Director of Entertainment & Fundraising:** Plans events and leads fundraising efforts.
+>
+> **How Leaders Get Their Positions:** The very first leaders were named when we first filed our paperwork to become a corporation. After that, members elect new leaders at the Annual General Meeting, following the detailed election rules in our Bylaws. This ensures democratic control—members choose who leads them.
 
 ---
 
@@ -111,9 +127,18 @@ Consists of Berth Holders, Seasonal Campers, and Dual Members. Each Voting Unit 
 
 Consists of Associate Members. These members are not entitled to vote at meetings of members, except as otherwise provided by the Act regarding fundamental changes that affect their class specifically.
 
-> **Descriptive Note:** This defines the types of members we can have:
-> *   **Voting Members:** People who rent a boat slip (Berth Holders), a campsite (Seasonal Campers), or both (Dual Members). Each family unit gets one base vote. (The Bylaws add the possibility of a bonus vote for volunteering.)
-> *   **Non-Voting Members:** Associate Members (social members without a slip or campsite). They normally cannot vote, but if there's a major change that specifically affects them, the law might give them a right to vote on that issue.
+> **Descriptive Note:** This defines the different types of membership in our organization. It's important because different members have different rights.
+>
+> **Voting Members:** These are members who get a say in how the organization is run. They include:
+> *   **Berth Holders:** People who rent a boat slip.
+> *   **Seasonal Campers:** People who rent a campsite for the season.
+> *   **Dual Members:** People who rent both a slip AND a campsite.
+>
+> Each family unit (called a "Voting Unit") gets one base vote. However, the Bylaws add an extra layer—they create a "bonus vote" system where units can earn an additional vote by volunteering. So while the Charter guarantees one vote, the Bylaws can expand on that.
+>
+> **Non-Voting Members:** These are **Associate Members**—people who are part of our community socially but don't have a slip or campsite. They don't get to vote in regular meetings. However, there's an important exception: if there's a "fundamental change" (like a major restructuring) that specifically affects their rights as a class, the law may give them the right to vote on that particular issue. This protects minority member interests.
+>
+> This two-tier system allows people to be involved at different levels while ensuring that those with the most significant investment (slip and site holders) have the primary decision-making power.
 
 ---
 
@@ -122,7 +147,18 @@ Consists of Associate Members. These members are not entitled to vote at meeting
 **Source:**
 Any amendment to the Charter or Bylaws that changes the rights or conditions of a membership class, or creates a new class with equal or superior rights, shall be considered a Fundamental Change. Such changes require approval by a Special Resolution (two-thirds majority) of the members.
 
-> **Descriptive Note:** Some changes are so important they're called "Fundamental Changes." This includes changing the rights of a member group or creating a new type of membership that has the same or better rights as existing members. Any such change needs a two-thirds majority vote of the members (a Special Resolution).
+> **Descriptive Note:** Some decisions are so important that they need more than a simple majority vote. This article identifies what counts as a "Fundamental Change" and sets a higher bar for approval.
+>
+> **What counts as Fundamental?**
+> *   Changing the rights of any membership class (for example, taking away voting rights from a group that previously had them)
+> *   Changing the conditions of a membership class (like raising fees for a specific group differently than others)
+> *   Creating a new class of membership that has equal or better rights than existing classes
+>
+> **Why this matters:** These changes could significantly affect the balance of power or the value of membership for certain groups. For example, creating a new "Premium Member" class with extra votes could dilute the voting power of existing members.
+>
+> **The Approval Required:** Any Fundamental Change needs a **Special Resolution**, which means at least two-thirds (67%) of the votes cast must be in favor. This higher threshold ensures that major changes have broad support and aren't pushed through by a slim majority.
+>
+> This protects all members by ensuring that the fundamental structure of our organization can't be changed lightly.
 
 ---
 
@@ -131,22 +167,44 @@ Any amendment to the Charter or Bylaws that changes the rights or conditions of 
 **Source:**
 The Corporation shall operate without the intention of generating profit for its members. Any profits or financial gains realized by the Corporation shall be used solely to further the Corporation's objectives.
 
-> **Descriptive Note:** We are a non-profit. This means we don't exist to make money for our members. If we do make any money (a surplus), it must be put back into the club to help us achieve our goals—like maintaining facilities, running programs, or making improvements.
+> **Descriptive Note:** This is a core principle that defines what kind of organization we are. We are a **non-profit**, which is very different from a regular business.
+>
+> **What this means:**
+> *   We don't exist to make money for our members. No one joins hoping to get a financial return on their membership.
+> *   If we collect more money in fees than we spend in a year (a surplus), that money doesn't get distributed to members like dividends in a company.
+> *   Instead, any surplus must be **reinvested in the organization** to help us achieve our goals—maintaining facilities, making improvements, running programs, building community, etc.
+>
+> **Why this matters:** This ensures that every dollar we collect stays in the community and serves our mission. It prevents anyone from using the organization for personal financial gain. It also confirms our status as a true non-profit, which may have tax and regulatory benefits.
+>
+> Think of it this way: In a for-profit business, profits go to owners. In our non-profit, "profits" go back into serving members and fulfilling our purpose.
 
 ---
 
 ## ARTICLE VIII: DISSOLUTION CLAUSE (UNALTERABLE)
 
 **Source:**
-In the event that the Corporation is dissolved or wound up, any assets remaining after all liabilities have been satisfied shall be distributed to members. Any left over assets shall be transferred to one or more qualified non-profit or charitable organizations in Canada whose purposes are similar to those of the Corporation, as determined by the Executive/Board of Directors.
+In the event of the dissolution or winding up of the Corporation, after the payment of all debts and liabilities, the remaining property and assets of the Corporation shall be distributed as follows:
 
-This provision is unalterable and ensures that the Corporation's assets remain committed to the not-for-profit sector in perpetuity.
+Step One – Payment of Debts: All known debts, liabilities, and costs of dissolution shall be paid in full.
+Step Two – Distribution to Members: The remaining assets shall be liquidated and the proceeds distributed equally among the members of the Corporation who are in good standing at the time of dissolution, in accordance with a formula established by the Executive/Board of Directors.
+Step Three – Residual to Non-Profit: Any assets or funds that cannot be distributed to members (for example, unclaimed distributions) shall be transferred to one or more qualified non-profit or charitable organizations in Canada whose purposes are similar to those of the Corporation, as determined by the Executive/Board of Directors.
 
-> **Descriptive Note:** This is a very important rule that can never be changed. It says what happens if we ever close down the club.
+This provision is unalterable and ensures that the Corporation's assets are first used to satisfy obligations, then returned to the members, and finally, any residual assets remain committed to the not-for-profit sector in perpetuity.
+
+> **Descriptive Note:** This is one of the most important clauses in our entire Charter, and it has a special feature: it **can never be changed**. No vote, no resolution, no decision can ever alter this clause. It's permanent.
 >
-> First, we pay off all our debts. Then, any remaining money or property must be given to other Canadian non-profit or charitable organizations that have similar goals to ours (like other marinas or community clubs). This ensures that our assets stay in the non-profit community forever.
+> **What it covers:** This clause tells us what happens if we ever close down the organization (called "dissolution" or "winding up").
 >
-> The fact that this clause is **unalterable** means no one can ever vote to change it.
+> **The Three-Step Process:**
+> 1.  **Step One – Pay all debts:** First, we use our assets to pay off anyone we owe money to—creditors, suppliers, loans, etc. This ensures we leave no unpaid obligations. All known debts, liabilities, and the costs of shutting down are paid in full.
+>
+> 2.  **Step Two – Distribute to members:** After all debts are paid, any remaining assets are converted to cash (liquidated) and distributed among members who are in good standing at the time of dissolution. The distribution is equal among eligible members, following a formula that the Executive will determine. This might mean equal shares per member, or it could be based on length of membership or other fair criteria. This step recognizes that the members have built the organization's value over time and should share in what remains after debts are paid.
+>
+> 3.  **Step Three – Residual to non-profits:** If any assets can't be distributed to members (for example, if a member has died and no one claims their share, or a member can't be located), those remaining funds go to other Canadian non-profit or charitable organizations with purposes similar to ours—like other marinas, community boating clubs, or campground associations. The Executive decides which organizations receive these residual assets.
+>
+> **Why "unalterable"?** This clause ensures a clear, fair, and permanent process if we ever dissolve. It follows a logical order: first satisfy our obligations, then return value to the members who built the organization, and finally ensure that any unclaimed assets stay in the non-profit community to continue serving purposes similar to ours. Because it's unalterable, no future leadership or membership could change this fundamental promise about how our assets would be handled.
+>
+> **In plain terms:** If we ever close down, we first pay all our bills. Then whatever's left is shared equally among the members who are in good standing at that time. If any of that can't be given to members (because they can't be found), it goes to other non-profits doing similar work. This three-step process is permanent and can never be changed.
 
 ---
 
@@ -161,9 +219,25 @@ Members of the Corporation shall have the authority to enact, repeal, and amend 
 
 All By-Laws shall be legally subordinate to this Charter.
 
-> **Descriptive Note:** This gives members the power to create and change the detailed rules (Bylaws) that govern how we run things day-to-day. These rules cover things like membership conditions, how meetings work, and what leaders are supposed to do.
+> **Descriptive Note:** This article gives members the power to create and change the detailed rules that govern our day-to-day operations—our Bylaws. It also explains the relationship between the Charter and the Bylaws.
 >
-> However, any Bylaw we make must not conflict with this Charter or with provincial law. The Charter is the higher-level document—the Bylaws must always follow what the Charter says.
+> **Member Authority:** Members have the right to make, change, or remove Bylaws. This ensures democratic control—the people who belong to the organization get to decide the rules by which it runs.
+>
+> **The Limit on Bylaws:** Any Bylaw we create must not conflict with:
+> *   This Charter (our constitution)
+> *   The laws of New Brunswick (provincial law)
+>
+> If a Bylaw tries to do something the Charter forbids, the Charter wins. The Bylaw would be invalid.
+>
+> **What Bylaws Cover:** Bylaws are the detailed operating manual. They include things like:
+> *   **Membership conditions:** Exactly how to become a member, what membership costs, how to lose membership, etc.
+> *   **Meeting procedures:** How meetings are called, how voting works, what counts as a quorum, etc.
+> *   **Duties of the Executive:** Detailed responsibilities for each leadership position.
+> *   Many other operational details not spelled out in the Charter.
+>
+> **Hierarchy:** The Charter is the supreme document—it's our constitution. The Bylaws are subordinate, meaning they must follow and comply with the Charter. Think of it like this: the Charter sets the boundaries of the playground, and the Bylaws are the detailed rules for playing within those boundaries.
+>
+> This structure gives us flexibility—we can change our operating rules (Bylaws) as circumstances change, without having to amend our constitution (Charter) every time. But the Charter ensures our fundamental character and principles remain protected.
 
 ---
 
