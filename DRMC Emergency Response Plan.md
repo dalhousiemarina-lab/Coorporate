@@ -72,34 +72,21 @@ All members, guests, volunteers, contractors, and staff are expected to familiar
 ## 5. Emergency Communication Tree
 
 In the event of an emergency, the following communication protocol ensures that key personnel are notified promptly:
-Person discovering emergency calls 911 (if required)
 
-Person discovering emergency notifies:
-
-Harbour Master (if marina-related)
-
-Campground Manager (if campground-related)
-
-Office (if during business hours)
-
-Harbour Master / Campground Manager notifies:
-
-Commodore
-
-Treasurer
-
-Secretary
-
-Executive coordinates:
-
-Member notifications (if needed)
-
-Media inquiries (Commodore or designate)
-
-Insurance claims (Treasurer)
-
-Follow-up reporting
-
+1. Person discovering emergency calls 911 (if required)
+1. Person discovering emergency notifies:
+- Harbour Master (if marina-related)
+- Campground Manager (if campground-related)
+- Office (if during business hours)
+1. Harbour Master / Campground Manager notifies:
+- Commodore
+- Treasurer
+- Secretary
+1. Executive coordinates:
+- Member notifications (if needed)
+- Media inquiries (Commodore or designate)
+- Insurance claims (Treasurer)
+- Follow-up reporting
 
 For after-hours emergencies, the on‑duty contact (if applicable) shall be notified first.
 
