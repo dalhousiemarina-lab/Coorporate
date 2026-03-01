@@ -332,9 +332,10 @@ The meeting format may be in person, web conference, or hybrid, as determined by
 A Spring General Meeting shall be held in April of each year, with the format determined by the Executive. 
 The order of business at the Spring General Meeting shall include the following:
 - Call to Order and Approval of Previous Minutes: Opening of the meeting and approval of minutes from the previous meeting.
-- Budget Presentation: Presentation and approval of the annual operating budget for the upcoming fiscal year by the Treasurer.
 - Project Voting: Presentation and vote on any proposed projects requiring membership approval (in accordance with Articles IX and X).
+- Budget Presentation: Presentation and approval of the annual operating budget for the upcoming fiscal year by the Treasurer.
 - Special Committees Plan: Presentation of plans and objectives by special committees for the upcoming season.
+- Seasons What's new: Any changes to the upcoming season (Insurance, Hours, Services).
 - Governance Voting: Discussion and voting on any proposed amendments to the By-Laws or Corporate documents, if applicable.
 - Other Business: Any other matter brought before the meeting in accordance with the agenda.
 
