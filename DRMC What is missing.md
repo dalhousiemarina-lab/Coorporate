@@ -20,7 +20,6 @@ Your current documentation is exceptionally strong on **governance structure** (
 
 ---
 
-
 ## Detailed Descriptions of Missing Documents
 
 The following section provides a comprehensive breakdown of each missing document, including its purpose, key components, and how it integrates with the existing governance framework.
@@ -150,6 +149,139 @@ The following section provides a comprehensive breakdown of each missing documen
 
 **Value:** Enhances physical security of the clubhouse, dry storage, and dock facilities, protecting assets and members.
 
+---
+
+## Additional Missing Documents for Full Resilience
+
+Beyond the eight core documents identified above, a fully mature organization should also consider developing the following policies to address financial controls, operational consistency, risk management, and legal compliance.
+
+### 9. Procurement Policy
+
+**Purpose:** Establish a transparent, fair process for acquiring goods and services, ensuring value for money and avoiding conflicts of interest.
+
+**Why It's Missing:** Current documents set spending limits (Bylaws XII.7) and require vendor comparison in project templates, but no overarching policy governs non‑project purchases or operational procurement.
+
+**Key Content:**
+- Thresholds for quotes (e.g., three quotes for >$1,000).
+- Approval levels (Executive vs. membership).
+- Rules for sole‑source justifications.
+- Conflict of interest disclosure for vendors.
+
+**Value:** Ensures responsible use of club funds, prevents favoritism, and provides clear guidance to those making purchases.
+
+---
+
+### 10. Expense Reimbursement Policy
+
+**Purpose:** Clarify what expenses (e.g., mileage, supplies, training) are reimbursable for directors, volunteers, and staff, and the process for claiming them.
+
+**Why It's Missing:** The Director Agreement states “no compensation” but does not address out‑of‑pocket expenses; members may be discouraged from spending on behalf of the club without clear reimbursement rules.
+
+**Key Content:**
+- Eligible expenses (receipts required).
+- Approval process (e.g., by Treasurer).
+- Timelines for submission and payment.
+- Prohibited expenses.
+
+**Value:** Encourages volunteers to make necessary purchases without personal financial burden, while maintaining accountability.
+
+---
+
+### 11. Waiting List Management Procedure
+
+**Purpose:** Define how the waiting list is maintained, how vacancies are offered, and the timeline for acceptance/refusal.
+
+**Why It's Missing:** Bylaws mention waiting lists (VI.8, VII.3) but provide no operational detail; inconsistent handling could lead to disputes.
+
+**Key Content:**
+- Order of application (date/time stamp).
+- Communication method (email, phone).
+- Offer duration (e.g., 7 days to respond).
+- Process for declining or removing names.
+
+**Value:** Ensures fair and transparent allocation of slips and sites, reducing conflict and building trust.
+
+---
+
+### 12. Insurance Management Policy
+
+**Purpose:** Outline the corporation’s approach to obtaining and maintaining appropriate insurance coverage (property, liability, D&O, etc.) and handling claims.
+
+**Why It's Missing:** Bylaws require D&O insurance (XVIII.3) and member insurance, but no policy guides the board on periodic review, broker relationships, or coverage limits.
+
+**Key Content:**
+- Types of insurance required.
+- Annual review process.
+- Role of Treasurer or designate.
+- Claims reporting procedure.
+
+**Value:** Ensures adequate coverage at competitive rates, and provides a clear process for managing claims.
+
+---
+
+### 13. Incident Reporting Procedure
+
+**Purpose:** Ensure all accidents, near‑misses, property damage, and safety concerns are consistently documented, investigated, and addressed.
+
+**Why It's Missing:** Code of Conduct requires reporting incidents (Section 1.2), but no formal procedure exists to capture, track, and learn from them.
+
+**Key Content:**
+- Who to report to (Harbour Master, office).
+- Incident form template.
+- Timeline for investigation.
+- Use of data for risk reduction.
+
+**Value:** Improves safety, reduces liability, and creates a culture of continuous improvement.
+
+---
+
+### 14. Member Communication Policy
+
+**Purpose:** Standardize how official information is disseminated (email, website, social media, notice boards) to ensure consistency and reach.
+
+**Why It's Missing:** Bylaws mandate meeting notices but do not address day‑to‑day communications; multiple channels may lead to mixed messages.
+
+**Key Content:**
+- Primary channels (e.g., email blasts, member portal).
+- Frequency of updates.
+- Social media guidelines for official posts.
+- Protocol for urgent messages.
+
+**Value:** Ensures members receive timely, accurate information and reduces confusion.
+
+---
+
+### 15. Alcohol Service Guidelines
+
+**Purpose:** Provide detailed rules for events where alcohol is served, beyond mere permit acquisition.
+
+**Why It's Missing:** Activity Proposal Template asks about liquor permits and SOP attachment, but a standalone policy ensures consistency across all events.
+
+**Key Content:**
+- Server training requirements (e.g., Smart Serve).
+- Limits on consumption (e.g., no self‑serve).
+- Liability and insurance considerations.
+- Enforcement of intoxication rules.
+
+**Value:** Reduces risk of alcohol‑related incidents and ensures compliance with provincial regulations.
+
+---
+
+### 16. Volunteer Screening Policy
+
+**Purpose:** Protect the club and its members by establishing appropriate background checks for volunteers in sensitive roles (e.g., working with children, handling funds).
+
+**Why It's Missing:** Not currently required, but as the club grows, some volunteer positions may involve vulnerable populations or financial responsibilities.
+
+**Key Content:**
+- Roles requiring screening.
+- Type of check (criminal record, vulnerable sector).
+- Confidentiality of results.
+- Frequency of re‑screening.
+
+**Value:** Mitigates risk, protects vulnerable individuals, and maintains community trust.
+
+---
 
 ## Document Relationships: What's Missing
 
@@ -181,5 +313,3 @@ graph TD
     %% Styling for missing docs
     classDef missing fill:#ffcccc,stroke:#ff0000,stroke-width:2px;
     class SOPs,Reserves,Retention,Privacy,VolunteerPD,Emergency,Grievance,Access missing;
-	
-	
