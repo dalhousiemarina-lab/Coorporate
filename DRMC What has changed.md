@@ -92,9 +92,3 @@ The 2025 Bylaws were a short, high-level document that left many critical aspect
 
 ---
 
-## Next Steps for Members
-
-1.  **Review the Key Documents:** Familiarize yourself with the new **Bylaws**, **Code of Conduct**, and the **Membership & Voting Summary**.
-2.  **Designate Your Voter(s):** Ensure the Secretary has the name of your Unit's Primary and (optional) Secondary Voter.
-3.  **Track Your Hours:** If you volunteer, make sure your hours are logged in the Volunteer Registry to earn your Unit's Bonus Vote.
-4.  **Attend Meetings:** Participate in the Spring GM, Seasonal Updates, and AGM to stay informed and have your voice heard.
