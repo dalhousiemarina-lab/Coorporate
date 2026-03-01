@@ -20,7 +20,7 @@ Your current documentation is exceptionally strong on **governance structure** (
 
 ---
 
-Descriptive
+
 ## Detailed Descriptions of Missing Documents
 
 The following section provides a comprehensive breakdown of each missing document, including its purpose, key components, and how it integrates with the existing governance framework.
