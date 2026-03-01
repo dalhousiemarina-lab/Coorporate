@@ -256,17 +256,25 @@ Lifetime members shall enjoy the following rights:
 - Full voting rights as a Voting Unit, subject to the two-vote maximum in Article IV.
 - Access to all Corporation facilities and participation in activities, subject to applicable usage fees (e.g., boat slip fees based on vessel length, campsite fees at the seasonal fixed rate, etc.) and compliance with all rules and regulations.
 
-**VI.7.3 No New Lifetime Memberships**
-After the effective date of this section, no new lifetime memberships shall be granted unless approved by a two-thirds (2/3) majority vote of the membership at a General Meeting.
-
-**VI.7.4 Non-Transferability**
+**VI.7.3 Non-Transferability**
 Lifetime memberships are personal to the individual member and are not transferable to any other person, including family members, except as provided in Article VII for transfers upon death to a surviving spouse who was part of the same Voting Unit.
 
-**VI.7.5 Revocation**
+**VI.7.4 Revocation**
 A lifetime membership may be revoked only in accordance with Article V (Suspension of Membership) for cause, or if the member resigns in writing. Upon revocation or resignation, all rights cease and no refund of any kind shall be provided.
 
-**VI.7.6 Record Keeping**
+**VI.7.5 Record Keeping**
 The Secretary shall maintain a register of all lifetime members, which shall be included in the corporate records.
+
+### VI.8 New Memberships and Initiation Fee
+
+**VI.8.1 Availability of New Memberships**
+New memberships shall be granted only when an assigned slip (for Berth Holders) or campsite (for Seasonal Campers) becomes available. The Corporation shall maintain a waiting list of applicants in the order of application received, and vacancies shall be offered to the next qualified applicant on the waiting list.
+
+**VI.8.2 One-Time Initiation Fee**
+All new members admitted to the Corporation shall pay a one-time, non-refundable initiation fee in addition to the applicable annual seasonal fees. The amount of the initiation fee shall be established annually by the Executive and presented to the membership for information at the Annual General Meeting.
+
+**VI.8.3 Exceptions**
+Transfers of membership rights under Article VII are not subject to the initiation fee. The initiation fee does not apply to Associate Members unless otherwise determined by the Executive.
 
 ---
 
