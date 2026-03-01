@@ -41,7 +41,7 @@ The following section provides a comprehensive breakdown of each missing documen
 
 ---
 
-### 2. Reserves & Investment Policy
+### 2. Reserves & Investment Policy (Work In Progress)
 
 **Purpose:** To establish clear guidelines for the accumulation, management, and expenditure of capital funds and operating reserves.
 
@@ -56,7 +56,7 @@ The following section provides a comprehensive breakdown of each missing documen
 
 ---
 
-### 3. Document Retention Policy
+### 3. Document Retention Policy (Work In progress)
 
 **Purpose:** To define how long different types of records (financial, legal, membership) must be kept and the process for secure disposal.
 
@@ -71,7 +71,7 @@ The following section provides a comprehensive breakdown of each missing documen
 
 ---
 
-### 4. Privacy Policy (PIPEDA Compliance)
+### 4. Privacy Policy (PIPEDA Compliance) (Work In progress)
 
 **Purpose:** To outline how the club collects, uses, discloses, and protects personal information of members, volunteers, and contractors.
 
@@ -103,7 +103,7 @@ The following section provides a comprehensive breakdown of each missing documen
 
 ---
 
-### 6. Emergency Response Plan
+### 6. Emergency Response Plan (Work In progress)
 
 **Purpose:** To provide a detailed, actionable plan for responding to various crises, ensuring the safety of members and property.
 
@@ -203,7 +203,7 @@ Beyond the eight core documents identified above, a fully mature organization sh
 
 ---
 
-### 12. Insurance Management Policy
+### 12. Insurance Management Policy (Work in Progress)
 
 **Purpose:** Outline the corporation’s approach to obtaining and maintaining appropriate insurance coverage (property, liability, D&O, etc.) and handling claims.
 
