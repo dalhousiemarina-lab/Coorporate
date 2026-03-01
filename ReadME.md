@@ -31,9 +31,17 @@ Ready‑to‑use templates for club activities.
 - **[DRMC Activity Proposal & Execution Template.md](./DRMC%20Activity%20Proposal%20&%20Execution%20Template.md)** – Plan and document events or workshops.
 - **[DRMC Project Proposal Template.md](./DRMC%20Project%20Proposal%20Template.md)** – Outline new projects for the club.
 
+### 📚 Descriptive Summaries
+For members who prefer a plain‑language overview of our official documents, we maintain a separate **[`WithDescription/`](./WithDescription)** directory. Inside you will find simplified explanations of each governing text, making them easier to digest before reading the full legal versions.
+
+For example:
+- **[Bylaws Summary](./WithDescription/BYLaw.md)** – A reader‑friendly walkthrough of the DRMC Bylaws.
+
+We encourage everyone to start here if you are new to the club or just need a quick refresher.
+
 ## 🚀 How to Use This Repository
 
-- **For new members:** Start by reading the [Charter](./DRMC%20Charter%202026.md), [Bylaws](./DRMC%20Bylaws%202026%20–%20Version%203.0.md), and [Code of Conduct](./DRMC%20Code%20of%20Conduct%20&%20Facility%20Regulations.md) to understand our community.
+- **For new members:** Start by reading the [Charter](./DRMC%20Charter%202026.md), [Bylaws](./DRMC%20Bylaws%202026%20–%20Version%203.0.md), and [Code of Conduct](./DRMC%20Code%20of%20Conduct%20&%20Facility%20Regulations.md) to understand our community. If you want an overview first, check the [Descriptive Summaries](#-descriptive-summaries) section.
 - **When submitting a proposal:** Use the appropriate template from the `/templates` section.
 - **To find a specific policy:** Browse the file list or use the search bar in GitHub.
 
