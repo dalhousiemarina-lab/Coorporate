@@ -10,6 +10,10 @@ This repository ensures that all members have transparent, up‑to‑date access
 
 The documents are grouped into the following categories:
 
+### 📘 Getting Started
+New to DRMC? Start here.
+- **[DRMC Where to start.md](./DRMC%20Where%20to%20start.md)** – A beginner's guide to navigating our documents and understanding where to begin.
+
 ### 📜 Governing Documents
 These are the foundational texts of the DRMC.
 - **[DRMC Charter 2026.md](./DRMC%20Charter%202026.md)** – Our mission, vision, and core principles.
@@ -49,6 +53,12 @@ Past documents and summaries of changes.
 
 For a quick overview of what each document does and how they connect, use the guide below.
 
+### Getting Started
+
+| Document | Purpose | Who It's For | Relationship to Others |
+|----------|---------|--------------|------------------------|
+| **[DRMC Where to start.md](./DRMC%20Where%20to%20start.md)** | A beginner's guide that maps out the reading order and explains which documents are essential for new members, event organizers, project leads, and directors. | Everyone, especially new members. | **Orienteering tool:** Helps you navigate all other documents. Points you to the right document based on your role. |
+
 ### The Foundation *(Read This First)*
 
 | Document | Purpose | Who It's For | Relationship to Others |
@@ -87,7 +97,7 @@ For a quick overview of what each document does and how they connect, use the gu
 
 ## 🚀 How to Use This Repository
 
-- **For new members:** Begin with the [Document-by-Document Breakdown](#-document-by-document-breakdown) to get the big picture. Then read the [Charter](./DRMC%20Charter%202026.md), [Bylaws](./DRMC%20Bylaws%202026.md), and [Code of Conduct](./DRMC%20Code%20of%20Conduct%20&%20Facility%20Regulations.md). If you want an even simpler start, check the [With Description Documents](#-with-description-documents).
+- **For new members:** Begin with the [Getting Started](#-getting-started) guide and the [Document-by-Document Breakdown](#-document-by-document-breakdown) to get the big picture. Then read the [Charter](./DRMC%20Charter%202026.md), [Bylaws](./DRMC%20Bylaws%202026.md), and [Code of Conduct](./DRMC%20Code%20of%20Conduct%20&%20Facility%20Regulations.md). If you want an even simpler start, check the [With Description Documents](#-with-description-documents).
 - **When submitting a proposal:** Use the appropriate template from the `/templates` section.
 - **To find a specific policy:** Browse the file list or use the search bar in GitHub.
 
