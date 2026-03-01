@@ -101,7 +101,6 @@ This Code applies to all individuals present on the property, including members,
 - Assigned sites must be kept free of non-marine debris, unsightly storage, and overgrown vegetation.
 - No permanent decks, sheds, or fences may be erected without a Board-approved permit.
 - **Boat and boat trailers must not be parked on your campsite.** Use designated storage areas.
-- Alcohol consumption is restricted to individual campsite areas and is not permitted in common areas.
 
 **4.03 Vehicle & Golf Cart Use:**
 - Obey all posted speed limits (**MAX 10 km/h**). Drive with caution at all times.
