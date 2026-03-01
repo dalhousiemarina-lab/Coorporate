@@ -35,9 +35,8 @@ Ready‑to‑use templates for club activities.
 
 ### 📜 With Description Documents
 For members who prefer a plain‑language overview of our official documents, we maintain a separate **[`WithDescription/`](./WithDescription)** directory. Inside you will find simplified explanations of each governing text, making them easier to digest before reading the full legal versions.
-- **[DRMC Charter 2026.md](./WithDescription/DRMC%20Charter%202026.md)** – Our mission, vision, and core principles.
+- **[DRMC Charter 2026.md](./WithDescription/DRMC%20Charter%202026%20with%20descriptive.md)** – Our mission, vision, and core principles.
 - **[DRMC Bylaws 2026.md](.WithDescriptiosn/DRMC%20Bylaws%202026%20with%20descriptive.md)** – The official rules and operating procedures.
-- **[DRMC Code of Conduct & Facility Regulations.md](./WithDescription/DRMC%20Code%20of%20Conduct%20&%20Facility%20Regulations.md)** – Expected behaviour and rules for using the space.
 
 
 ## 🚀 How to Use This Repository
