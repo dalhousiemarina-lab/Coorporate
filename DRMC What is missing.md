@@ -195,7 +195,8 @@ https://github.com/dalhousiemarina-lab/Coorporate/blob/main/Policy/DRMC%20Expens
 
 ---
 
-### 11. Waiting List Management Procedure
+### 11. Waiting List Management Procedure (Work In progress)
+https://github.com/dalhousiemarina-lab/Coorporate/blob/main/Procedure/DRMC%20Waiting%20List%20Management%20Procedure.md
 
 **Purpose:** Define how the waiting list is maintained, how vacancies are offered, and the timeline for acceptance/refusal.
 
