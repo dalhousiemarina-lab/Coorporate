@@ -119,7 +119,7 @@ The following section provides a comprehensive breakdown of each missing documen
 
 ---
 
-### 7. Grievance Procedure
+### 7. Grievance Procedure (work in Progress)
 
 **Purpose:** To establish a formal, fair, and confidential process for resolving disputes between members, or between members and the board.
 
@@ -155,7 +155,7 @@ The following section provides a comprehensive breakdown of each missing documen
 
 Beyond the eight core documents identified above, a fully mature organization should also consider developing the following policies to address financial controls, operational consistency, risk management, and legal compliance.
 
-### 9. Procurement Policy
+### 9. Procurement Policy (Work In Progress)
 
 **Purpose:** Establish a transparent, fair process for acquiring goods and services, ensuring value for money and avoiding conflicts of interest.
 
