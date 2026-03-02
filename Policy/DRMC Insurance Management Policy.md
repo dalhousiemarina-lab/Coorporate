@@ -97,7 +97,7 @@ Based on the 2026 insurance audit and recommendations, DRMC shall maintain the f
 
 ### 5.1 Annual Review
 
-The Treasurer, in consultation with the Executive, shall review all insurance policies annually, at least 60 days before renewal. The review shall assess:
+The Executive shall review all insurance policies annually, at least 60 days before renewal. The review shall assess:
 
 - Adequacy of coverage limits based on current legal requirements and asset valuations.
 - Competitiveness of premiums (obtain at least two quotes every three years, unless circumstances warrant more frequent bidding).
