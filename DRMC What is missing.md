@@ -26,7 +26,8 @@ The following section provides a comprehensive breakdown of each missing documen
 
 ---
 
-### 1. Standing Operating Procedures (SOPs)
+### 1. Standing Operating Procedures (SOPs) (Work In Progress)
+https://github.com/dalhousiemarina-lab/Coorporate/blob/main/SOG/DRMC%20Standing%20Operating%20Procedures%20(SOPs).md
 
 **Purpose:** To standardize the day-to-day execution of duties for specific officer roles (e.g., Harbour Master, Treasurer, Secretary) and recurring tasks.
 
