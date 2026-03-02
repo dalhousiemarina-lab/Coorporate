@@ -119,7 +119,7 @@ The following section provides a comprehensive breakdown of each missing documen
 
 ---
 
-### 7. Grievance Procedure (work in Progress)
+### 7. Grievance Procedure (Work in Progress)
 
 **Purpose:** To establish a formal, fair, and confidential process for resolving disputes between members, or between members and the board.
 
@@ -171,7 +171,7 @@ Beyond the eight core documents identified above, a fully mature organization sh
 
 ---
 
-### 10. Expense Reimbursement Policy
+### 10. Expense Reimbursement Policy (Work In Progress)
 
 **Purpose:** Clarify what expenses (e.g., mileage, supplies, training) are reimbursable for directors, volunteers, and staff, and the process for claiming them.
 
