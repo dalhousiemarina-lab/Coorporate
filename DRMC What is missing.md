@@ -42,6 +42,7 @@ The following section provides a comprehensive breakdown of each missing documen
 ---
 
 ### 2. Reserves & Investment Policy (Work In Progress)
+https://github.com/dalhousiemarina-lab/Coorporate/blob/main/Policy/DRMC%20Reserves%20%26%20Investment%20Policy.md
 
 **Purpose:** To establish clear guidelines for the accumulation, management, and expenditure of capital funds and operating reserves.
 
@@ -57,6 +58,7 @@ The following section provides a comprehensive breakdown of each missing documen
 ---
 
 ### 3. Document Retention Policy (Work In progress)
+https://github.com/dalhousiemarina-lab/Coorporate/blob/main/Policy/DRMC%20Document%20Retention%20Policy.md
 
 **Purpose:** To define how long different types of records (financial, legal, membership) must be kept and the process for secure disposal.
 
@@ -72,6 +74,7 @@ The following section provides a comprehensive breakdown of each missing documen
 ---
 
 ### 4. Privacy Policy (PIPEDA Compliance) (Work In progress)
+https://github.com/dalhousiemarina-lab/Coorporate/blob/main/Policy/DRMC%20Privacy%20Policy%20(PIPEDA%20Compliance).md
 
 **Purpose:** To outline how the club collects, uses, discloses, and protects personal information of members, volunteers, and contractors.
 
@@ -104,6 +107,7 @@ The following section provides a comprehensive breakdown of each missing documen
 ---
 
 ### 6. Emergency Response Plan (Work In progress)
+https://github.com/dalhousiemarina-lab/Coorporate/blob/main/DRMC%20Emergency%20Response%20Plan.md
 
 **Purpose:** To provide a detailed, actionable plan for responding to various crises, ensuring the safety of members and property.
 
@@ -120,6 +124,7 @@ The following section provides a comprehensive breakdown of each missing documen
 ---
 
 ### 7. Grievance Procedure (Work in Progress)
+https://github.com/dalhousiemarina-lab/Coorporate/blob/main/Procedure/DRMC%20Grievance%20Procedure.md
 
 **Purpose:** To establish a formal, fair, and confidential process for resolving disputes between members, or between members and the board.
 
@@ -156,6 +161,7 @@ The following section provides a comprehensive breakdown of each missing documen
 Beyond the eight core documents identified above, a fully mature organization should also consider developing the following policies to address financial controls, operational consistency, risk management, and legal compliance.
 
 ### 9. Procurement Policy (Work In Progress)
+https://github.com/dalhousiemarina-lab/Coorporate/blob/main/Policy/DRMC%20Procurement%20Policy.md
 
 **Purpose:** Establish a transparent, fair process for acquiring goods and services, ensuring value for money and avoiding conflicts of interest.
 
@@ -172,6 +178,7 @@ Beyond the eight core documents identified above, a fully mature organization sh
 ---
 
 ### 10. Expense Reimbursement Policy (Work In Progress)
+https://github.com/dalhousiemarina-lab/Coorporate/blob/main/Policy/DRMC%20Expense%20Reimbursement%20Policy.md
 
 **Purpose:** Clarify what expenses (e.g., mileage, supplies, training) are reimbursable for directors, volunteers, and staff, and the process for claiming them.
 
@@ -204,6 +211,7 @@ Beyond the eight core documents identified above, a fully mature organization sh
 ---
 
 ### 12. Insurance Management Policy (Work in Progress)
+https://github.com/dalhousiemarina-lab/Coorporate/blob/main/Policy/DRMC%20Insurance%20Management%20Policy.md
 
 **Purpose:** Outline the corporation’s approach to obtaining and maintaining appropriate insurance coverage (property, liability, D&O, etc.) and handling claims.
 

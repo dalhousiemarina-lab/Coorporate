@@ -1,6 +1,6 @@
 # DRMC Official Documents
 
-Welcome to the official governance repository of the **Dalhousie Regional marina (DRMC)**. This repository stores all governing documents, policies, agreements, and templates that define and guide our community.
+Welcome to the official governance repository of the **Dalhousie Regional Marina (DRMC)**. This repository stores all governing documents, policies, agreements, and templates that define and guide our community.
 
 ## 📋 Purpose
 
@@ -27,7 +27,7 @@ Legal and binding documents for members and directors.
 
 ### 🧾 Policies & Procedures
 Detailed rules and summaries.
-- **[DRMC Executive & Nomination Protocole.md](./DRMC%20Executive%20&%20Nomination%20Protocole.md)** – Procedures for electing executives and nominations.
+- **[DRMC Executive & Nomination Protocol.md](./DRMC%20Executive%20&%20Nomination%20Protocol.md)** – Procedures for electing executives and nominations.
 - **[DRMC Membership & Access Classifications Summary.md](./DRMC%20Membership%20&%20Access%20Classifications%20Summary.md)** – Overview of membership tiers and access rights.
 
 ### 📝 Templates
@@ -86,7 +86,7 @@ For a quick overview of what each document does and how they connect, use the gu
 | Document | Purpose | Who It's For | Relationship to Others |
 |----------|---------|--------------|------------------------|
 | **[DRMC Director Agreement & Consent to Act.md](./DRMC%20Director%20Agreement%20&%20Consent%20to%20Act.md)** | A legal contract between the Corporation and each Director. It formalizes their fiduciary duties, commitment to the 4% rule, confidentiality, and transition obligations. | Every member of the Executive/Board of Directors. | **Enforces:** Bylaws and the NFP Act. A signed copy is a legal requirement to act as a director. |
-| **[DRMC Membership & Facility Use Agreement.md](./DRMC%20Membership%20&%20Facility%20Use%20Agreement.md)** | A legal contract between the Corporation and each member (Voting Unit). It grants the revocable license to use a slip/site, outlines fees, and includes the waiver of liability and indemnification clauses. | Every Member. | **Incorporates by reference:** The Bylaws and the Code of Conduct. Your signature makes you subject to all the rules. |
+| **[DRMC Membership & Facility Use Agreement.md](./DRMC%20membership%20&%20Facility%20use%20Agreement.md)** | A legal contract between the Corporation and each member (Voting Unit). It grants the revocable license to use a slip/site, outlines fees, and includes the waiver of liability and indemnification clauses. | Every Member. | **Incorporates by reference:** The Bylaws and the Code of Conduct. Your signature makes you subject to all the rules. |
 
 ### Historical & Reference
 
@@ -94,6 +94,20 @@ For a quick overview of what each document does and how they connect, use the gu
 |----------|---------|--------------|
 | **[DRMC What has changed.md](./DRMC%20What%20has%20changed.md)** | A detailed summary of the differences between the 2025 and 2026 frameworks. | Everyone. A great place to start to understand the "why" behind the new system. |
 | **BY-LAWS 2025.doc** | The old, now-replaced bylaws. | For historical reference only. It's useful to compare and understand how far we've come. |
+
+---
+
+## 🔍 What's Missing? (Our Governance Roadmap)
+
+Our current documentation is exceptionally strong on **governance structure** (Bylaws, Charter, Code of Conduct). However, to build a fully resilient organization, we have identified several key gaps in **operational continuity, financial controls, and human resources**.
+
+For a complete list and detailed descriptions of the documents we plan to develop next—including Standing Operating Procedures, a Reserves Policy, a Privacy Policy (PIPEDA), and an Emergency Response Plan—please see the dedicated file:
+
+👉 **[DRMC What is missing.md](./DRMC%20What%20is%20missing.md)**
+
+This roadmap document outlines every identified gap, explains why it matters, and shows how each missing piece connects to our existing Bylaws. We encourage members to review it and contribute to filling these gaps.
+
+---
 
 ## 🚀 How to Use This Repository
 
