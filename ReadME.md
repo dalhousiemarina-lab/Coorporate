@@ -1,6 +1,6 @@
 # DRMC Official Documents
 
-Welcome to the official repository of the **Dalhousie Research & Makerspace Club (DRMC)**. This repository stores all governing documents, policies, agreements, and templates that define and guide our community.
+Welcome to the official governance repository of the **Dalhousie Regional marina (DRMC)**. This repository stores all governing documents, policies, agreements, and templates that define and guide our community.
 
 ## 📋 Purpose
 
