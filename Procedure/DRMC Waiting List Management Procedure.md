@@ -1,256 +1,167 @@
-# DRMC Grievance Procedure
+# DRMC Waiting List Management Procedure
 
-| | |
-|---|---|
-| **Document Version:** | 1.0 |
-| **Effective Date:** | March 2026 |
-| **Approved By:** | Executive |
-| **Next Review:** | March 2027 |
+**Document Version:** 1.0 (Draft) – March 2026  
+**Status:** Work in Progress – Not yet approved by the Executive  
+**Effective Date:** [To be determined upon approval]  
+**Review Cycle:** Annually (or as needed)
 
 ---
 
 ## 1. Purpose
 
-The purpose of this Grievance Procedure is to establish a formal, fair, and confidential process for resolving disputes, complaints, and concerns involving members of Dalhousie Regional Marina Ltd. (DRMC). This procedure ensures that all parties have an opportunity to be heard, that grievances are addressed in a timely manner, and that the Corporation's community standards are upheld. It also fulfills the need identified in the Code of Conduct (Section 9) for a defined mechanism to address violations and interpersonal conflicts.
+The purpose of this procedure is to establish a fair, consistent, and transparent process for managing waiting lists for moorage (slips and sites) at the Dalhousie Regional Marina Club (DRMC). This procedure ensures that all members are treated equitably, that vacancies are offered in a clear and timely manner, and that the club maintains accurate records to reduce conflict and build trust.
+
+This document is governed by the DRMC Bylaws (Articles VI.8 and VII.3) and supplements the duties of the Harbour Master as outlined in the Standing Operating Procedures (SOPs).
 
 ---
 
-## 2. Scope
+## 2. Definitions
+
+- **Waiting List:** A sequential list of Voting Units who have applied for and are awaiting the assignment of a specific type of moorage (e.g., wet slip, dry storage, seasonal site).
+- **Voting Unit:** A membership as defined in the Bylaws (Article IV), entitled to one moorage assignment.
+- **Offer:** A formal communication from the Harbour Master to a member on the waiting list, offering a specific vacant slip or site.
+- **Offer Period:** The time allowed for a member to accept or decline an offer (7 calendar days, unless otherwise specified in this procedure).
+- **Moorage Type:** The category of moorage applied for, defined by size, location, and amenities (e.g., 30′ wet slip, 40′ dry storage).
+
+---
+
+## 3. Scope
 
 This procedure applies to:
-
-- Disputes between members.
-- Complaints by a member against another member.
-- Complaints by a member against the Executive or a volunteer.
-- Complaints by the Executive against a member.
-- Complaints regarding violations of the Code of Conduct, Bylaws, or other Corporation policies.
-
-This procedure does not apply to:
-
-- Employment‑related grievances (if the Corporation has employees, a separate process will apply).
-- Matters already covered by a specific appeal process in the Bylaws (e.g., termination of membership under Article V).
-- Emergency situations requiring immediate action (e.g., safety threats) – these shall be addressed under the Emergency Response Plan and Code of Conduct enforcement.
+- All members seeking moorage through the DRMC.
+- The Harbour Master and any designees responsible for maintaining waiting lists and assigning moorage.
+- All types of moorage offered by the club, including permanent seasonal assignments and temporary/transient use where a waiting list is maintained.
 
 ---
 
-## 3. Definitions
+## 4. Establishing and Maintaining the Waiting List
 
-- **Complainant**: The individual filing the grievance.
-- **Respondent**: The individual against whom the grievance is filed.
-- **Grievance**: A formal written complaint alleging a violation of the Code of Conduct, Bylaws, or other Corporation rules, or a dispute between parties.
-- **Grievance Committee**: A committee appointed by the Executive to investigate and make recommendations on a grievance. Composed of three impartial individuals.
-- **Mediation**: A voluntary process where a neutral third party assists the parties in reaching a mutually acceptable resolution.
-- **Natural Justice**: The principle that individuals have the right to be heard, to know the case against them, and to have an impartial decision‑maker.
+### 4.1 Application Process
+- Members may apply for the waiting list by submitting a completed **Waiting List Application Form** (available on the member portal or from the Harbour Master).
+- The application must include:
+  - Member name and Voting Unit ID.
+  - Vessel details (type, length, beam, draft).
+  - Preferred moorage type(s) and any specific requirements (e.g., power pedestal, accessibility).
+  - Contact information (email and phone).
+- Applications are date‑ and time‑stamped upon receipt. The date/time of receipt determines the applicant’s position on the list for each moorage type requested.
 
----
+### 4.2 List Structure
+- Separate waiting lists shall be maintained for each distinct moorage type (e.g., 20‑29′ wet slips, 30‑39′ wet slips, dry storage, etc.).
+- An applicant may be on multiple lists simultaneously. Their position on each list is independent.
+- The list must be stored in a secure digital format (e.g., spreadsheet or database) with restricted access (Harbour Master and Executive only).
 
-## 4. Principles
-
-The following principles guide this grievance procedure:
-
-- **Confidentiality**: All parties, witnesses, and committee members shall keep all information related to the grievance confidential, except as necessary to conduct the investigation or as required by law.
-- **Impartiality**: Those involved in investigating and deciding grievances shall be unbiased and free from conflicts of interest.
-- **Timeliness**: Grievances shall be addressed promptly, with clear timelines for each step.
-- **Right to be Heard**: Both the complainant and respondent shall have the opportunity to present their perspectives and respond to allegations.
-- **No Retaliation**: Retaliation against any individual for filing a grievance or participating in the process is strictly prohibited and may itself be grounds for disciplinary action.
-- **Resolution Focus**: Whenever possible, the process shall seek to resolve conflicts constructively, preserving community harmony.
-
----
-
-## 5. Informal Resolution – Step 1
-
-Before filing a formal grievance, individuals are encouraged to attempt informal resolution:
-
-1. **Direct Conversation**: If safe and comfortable, the parties should discuss the issue directly, seeking a mutual understanding and resolution.
-2. **Mediation by a Third Party**: If direct conversation is not possible or fails, a neutral third party (e.g., a Squad Coordinator, Executive member, or volunteer mediator) may be asked to facilitate a discussion.
-3. **Seek Advice**: Individuals may consult with the Harbour Master, Campground Manager, or an Executive member for guidance on how to proceed.
-
-Informal resolution is not mandatory if the issue is serious, involves repeated behavior, or if one party feels unsafe. However, many disputes can be resolved at this level without formal proceedings.
+### 4.3 Annual Confirmation
+- In January of each year, the Harbour Master shall contact all members on the waiting list to confirm their continued interest.
+- Contact shall be made via email, with a follow‑up phone call if no response is received within 14 days.
+- Members must respond within 30 days of the initial contact. Non‑response after two attempts (email + phone) will result in removal from the list.
+- Confirmed members retain their original application date.
 
 ---
 
-## 6. Formal Grievance Procedure – Step 2
+## 5. Vacancy and Offer Process
 
-If informal resolution is unsuccessful or inappropriate, the complainant may file a formal grievance.
+### 5.1 Identifying a Vacancy
+- When a slip or site becomes available (e.g., member vacates, new construction completed), the Harbour Master shall:
+  - Verify the moorage type and its suitability for the next applicant on the corresponding waiting list.
+  - Ensure the vacancy is ready for assignment (e.g., utilities functional, safe access).
 
-### 6.1 Submitting a Formal Grievance
+### 5.2 Making an Offer
+- The Harbour Master shall contact the next eligible applicant on the list using the following methods, in order:
+  1. **Email:** Send a formal offer letter (template available) detailing the slip/site, fees, and offer expiration date.
+  2. **Phone Call:** Within 2 business days of sending the email, call the applicant to confirm receipt and answer any questions.
+- The offer letter must clearly state:
+  - The specific slip/site being offered.
+  - The annual fee and any applicable deposits.
+  - The deadline for acceptance (7 calendar days from the date of the email).
+  - Instructions for accepting (e.g., reply to email, sign agreement, pay deposit).
+  - Consequences of non‑response or decline (removal from list).
 
-The complainant shall submit a written grievance to the **Secretary** using the **Grievance Form** (Appendix A). The submission must include:
+### 5.3 Offer Period and Acceptance
+- The applicant has **7 calendar days** from the date of the offer email to accept or decline.
+- Acceptance must be in writing (email is acceptable) and accompanied by any required deposit or signed agreement, as specified in the offer.
+- If the applicant accepts, the Harbour Master shall:
+  - Prepare the moorage agreement and collect the balance of fees.
+  - Assign the slip/site and update records.
+  - Remove the applicant from the waiting list for that moorage type (they may remain on other lists if desired).
 
-- Complainant's name and contact information.
-- Respondent's name (if known).
-- Clear description of the incident(s), including dates, times, locations, and any witnesses.
-- Reference to the specific Code of Conduct, Bylaw, or policy allegedly violated.
-- Description of any attempts at informal resolution.
-- Desired outcome (e.g., apology, behavior change, restitution, disciplinary action).
+### 5.4 Declining an Offer
+- If the applicant declines the offer (for any reason), they shall be removed from the waiting list for that specific moorage type.
+- The applicant may reapply at any time, but their new application will receive a new date/time stamp (i.e., they go to the bottom of the list).
 
-The grievance must be submitted within **30 days** of the incident, unless exceptional circumstances justify a later filing.
-
-### 6.2 Acknowledgment
-
-Upon receipt, the Secretary shall:
-
-- Date‑stamp the grievance.
-- Acknowledge receipt to the complainant within **5 business days**.
-- Provide a copy to the respondent within **5 business days**, redacting any sensitive information if necessary (but generally the full grievance is shared to allow the respondent to respond).
-
-### 6.3 Respondent's Response
-
-The respondent shall have **10 business days** to submit a written response to the Secretary. The response may include:
-
-- Acceptance, denial, or explanation of the allegations.
-- Any relevant documentation or witness information.
-- Any counter‑complaint, if applicable.
-
-### 6.4 Formation of Grievance Committee
-
-Upon receiving the respondent's response (or after the response deadline passes), the Executive shall appoint a **Grievance Committee** consisting of three individuals who:
-
-- Are members in good standing.
-- Have no conflict of interest in the matter.
-- Have not been involved in the incident or prior attempts at resolution.
-- May include one external mediator if appropriate.
-
-The Committee shall elect its own chair.
-
-### 6.5 Investigation
-
-The Grievance Committee shall conduct an investigation, which may include:
-
-- Reviewing all written submissions.
-- Interviewing the complainant, respondent, and witnesses separately.
-- Requesting additional documents or evidence.
-- Visiting relevant locations (if necessary).
-
-All interviews shall be conducted confidentially. The Committee may seek advice from legal counsel or other experts at the Corporation's expense, with Executive approval.
-
-The investigation should be completed within **20 business days** of the Committee's appointment, unless extended by the Executive for complex cases.
-
-### 6.6 Committee Report and Recommendation
-
-At the conclusion of the investigation, the Committee shall prepare a written report including:
-
-- Summary of the allegations and responses.
-- Findings of fact.
-- Determination of whether the Code of Conduct, Bylaws, or policies were violated.
-- Recommended actions, if any (e.g., no further action, warning, mediation, restitution, suspension, or recommendation for membership termination).
-- Rationale for the recommendation.
-
-The report shall be submitted to the Executive. A copy shall be provided to both the complainant and respondent, with any confidential information redacted as appropriate.
-
-### 6.7 Executive Decision
-
-The Executive shall review the Committee's report and make a final decision within **15 business days**. The Executive may:
-
-- Accept the Committee's recommendation.
-- Modify the recommendation (with written reasons).
-- Return the matter to the Committee for further investigation.
-
-The Executive's decision is final, subject only to any appeal rights under the Bylaws (e.g., membership termination appeals under Article V).
-
-The decision shall be communicated in writing to both parties, including any disciplinary actions and the rationale.
+### 5.5 Non‑Response
+- If the applicant does not respond within the 7‑day offer period, the Harbour Master shall:
+  - Send a reminder email on day 8, granting an additional **3 business days** to respond.
+  - If still no response after the extension, the offer is considered declined, and the applicant is removed from the waiting list for that moorage type.
+- The Harbour Master shall document the non‑response and proceed to the next applicant on the list.
 
 ---
 
-## 7. Appeals
+## 6. Multiple Offers and Special Circumstances
 
-If the grievance involves a recommendation for **membership termination**, the respondent has the right to appeal the Executive's decision to the membership at the next General Meeting, as provided in Bylaw Article V.1. The appeal must be filed in writing with the Secretary within **14 days** of receiving the decision.
+### 6.1 Applicant on Multiple Lists
+- If an applicant is on multiple waiting lists and receives an offer for one type, they may accept or decline without affecting their position on other lists.
+- If they accept, they are removed only from the list for the moorage type they accepted.
 
-For other disciplinary actions (e.g., warnings, suspensions of privileges), there is no further appeal within the Corporation, but the member may raise concerns through normal member communication channels.
+### 6.2 Temporary Declines (Holds)
+- Members may request a temporary hold on their waiting list position for personal reasons (e.g., medical, travel) for a period not to exceed 12 months.
+- Requests must be made in writing to the Harbour Master and approved by the Executive.
+- During the hold period, the member will not be offered vacancies but will retain their original application date. After the hold expires, they will resume their position on the list.
+- Only one hold is permitted per membership term.
 
----
-
-## 8. Disciplinary Actions
-
-Depending on the severity and nature of the violation, disciplinary actions may include:
-
-- Verbal or written warning.
-- Mandated mediation or counseling.
-- Restitution for damages.
-- Suspension of specific privileges (e.g., gate access, event participation) for a defined period.
-- Suspension of membership for a defined period.
-- Recommendation to terminate membership (requires membership vote per Bylaw Article V).
-
-Multiple violations may result in escalating consequences.
+### 6.3 Size/Suitability Adjustments
+- If a vessel’s dimensions change, the member must notify the Harbour Master. Their application may be moved to a different waiting list (if applicable) based on the new vessel details, with the original application date retained only if the change does not significantly alter the moorage type required (e.g., same length category). Disputes will be resolved by the Executive.
 
 ---
 
-## 9. Confidentiality and Records
+## 7. Record Keeping and Transparency
 
-All grievance records, including submissions, interview notes, and the Committee's report, shall be kept confidential by the Secretary in a secure file, separate from general membership records. Access shall be restricted to:
-
-- The Executive (on a need‑to‑know basis).
-- The Grievance Committee.
-- Legal counsel, if engaged.
-- The parties involved (to their own information).
-
-Records shall be retained for **7 years** after the matter is closed, in case of future legal proceedings or pattern identification.
-
----
-
-## 10. Protection from Retaliation
-
-No member shall be subjected to retaliation for filing a grievance in good faith, participating in an investigation, or serving on a Grievance Committee. Any alleged retaliation shall itself be treated as a grievance under this procedure and may result in disciplinary action.
+- The Harbour Master shall maintain a secure, up‑to‑date log of all waiting list activities, including:
+  - Applications (date, member, vessel, moorage type).
+  - Offers made (date, method, outcome).
+  - Acceptances, declines, and removals.
+  - Annual confirmations and holds.
+- A summary of the waiting list (positions by moorage type, without personal details) shall be published quarterly on the member portal to ensure transparency.
+- Individual members may request their own position on the list from the Harbour Master at any time.
 
 ---
 
-## 11. Grievances Against the Executive
+## 8. Removal from the Waiting List
 
-If a grievance involves one or more Executive members, the following special provisions apply:
+A member may be removed from the waiting list for the following reasons:
+- Acceptance of a moorage offer for that type.
+- Declining an offer (as per Section 5.4).
+- Non‑response to an offer (as per Section 5.5).
+- Non‑response to annual confirmation (as per Section 4.3).
+- Request of the member (written notice).
+- Termination of membership for any reason.
 
-- The affected Executive member(s) shall recuse themselves from all discussions and decisions related to the grievance.
-- The remaining Executive members shall appoint the Grievance Committee, which may include an external facilitator if the remaining Executive is unable to act impartially.
-- If the grievance involves the entire Executive, a Special Membership Meeting may be called to appoint an ad‑hoc committee of members to handle the matter.
-
----
-
-## 12. Frivolous or Malicious Grievances
-
-If a grievance is found to be frivolous, vexatious, or brought in bad faith, the Grievance Committee may recommend disciplinary action against the complainant. This protects the process from abuse.
+Removed members may reapply at any time, but will receive a new application date.
 
 ---
 
-## 13. Policy Review
+## 9. Disputes and Appeals
 
-This procedure shall be reviewed annually by the Executive and updated as necessary. Amendments require a two‑thirds (2/3) majority vote of the Executive.
-
----
-
-## 14. Effective Date
-
-This policy takes effect on **March 1, 2026**.
+- Any member who believes the waiting list procedure has been applied unfairly may submit a written appeal to the Executive within 14 days of the relevant event.
+- The Executive shall review the appeal at its next regular meeting and provide a written decision within 30 days.
+- The decision of the Executive is final, subject to the Grievance Procedure (once adopted) or other remedies under the Bylaws.
 
 ---
 
-**Document Version:** 1.0  
-**Effective Date:** March 2026  
-**Maintained by:** Secretary, Dalhousie Regional Marina Ltd.  
-**Repository Location:** Corporate Document Repository / Policies / Current
+## 10. Amendments and Review
+
+This procedure may be amended by the Executive as needed, provided the changes are consistent with the Bylaws. Substantive changes shall be communicated to all members on the waiting list and noted in the next general meeting minutes. A full review shall be conducted annually in the first quarter.
 
 ---
 
-## Appendix A: Grievance Form
+## 11. Related Documents
 
-| Field | Information |
-|-------|-------------|
-| **Date of Submission** | |
-| **Complainant Name** | |
-| **Membership #** | |
-| **Phone** | |
-| **Email** | |
-| **Respondent Name** (if known) | |
-| **Respondent Membership #** (if known) | |
-| **Date(s) of Incident(s)** | |
-| **Location(s) of Incident(s)** | |
-| **Description of Incident(s)** (attach additional pages if needed) | |
-| **Witness(es)** (names and contact) | |
-| **Code of Conduct / Bylaw Section(s) Allegedly Violated** (if known) | |
-| **Attempts at Informal Resolution** (describe) | |
-| **Desired Outcome** | |
-| **Supporting Documents Attached?** | ☐ Yes (list: _____) ☐ No |
-| **Signature** | |
-| **Date** | |
-
-*Submit completed form to the Secretary (in person, by mail, or email to grievance@dalhousiemarina.ca).*
+- DRMC Bylaws 2026 (especially Articles VI.8 and VII.3)
+- DRMC Standing Operating Procedures (Harbour Master Section)
+- DRMC Membership & Facility Use Agreement
+- [Future] Grievance Procedure
+- Waiting List Application Form (template)
+- Waiting List Offer Letter (template)
 
 ---
+
+*This document is a draft and has not yet been approved by the DRMC Executive. It is intended to guide discussion and development of a formal Waiting List Management Procedure.*
