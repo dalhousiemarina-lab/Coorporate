@@ -247,7 +247,8 @@ https://github.com/dalhousiemarina-lab/Coorporate/blob/main/Procedure/DRMC%20Inc
 
 ---
 
-### 14. Member Communication Policy
+### 14. Member Communication Policy (Work In Progress)
+https://github.com/dalhousiemarina-lab/Coorporate/blob/main/Policy/DRMC%20Member%20Communication%20Policy.md
 
 **Purpose:** Standardize how official information is disseminated (email, website, social media, notice boards) to ensure consistency and reach.
 
