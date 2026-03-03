@@ -142,7 +142,8 @@ https://github.com/dalhousiemarina-lab/Coorporate/blob/main/Procedure/DRMC%20Gri
 
 ---
 
-### 8. Access Control Policy
+### 8. Access Control Policy (Work In progress)
+https://github.com/dalhousiemarina-lab/Coorporate/blob/main/Policy/DRMC%20Access%20Control%20Policy.md
 
 **Purpose:** To govern the issuance, use, and recovery of keys, fobs, gate codes, and other security devices for club facilities.
 
@@ -280,7 +281,8 @@ https://github.com/dalhousiemarina-lab/Coorporate/blob/main/Policy/DRMC%20Member
 
 ---
 
-### 16. Volunteer Screening Policy
+### 16. Volunteer Screening Policy (Work In Progress)
+https://github.com/dalhousiemarina-lab/Coorporate/blob/main/Policy/DRMC%20Volunteer%20Screening%20Policy.md
 
 **Purpose:** Protect the club and its members by establishing appropriate background checks for volunteers in sensitive roles (e.g., working with children, handling funds).
 
