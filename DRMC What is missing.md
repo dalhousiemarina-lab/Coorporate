@@ -230,7 +230,8 @@ https://github.com/dalhousiemarina-lab/Coorporate/blob/main/Policy/DRMC%20Insura
 
 ---
 
-### 13. Incident Reporting Procedure
+### 13. Incident Reporting Procedure (Work In Progress)
+https://github.com/dalhousiemarina-lab/Coorporate/blob/main/Procedure/DRMC%20Incident%20Reporting%20Procedure.md
 
 **Purpose:** Ensure all accidents, near‑misses, property damage, and safety concerns are consistently documented, investigated, and addressed.
 
