@@ -91,7 +91,8 @@ https://github.com/dalhousiemarina-lab/Coorporate/blob/main/Policy/DRMC%20Privac
 
 ---
 
-### 5. Volunteer Position Descriptions
+### 5. Volunteer Position Descriptions (Work In Progress)
+https://github.com/dalhousiemarina-lab/Coorporate/blob/main/DRMC%20Volunteer%20Position%20Descriptions.md
 
 **Purpose:** To provide clear, written expectations for all volunteer roles, including squads and committees.
 
