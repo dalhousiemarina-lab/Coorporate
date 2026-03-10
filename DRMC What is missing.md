@@ -1,6 +1,6 @@
 # DRMC: What Governance Documents Are Missing?
 
-**Document Version: 1.0 – March 2026**
+**Document Version: 2.0 – March 2026**
 
 **Purpose:** This document identifies gaps in the current DRMC governance framework and provides a roadmap for creating additional policies and procedures to strengthen our operations, financial controls, and institutional memory.
 

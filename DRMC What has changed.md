@@ -1,82 +1,41 @@
-# What's Changing at DRMC: From 2025 to 2026
+# What's Changing at DRMC: From the Initial 2026 Framework to the Expanded 2026 Governance System
 
-**Document Version: 1.0**
+**Document Version: 2.0 – March 2026**
 
-This document provides a detailed summary of the significant changes between the 2025 Bylaws and the new 2026 governance framework (which includes the new Bylaws, Charter, Code of Conduct, and supporting protocols). The 2026 update represents a complete overhaul from a brief, informal set of rules to a comprehensive, legally robust, and transparent governance system.
-
----
-
-## Overview: The Shift from Minimal to Comprehensive Governance
-
-The 2025 Bylaws were a short, high-level document that left many critical aspects of the corporation's operations undefined. The new 2026 framework addresses these gaps entirely. It establishes a clear, detailed, and member-centric structure for everything from voting rights and financial management to project approval and community conduct. The primary driver for these changes is to ensure legal compliance, enhance transparency, distribute workload through volunteerism, and protect the Corporation's assets and community for the long term.
+This document provides a detailed summary of the significant changes between the **initial 2026 governance framework** (which included the Charter, Bylaws, Code of Conduct, and core templates) and the **current, expanded 2026 framework**. The expansion addresses all previously identified operational, financial, and procedural gaps, transforming our governance from a strong structural foundation into a fully resilient, day‑to‑day operating system.
 
 ---
 
-## Detailed Breakdown of Key Changes
+## Overview: Closing the Operational Gaps
 
-### 1. Governance Structure & Philosophy
+The initial 2026 documents (described in Version 1.0 of this file) established a robust governance structure: a clear Charter, comprehensive Bylaws, a Code of Conduct, election protocols, and project/activity templates. However, they left several operational areas undefined—routines for officers, financial reserves, emergency response, privacy, and more.
 
-| Feature | 2025 Bylaws | 2026 Framework | Why the Change? |
+The current 2026 framework fills every one of those gaps. We have now developed and adopted a complete suite of **Standing Operating Procedures (SOPs)**, **financial policies**, **safety plans**, **administrative procedures**, and **volunteer management tools**. Together, these documents ensure consistency, legal compliance, and institutional memory, no matter who serves on the Executive or volunteers in key roles.
+
+---
+
+## Detailed Breakdown of New Additions
+
+The table below lists every document added since the initial 2026 release, explains its purpose, and shows how it integrates with the existing Bylaws and other core documents.
+
+| New Document | Purpose | Key Content | Integration with Existing Framework |
 | :--- | :--- | :--- | :--- |
-| **Core Documents** | Single, basic Bylaws document. | An integrated system: **Charter**, **Bylaws**, **Code of Conduct**, **Activity Proposal Template**, **Project Proposal Template**, **Election Protocol**, and **Director's Agreement**. | To create a clear hierarchy of rules and operational guides. Foundational principles are in the unalterable Charter, detailed rules in the Bylaws, and day-to-day standards in the Code of Conduct. |
-| **Governing Philosophy** | Implied but not defined. | Explicitly defined as a member-run, **non-profit**, **human-centric** community and a **stewardship** of a regional asset. | To embed the core identity and values of the Corporation into its founding documents, guiding all decisions and setting member expectations. |
-| **Board Size & Structure** | Fixed at 5 members with 5 specific officer roles. | Flexible board of **3 to 7 members**. Required officer positions: Commodore, Treasurer, Harbour Master. Optional positions: Vice-Commodore, Secretary, Campground Manager, Director of Entertainment & Fundraising. | Provides flexibility to adapt the board's composition to the skills available and the needs of the Corporation, rather than being locked into a rigid structure. |
-| **Legal Compliance** | Minimal reference to federal law. | Fully compliant with the **Canada Not-for-profit Corporations Act (NFP Act)** . Includes procedures for federal filings (Form 4006), director disqualification rules, and public accountant requirements. | Essential for legal operation and to protect directors from personal liability. The 2025 version was legally insufficient. |
-
-### 2. Membership & Voting (Most Transformative Change)
-
-| Feature | 2025 Bylaws | 2026 Framework | Why the Change? |
-| :--- | :--- | :--- | :--- |
-| **Voting Rights** | One vote per "Regular Member." Definition of a member was unclear. | Introduces the **"Voting Unit"** (household). Each Unit gets **1 base vote**. Associate members have no vote. | Clarifies who holds the vote and prevents multiple votes from one family/household, creating a fairer system for allocating votes to physical assets (slip/site). |
-| **Volunteer Incentive** | Not addressed. | **"Bonus Vote"** : A Voting Unit can earn a **second vote** if at least one adult completes **20 verified volunteer hours** in the past 12 months. | A revolutionary change to directly reward and encourage the volunteerism the club relies on. It gives those who contribute more time a greater say in governance. |
-| **Voter Designation** | Not addressed. | Units must designate a **Primary Voter** and optionally a **Secondary Voter** in writing. The Unit can also designate a different person to cast its Bonus Vote. | Provides clarity for meeting organizers and ensures votes are cast by the intended representative of the household. |
-| **Membership Classes** | One class: "Regular Member." | **Class A Voting Units:** Berth Holder, Seasonal Camper, Dual Member, Certified Volunteer. **Non-Voting:** Associate Member, Overnight Guest. | Clearly defines the different types of relationships members have with the Corporation and their corresponding rights. |
-| **Termination of Membership** | Vague grounds for suspension by executive with 1/3 member consent. | **Detailed process** for suspension (Article V). **New "Non-Use" Clause (V.7)** : Slip/campsite forfeited after one season of non-use; membership terminated after two. | Protects the Corporation's assets from being held by inactive members, ensuring facilities are used and making room for those on waiting lists. |
-| **Lifetime Memberships** | Not addressed. | **Article VI.7** formally grandfathers existing lifetime memberships, defines their rights (exemption from annual fees, full voting rights), and confirms they are non-transferable. | Provides legal clarity and protection for existing lifetime members while closing the program to new entrants, preventing future ambiguity. |
-| **Initiation Fee** | Not addressed. | **Article VI.8** establishes a one-time, non-refundable initiation fee for all new members admitted from the waiting list. | Creates a funding source for capital improvements and recognizes the value of a membership that was previously not captured. |
-
-### 3. Meetings, Elections & Decision-Making
-
-| Feature | 2025 Bylaws | 2026 Framework | Why the Change? |
-| :--- | :--- | :--- | :--- |
-| **Meeting Schedule** | Two meetings per year (April & September). | Four scheduled meetings: **Spring GM (April), AGM (Sept), and two Seasonal Update Meetings (June & August)** . Special Meetings and Online Votes also possible. | Creates a regular, predictable communication rhythm with members. Update meetings are for consultation, not binding votes, fostering dialogue. |
-| **Meeting Notices** | 15 days for Special Meetings, no notice period for General Meetings. | Clear notice periods: **21 days for AGM/Spring GM**, **14 days for Seasonal/Special Meetings**. | Ensures members have adequate time to prepare for and participate in important decisions. |
-| **Election Process** | Simple election at Sept AGM. No defined process. | **Detailed, multi-phase protocol** managed by a **Governance & Nominating Committee (GNC)** . Includes skills audit, structured call for nominations, candidate vetting, candidate forum, and in-person secret ballot. | Professionalizes the election, ensures skills gaps are filled, provides a fair process for all candidates, and enhances the legitimacy of the elected board. |
-| **Petition Candidates** | Not addressed. | Any member not recommended by the GNC can still run by submitting a petition signed by **10% of Voting Units**. | Prevents the board or committee from gatekeeping and ensures any motivated member can seek election. |
-| **Online Project Voting** | Not addressed. | **Article IX** creates a formal process for secure online votes on specific projects. Requires a 25% quorum and simple majority (⅔ for borrowing). | Enables efficient member participation on key decisions without needing a physical meeting, increasing engagement. |
-| **Quorum** | 1/3 of regular membership. | 1/3 of eligible **Voting Units**. | Clarifies the unit of measurement for quorum, aligning it with the new Voting Unit structure. |
-| **Director Term** | 1 year. | **2-year term**. | Provides continuity on the board, reducing the disruption of annual elections and allowing directors to see longer-term projects through. |
-
-### 4. Financial Management & Accountability
-
-| Feature | 2025 Bylaws | 2026 Framework | Why the Change? |
-| :--- | :--- | :--- | :--- |
-| **Spending Authority** | Executive can spend up to **30% of liquid assets** without a vote. | Spending is tied to **project type and amount**: <br>• Maintenance: up to $2,500 <br>• Capital/Improvement: up to $1,000 <br>Exceeding these requires a **membership vote**. | The 30% rule was dangerously broad and undefined. The new rule provides clear, conservative limits that prevent the Executive from making large financial commitments without member approval. |
-| **Fee Setting & Cap** | Fees recommended by Executive and approved at April meeting. | **Annual Price Increase Cap of 4%** . Any increase above this requires detailed justification and a specific majority vote at the AGM. | Protects members from large, unexpected fee hikes and forces the Executive to provide a strong rationale for any increase beyond the cost-of-living benchmark. |
-| **Borrowing Money** | Not addressed. | Requires a **two-thirds majority** vote of Voting Units. | Ensures that taking on debt is a decision made with overwhelming member support, protecting the corporation's financial future. |
-| **Project Definition & Approval** | Not addressed. | **Article X** formally defines a "Project" and mandates the use of a standardized **Project Proposal Template**. | Brings rigor and transparency to all initiatives. Members can now see full scope, budget, risk, and vendor comparisons before voting. |
-| **Banking & Signing Authority** | Cheques signed by Treasurer and another officer. | Banking documents must be signed by **any two** of Commodore, Treasurer, or Secretary. | Adds the Secretary as a potential signatory, providing more flexibility and a third layer of oversight. |
-| **Financial Statements** | Not addressed. | **Article XIX & XIX-A** mandate preparation of annual financial statements and appointment of a **public accountant** to conduct a review engagement. | Aligns with NFP Act requirements and provides members with an independent, professional review of the corporation's financial health. |
-
-### 5. Operations, Conduct & Community
-
-| Feature | 2025 Bylaws | 2026 Framework | Why the Change? |
-| :--- | :--- | :--- | :--- |
-| **Code of Conduct** | Not present. | A comprehensive, separate **Code of Conduct & Facility Regulations** document, adopted by reference in Bylaw Article V-A. | Consolidates all rules for behavior, safety, pets, environmental stewardship, and facility use into one clear, enforceable document that all members must sign. |
-| **Volunteer Squads** | Mentioned only as committees the Executive may appoint (9.6). | **Article XV** establishes a formal system of Volunteer Squads, their purpose, authority, and link to the Bonus Vote. | Elevates volunteering to a core pillar of the corporation, providing structure and recognition. |
-| **Activity Planning** | Not addressed. | A mandatory **Activity Proposal & Execution Template** for any club-organized event. | Ensures all events are properly planned, budgeted, and risk-assessed, protecting the club and its organizers. |
-| **Environmental Stewardship** | Not addressed. | **Article XXII** establishes conservation principles and an Environmental Squad. The Code of Conduct includes "Zero Discharge" and wildlife protection rules. | Formalizes the club's commitment to protecting the natural environment it depends on. |
-| **Contracts** | Executive officers not authorized to negotiate without ratification. | **Article XVI** clarifies that contracts are not binding until ratified by the Executive or general membership. | Strengthens the legal position and confirms that no single officer can bind the corporation. |
-| **Conflict of Interest** | Must declare interest and abstain from voting. | **Article XVII** maintains this. **New:** The Activity and Project Proposal templates now require a mandatory conflict declaration from organizers. | Extends the conflict of interest principle beyond the Executive to all member-led initiatives, promoting transparency everywhere. |
-| **Dissolution Clause** | Not addressed. | **Article XXIV** provides a clear, unalterable order for asset distribution upon dissolution: 1) Pay debts, 2) Distribute to members in good standing, 3) Residual to similar non-profits. | Provides legal and ethical clarity on what would happen to the club's assets in the worst-case scenario, protecting members' interests. |
-
-### 6. Corporate Records & Transparency
-
-| Feature | 2025 Bylaws | 2026 Framework | Why the Change? |
-| :--- | :--- | :--- | :--- |
-| **Document Management** | Secretary maintains minute book and member list (9.7). | **Article XXIII** mandates a comprehensive **Document Repository**, detailing what must be kept, who has access, retention schedules, and the Secretary's responsibility for it. | Ensures institutional memory is preserved and easily accessible to those who need it, protecting the corporation from knowledge loss during board transitions. |
-| **Member Access to Records** | Not addressed. | Members have the right to inspect governance documents, minutes, and financial statements (with reasonable notice), as per **Article XXIII.8**. | Enhances transparency and trust by formalizing members' right to see how their corporation is run. |
-| **Director's Agreement** | Not present. | A new **Director's Agreement & Consent to Act** formalizes a director's fiduciary duties, specific commitments (like the 4% rule), and confidentiality obligations. | Ensures every director is fully aware of their legal and ethical responsibilities before taking office. |
+| **Standing Operating Procedures (SOPs)** | Provide step‑by‑step instructions for key officer roles to ensure smooth transitions and consistent execution of duties. | – Harbour Master: moorage assignment, waitlist management, dock inspections.<br>– Treasurer: accounts payable/receivable, reconciliation, reporting.<br>– Secretary: agenda preparation, minute‑taking, correspondence log. | Empowered by Bylaws Article XII (Officers). |
+| **Reserves & Investment Policy** | Establish clear guidelines for accumulating, managing, and spending capital reserves and operating surpluses. | – Target reserve levels (e.g., 3‑6 months of operating expenses).<br>– Approved investment vehicles (HISA, GICs).<br>– Authorization thresholds for withdrawals. | Implied by Bylaws Article VI (Financial Stewardship). |
+| **Document Retention Policy** | Define how long different types of records must be kept and the process for secure disposal. | – Retention schedules for incorporation docs (permanent), financial records (7 years), membership applications (duration +1 year).<br>– Digital vs. physical storage protocols.<br>– Destruction procedures. | Required by Bylaws Article XXIII (Document Repository). |
+| **Privacy Policy (PIPEDA Compliance)** | Outline how the club collects, uses, discloses, and protects personal information of members, volunteers, and contractors. | – Definition of personal information collected.<br>– Statement of consent and purpose.<br>– Security safeguards.<br>– Individual access and correction rights. | Mandated by federal PIPEDA; referenced in Membership Agreement. |
+| **Volunteer Position Descriptions** | Provide clear, written expectations for all volunteer roles, including squads and committees. | – Role title, reporting structure.<br>– Primary responsibilities, time commitment.<br>– Required skills or training.<br>– Term limits (if any). | Governed by Bylaws Article XV (Volunteer Squads). |
+| **Emergency Response Plan** | Deliver a detailed, actionable plan for responding to various crises to ensure safety of members and property. | – Procedures for fire, medical emergency, fuel spill, severe weather, man‑overboard.<br>– Emergency contact tree.<br>– Location of emergency equipment.<br>– Evacuation routes and muster points. | Required by Bylaws Article XX.2 (Safety). |
+| **Grievance Procedure** | Establish a formal, fair, and confidential process for resolving disputes between members, or between members and the board. | – Step‑by‑step complaint submission.<br>– Formation of a grievance committee.<br>– Investigation timeline.<br>– Appeal process. | Implied by Code of Conduct Section 9 (Enforcement). |
+| **Access Control Policy** | Govern the issuance, use, and recovery of keys, fobs, gate codes, and other security devices. | – Eligibility criteria.<br>– Request and return procedures.<br>– Rules against loaning to non‑members.<br>– Code change protocols. | Enhances security; supports Bylaws’ implied duty to protect assets. |
+| **Procurement Policy** | Ensure transparent, fair acquisition of goods and services, avoiding conflicts of interest. | – Thresholds for quotes (e.g., three quotes > $1,000).<br>– Approval levels.<br>– Sole‑source justification rules.<br>– Vendor conflict disclosure. | Complements spending limits in Bylaws Article XII.7. |
+| **Expense Reimbursement Policy** | Clarify what out‑of‑pocket expenses are reimbursable for directors, volunteers, and staff, and the process for claiming them. | – Eligible expenses (receipts required).<br>– Approval by Treasurer.<br>– Submission timelines.<br>– Prohibited expenses. | Fills gap left by Director Agreement (which only addressed compensation). |
+| **Waiting List Management Procedure** | Define how the waiting list is maintained, how vacancies are offered, and the timeline for acceptance/refusal. | – Order of application.<br>– Communication method.<br>– Offer duration (e.g., 7 days).<br>– Process for declining or removing names. | Implied by Bylaws Article VI.8 and VII.3. |
+| **Insurance Management Policy** | Outline the corporation’s approach to obtaining and maintaining appropriate insurance coverage and handling claims. | – Types of insurance required.<br>– Annual review process.<br>– Role of Treasurer.<br>– Claims reporting procedure. | Supports Bylaws Article XVIII.3 (D&O insurance) and member insurance requirements. |
+| **Incident Reporting Procedure** | Ensure all accidents, near‑misses, property damage, and safety concerns are consistently documented, investigated, and addressed. | – Who to report to.<br>– Incident form template.<br>– Investigation timeline.<br>– Use of data for risk reduction. | Required by Code of Conduct Section 1.2 (Reporting). |
+| **Member Communication Policy** | Standardize how official information is disseminated (email, website, social media, notice boards) to ensure consistency and reach. | – Primary channels.<br>– Frequency of updates.<br>– Social media guidelines.<br>– Urgent message protocol. | Ensures consistent messaging; no direct Bylaw link but supports transparency. |
+| **Alcohol Service Guidelines** | Provide detailed rules for events where alcohol is served, beyond mere permit acquisition. | – Server training (Smart Serve).<br>– Consumption limits.<br>– Liability considerations.<br>– Enforcement of intoxication rules. | Complements Activity Proposal Template’s liquor permit requirement. |
+| **Volunteer Screening Policy** | Protect the club and its members by establishing appropriate background checks for volunteers in sensitive roles (e.g., working with children, handling funds). | – Roles requiring screening.<br>– Type of check (criminal record, vulnerable sector).<br>– Confidentiality of results.<br>– Re‑screening frequency. | Mitigates risk for roles that may involve vulnerable populations; aligns with best practices. |
 
 ---
 
@@ -84,11 +43,62 @@ The 2025 Bylaws were a short, high-level document that left many critical aspect
 
 | For the Member... | For the Executive... |
 | :--- | :--- |
-| **More Say:** Bonus vote for volunteering. | **Clear Authority:** Defined spending limits and decision-making power. |
-| **More Protection:** 4% cap on fee hikes, membership vote on large projects. | **Legal Compliance:** Documents protect directors from personal liability. |
-| **More Transparency:** Regular meetings, online project votes, access to records. | **Better Planning:** Formal project and activity templates improve execution. |
-| **More Community:** Formalized squads, clear code of conduct for a better environment. | **Knowledge Retention:** Mandatory transition packages and document repository. |
-| **Fairer Process:** Structured elections with petition option. | **Shared Workload:** Volunteer Squads formalize member contributions. |
+| **Greater Safety:** Comprehensive Emergency Response Plan and Incident Reporting keep everyone secure. | **Clear Operational Guidance:** SOPs for every officer role eliminate guesswork and ensure consistency. |
+| **Fair Treatment:** Formal Grievance Procedure and transparent Waiting List Management prevent disputes. | **Financial Guardrails:** Reserves, Procurement, and Expense policies provide clear boundaries and protect against misuse. |
+| **Privacy Assurance:** PIPEDA‑compliant Privacy Policy safeguards personal data. | **Risk Reduction:** Insurance Management, Access Control, and Volunteer Screening policies minimise liability. |
+| **Informed Community:** Member Communication Policy ensures timely, accurate information. | **Institutional Memory:** Document Retention Policy preserves knowledge across board transitions. |
+| **Well‑Run Events:** Alcohol Service Guidelines make social gatherings safer and more enjoyable. | **Empowered Volunteers:** Clear position descriptions attract the right people and set them up for success. |
 
 ---
 
+## How the Documents Work Together
+
+The diagram below illustrates how the newly added documents integrate with the existing governance framework:
+
+```mermaid
+graph TD
+    subgraph Core Governance
+        Charter["📜 CHARTER"]
+        Bylaws["📘 BYLAWS"]
+        CodeOfConduct["⚖️ CODE OF CONDUCT"]
+    end
+
+    subgraph Operational Policies
+        SOPs["🔧 STANDING OPERATING PROCEDURES"]
+        Reserves["💰 RESERVES & INVESTMENT POLICY"]
+        Retention["🗂️ DOCUMENT RETENTION POLICY"]
+        Privacy["🔐 PRIVACY POLICY (PIPEDA)"]
+        VolunteerPD["👥 VOLUNTEER POSITION DESCRIPTIONS"]
+        Emergency["🚨 EMERGENCY RESPONSE PLAN"]
+        Grievance["⚖️ GRIEVANCE PROCEDURE"]
+        Access["🔑 ACCESS CONTROL POLICY"]
+        Procurement["🛒 PROCUREMENT POLICY"]
+        Expense["💵 EXPENSE REIMBURSEMENT POLICY"]
+        Waitlist["📋 WAITING LIST MANAGEMENT"]
+        Insurance["🛡️ INSURANCE MANAGEMENT POLICY"]
+        Incident["📝 INCIDENT REPORTING PROCEDURE"]
+        Communication["📧 MEMBER COMMUNICATION POLICY"]
+        Alcohol["🍷 ALCOHOL SERVICE GUIDELINES"]
+        Screening["🔍 VOLUNTEER SCREENING POLICY"]
+    end
+
+    subgraph Templates
+        Activity["📅 ACTIVITY TEMPLATE"]
+        Project["🏗️ PROJECT TEMPLATE"]
+    end
+
+    Bylaws --> SOPs
+    Bylaws --> Reserves
+    Bylaws --> Retention
+    Bylaws --> VolunteerPD
+    Bylaws --> Emergency
+    CodeOfConduct --> Grievance
+    CodeOfConduct --> Incident
+    Bylaws --> Activity
+    Bylaws --> Project
+    Activity --> Alcohol
+    PIPEDA["📋 PIPEDA (Federal Law)"] --> Privacy
+
+    classDef core fill:#e6f3ff,stroke:#333,stroke-width:2px;
+    classDef operational fill:#fff0e6,stroke:#333,stroke-width:1px;
+    class Charter,Bylaws,CodeOfConduct core;
