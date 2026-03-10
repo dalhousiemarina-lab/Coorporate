@@ -97,17 +97,6 @@ For a quick overview of what each document does and how they connect, use the gu
 
 ---
 
-## 🔍 What's Missing? (Our Governance Roadmap)
-
-Our current documentation is exceptionally strong on **governance structure** (Bylaws, Charter, Code of Conduct). However, to build a fully resilient organization, we have identified several key gaps in **operational continuity, financial controls, and human resources**.
-
-For a complete list and detailed descriptions of the documents we plan to develop next—including Standing Operating Procedures, a Reserves Policy, a Privacy Policy (PIPEDA), and an Emergency Response Plan—please see the dedicated file:
-
-👉 **[DRMC What is missing.md](./DRMC%20What%20is%20missing.md)**
-
-This roadmap document outlines every identified gap, explains why it matters, and shows how each missing piece connects to our existing Bylaws. We encourage members to review it and contribute to filling these gaps.
-
----
 
 ## 🚀 How to Use This Repository
 
