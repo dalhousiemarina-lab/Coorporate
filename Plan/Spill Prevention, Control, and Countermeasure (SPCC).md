@@ -872,27 +872,3 @@ This Plan is distributed to:
 
 **END OF SPCC PLAN**
 
----
-
-*This document is maintained in accordance with 40 CFR Part 112. Please report any discrepancies or suggested updates to the Facility Manager.*
-
-*For questions regarding this plan, please contact:*
-
-**Marc Girouard**
-**[Title]**
-**[Phone]**
-**[Email]**
-
----
-
-**Note to Facility:** This SPCC Plan requires the following information to be completed:
-
-1. **Tank details** - All tank IDs, capacities, contents, installation dates, construction types
-2. **Secondary containment** - Actual dimensions and calculations for containment areas
-3. **Shut-off valve description** - Details of the over-land shut-off valve required by Marina supplement
-4. **Leak detection system type** - For UST systems (Marina supplement question 9)
-5. **AST leak detection type** - For aboveground tanks (Marina supplement question 12)
-6. **Products list** - All products contained in tanks (Marina supplement question 13)
-7. **Dispenser protection details** - How dispensers are protected from impact (Marina supplement question 14)
-8. **Site diagram** - To be attached as Appendix A
-9. **Leak detection records** - For USTs over 15 years old, if applicable
