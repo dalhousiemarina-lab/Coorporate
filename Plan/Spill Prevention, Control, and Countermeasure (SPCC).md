@@ -589,38 +589,37 @@ If a spill occurs at the dock during fueling:
 
 ### 10.4 Spill Response Flowchart
 
-SPILL DISCOVERED
-▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼
-ASSESS SAFETY
+0. SPILL DISCOVERED
+
+1. ASSESS SAFETY
 - Evacuate if needed
 - Remove ignition
 - Wear PPE
-▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼
-STOP THE SOURCE
+
+2. STOP THE SOURCE
 - Close valves
 - Shut pumps
 - Activate shut-off
-▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼
-CONTAIN THE SPIL
+
+3. CONTAIN THE SPIL
 - Deploy booms
 - Block drains
 - Use sorbents
-▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼
-NOTIFY
+
+4. NOTIFY
 - Supervisor
 - Facility Manager
 - NRC if >42 gal
-▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼
-CLEAN UP
+
+5. CLEAN UP
 - Recover product
 - Dispose waste
 - Restore area
-▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼
-DOCUMENT
+
+6. DOCUMENT
 - Complete report
 - Update records
 - Review lessons
-
 
 ---
 
