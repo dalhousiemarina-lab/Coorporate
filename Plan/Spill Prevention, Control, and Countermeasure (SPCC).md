@@ -94,9 +94,9 @@
 ## SECTION 1.0: FACILITY DESCRIPTION
 
 ### 1.1 Facility Operations
+
 Describe day-to-day operations, hours of operation, number of personnel,
 and how oil products are received (pipeline, railcar, tanker truck):
-
 
 **Operations Summary:**
 
@@ -109,23 +109,29 @@ and how oil products are received (pipeline, railcar, tanker truck):
 
 **Oil Handling Activities:**
 
-- Fueling of recreational watercraft
+- Fueling of recreational watercraft via Wayne fuel pump (installed August 1, 2025)
 - Storage of marine fuels (gasoline/diesel)
-- Fuel transfer operations at dockside
+- Fuel transfer operations at designated boat launch ramp area ONLY
 - Maintenance of fueling equipment
+
+**⚠️ CRITICAL FUELING RESTRICTION:**
+Per DRMC Emergency Response Plan Section 7.4 and Code of Conduct Section 3.04:
+**Fueling vessels at docks is strictly prohibited. All fueling must occur at the designated boat launch ramp area.**
 
 **Product Receipt Methods:**
 
-- Tanker truck delivery to storage tanks
+- Tanker truck delivery to storage tanks (Michaud Harnois Energies Inc.)
 - [Frequency of deliveries]
 
 ### 1.2 Facility Layout
 
 **General Description:**
+
 The facility is a marina and campground located at 111 Rock Island Rd, Dalhousie, NB.
-The facility includes fuel storage tanks, docks with fueling capabilities, and
-campground facilities. The fuel storage area is located [describe location relative
-to water, buildings, etc.].
+The facility includes fuel storage tanks, a Wayne fuel pump installed August 2025,
+docks (fueling prohibited), and campground facilities. The fuel storage and dispensing
+area is located at the designated boat launch ramp area. Fueling at docks is strictly
+prohibited per DRMC Code of Conduct.
 
 **Site Features:**
 
@@ -133,44 +139,95 @@ to water, buildings, etc.].
 |-------------|-----------------|
 | Total Acreage | [Total acreage] |
 | Number of Buildings | [Number of buildings] |
-| Paved Areas | [Description of paved areas] |
-| Unpaved Areas | [Description of unpaved areas] |
+| Paved Areas | Boat launch ramp area (fueling location) |
+| Unpaved Areas | Campground areas |
 
-### 1.3 Nearby Waterways
+---
 
-| **Water Body** | **Distance** | **Direction** | **Flow Path** |
-|----------------|--------------|---------------|---------------|
-| [Name of water body - e.g., Baie des Chaleurs] | Adjacent | [Direction] | Direct runoff to water |
+## SECTION 2.0: OIL STORAGE INVENTORY
 
-**Description of Drainage Pathways:**
-The worst-case discharge scenario would involve failure of the largest
-storage tank with discharge reaching the adjacent water body.
+### 2.1 Aboveground Storage Tanks (ASTs)
 
+| **Tank ID** | **Contents** | **Capacity (gal)** | **Construction** | **Year Installed** | **Secondary Containment** |
+|-------------|--------------|--------------------|-------------------|---------------------|---------------------------|
+| AST-101 | [Gasoline/Diesel] | [Capacity] | [Steel/Fiberglass] | [Year] | [Yes/No - Type] |
 
-| **Parameter** | **Details** |
-|---------------|-------------|
-| Container Involved | Above ground storage tanks (AST) |
-| Contents | Reg Gazoline |
-| Total Potential Volume | 3000 liters |
-| Time to Detect | [Estimated detection time] minutes |
-| Time to Respond | [Estimated response time] minutes |
-| Estimated Discharge to Water | [Estimated volume to water] gallons |
+### 2.2 Underground Storage Tanks (USTs)
 
-**Pathway to Waterway:**
-The fuel storage area is located [distance] from the water's edge. In the event
-of a tank failure, fuel would flow [describe drainage path - e.g., across paved
-surface, through storm drains] and discharge to [water body name]. Fueling docks
-are located directly over the water, presenting an immediate pathway during
-dispensing operations.
+| **Tank ID** | **Contents** | **Capacity (gal)** | **Construction** | **Year Installed** | **Leak Detection** |
+|-------------|--------------|--------------------|-------------------|---------------------|---------------------|
+| UST-101 | [Gasoline/Diesel] | [Capacity] | [Double-walled/Single-walled] | [Year] | [Type of leak detection] |
 
+### 2.3 Fuel Dispensing Equipment
 
-**Potential Environmental Impact:**
-A discharge to [water body name] could impact water quality, aquatic life,
-waterfowl, and recreational users of the waterway. The facility is adjacent to
-[a swimming area? - Note from Marina supplement: "None known" for recreational
-swimming area within 600 metres]. Cleanup would be difficult and could result
-in significant environmental damage and regulatory penalties.
+| **Equipment** | **Manufacturer** | **Model/Serial** | **Installation Date** | **Location** | **Value** |
+|---------------|------------------|------------------|------------------------|--------------|-----------|
+| Wayne Fuel Pump | Wayne | 3/G7201P/12JUV1/HL2756ZF A1 | August 1, 2025 | Boat Launch Ramp Area | $19,290.00 |
 
+### 2.4 Mobile/Portable Containers
+
+| **Container Type** | **Contents** | **Typical Quantity** | **Typical Capacity (gal)** | **Storage Location** |
+|--------------------|--------------|----------------------|----------------------------|----------------------|
+| Drums (55-gal) | [Oil products] | [Quantity] | 55 | [Location] |
+
+### 2.5 Oil-Filled Equipment
+
+| **Equipment** | **Contents** | **Capacity (gal)** | **Location** |
+|---------------|--------------|--------------------|--------------|
+| Generators | Diesel | [Capacity] | [Location] |
+
+### 2.6 Summary Totals
+
+| **Category** | **Capacity (gallons)** |
+|--------------|------------------------|
+| Total Aboveground Storage Capacity | [Total AST capacity] |
+| Total Buried Storage Capacity | [Total UST capacity] |
+| Largest Single Container Capacity | [Largest tank capacity] |
+| Total Facility Oil Storage Capacity | [Total all storage] |
+| Fuel Dispensing Equipment | 1 Wayne pump (installed 2025) |
+
+---
+
+## SECTION 3.0: SPILL HISTORY [40 CFR 112.4]
+
+### 3.1 Spills Within Past 12 Months
+
+| **Date** | **Oil Type** | **Amount (gal)** | **Cause** | **Corrective Action** |
+|----------|--------------|------------------|-----------|----------------------|
+| N/A | N/A | N/A | N/A | N/A |
+
+☒ **No spills have occurred in the past 12 months.**
+
+### 3.2 Spills Within Past 5 Years
+
+| **Date** | **Oil Type** | **Amount (gal)** | **Cause** | **Corrective Action** |
+|----------|--------------|------------------|-----------|----------------------|
+| N/A | N/A | N/A | N/A | N/A |
+
+### 3.3 Reportable Spill Determination
+
+☐ Facility has had a reportable spill (>42 gal to water) in past 12 months
+☐ Facility has had two or more reportable spills in past 12 months
+☒ Facility has not had any reportable spills
+
+---
+
+## SECTION 4.0: POTENTIAL SPILL PREDICTIONS [40 CFR 112.7(b)]
+
+### 4.1 Potential Failure Scenarios
+
+| **Failure Type** | **Source** | **Rate of Flow** | **Duration** | **Potential Volume** |
+|------------------|------------|------------------|--------------|----------------------|
+| Tank Overflow | Fuel delivery | [Rate] | Until detected | Up to [Volume] |
+| Tank Rupture | Storage tank | [Rate] | Until contained | Largest tank capacity |
+| Fuel Pump Failure | Wayne pump (2025) | [Rate] | Until shut off | [Volume] |
+| Hose Failure | Dispensing hose | [Rate] | Until shut off | [Volume] |
+| Transfer Spill | Fuel delivery | [Rate] | Until stopped | [Volume] |
+| Piping Failure | Underground piping | [Rate] | Until detected | [Volume] |
+
+### 4.2 Worst-Case Discharge Scenario
+
+**Scenario Description:**
 
 ### 4.3 Substantial Harm Determination [40 CFR 112.20]
 
