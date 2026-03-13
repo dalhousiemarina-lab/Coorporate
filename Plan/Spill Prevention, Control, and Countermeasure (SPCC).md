@@ -14,7 +14,6 @@
 | County | Restigouche County |
 | Latitude/Longitude | [To be determined] |
 | Phone Number | [Facility phone number] |
-| Fax Number | [Facility fax number] |
 
 ---
 
@@ -128,7 +127,6 @@ The facility includes fuel storage tanks, docks with fueling capabilities, and
 campground facilities. The fuel storage area is located [describe location relative
 to water, buildings, etc.].
 
-
 **Site Features:**
 
 | **Feature** | **Description** |
@@ -143,7 +141,6 @@ to water, buildings, etc.].
 | **Water Body** | **Distance** | **Direction** | **Flow Path** |
 |----------------|--------------|---------------|---------------|
 | [Name of water body - e.g., Baie des Chaleurs] | Adjacent | [Direction] | Direct runoff to water |
-| [Name of adjacent river/lake] | [Distance] | [Direction] | [Flow path description] |
 
 **Description of Drainage Pathways:**
 The worst-case discharge scenario would involve failure of the largest
@@ -152,9 +149,9 @@ storage tank with discharge reaching the adjacent water body.
 
 | **Parameter** | **Details** |
 |---------------|-------------|
-| Container Involved | [Largest tank ID] |
-| Contents | [Fuel type] |
-| Total Potential Volume | [Largest tank capacity] gallons |
+| Container Involved | Above ground storage tanks (AST) |
+| Contents | Reg Gazoline |
+| Total Potential Volume | 3000 liters |
 | Time to Detect | [Estimated detection time] minutes |
 | Time to Respond | [Estimated response time] minutes |
 | Estimated Discharge to Water | [Estimated volume to water] gallons |
@@ -179,11 +176,11 @@ in significant environmental damage and regulatory penalties.
 
 | **Criteria** | **Yes/No** |
 |--------------|------------|
-| Does facility have total storage > 42,000 gallons? | [Yes/No] |
+| Does facility have total storage > 42,000 gallons? | No |
 | Does facility lack secondary containment for largest container? | [Yes/No] |
 | Is facility within 1/4 mile of navigable waterway? | Yes |
 | Has facility had a reportable spill in past 5 years? | No |
-| Does facility transfer oil over water? | Yes |
+| Does facility transfer oil over water? | No |
 
 ☒ **Facility DOES pose substantial harm to environment** (due to proximity to water and over-water transfers)
 ☐ **Facility DOES NOT pose substantial harm to environment**
@@ -196,22 +193,19 @@ in significant environmental damage and regulatory penalties.
 
 | **Tank ID** | **Manufacturer** | **Model** | **Standard** | **Double-Bottom?** |
 |-------------|------------------|-----------|--------------|---------------------|
-| [Tank ID] | [Manufacturer] | [Model] | [UL 142 / API 650] | [Yes/No] |
-| [Tank ID] | [Manufacturer] | [Model] | [UL 142 / API 650] | [Yes/No] |
+| 1 | Concrete | Concrete | [UL 142 / API 650] | [Yes/No] |
 
 ### 5.2 Corrosion Protection
 
 | **Tank ID** | **Material** | **Coating** | **Cathodic Protection** | **Last Tested** |
 |-------------|--------------|-------------|------------------------|-----------------|
-| [Tank ID] | [Steel/Fiberglass] | [Type] | [Yes/No] | [Date] |
-| [Tank ID] | [Steel/Fiberglass] | [Type] | [Yes/No] | [Date] |
+| 1 | Concrete | Concrete | Yes | 2025 |
 
 ### 5.3 Overfill Prevention
 
 | **Tank ID** | **High-Level Alarm** | **Auto Shutoff** | **Visual Gauge** | **Last Calibrated** |
 |-------------|---------------------|------------------|------------------|---------------------|
-| [Tank ID] | [Yes/No] | [Yes/No] | [Yes/No] | [Date] |
-| [Tank ID] | [Yes/No] | [Yes/No] | [Yes/No] | [Date] |
+| 1 | Yes | Yes | Yes | 2025 |
 
 ### 5.4 Transfer Operations
 
@@ -243,9 +237,8 @@ in significant environmental damage and regulatory penalties.
 ☒ Facility has a shut-off valve located over land that will stop the flow of product
 
 **Description of shut-off valve placement:**
-[Describe the placement of the shut-off valve and how it works - required by
-Marina supplement question 6]
 
+Shutoff button is located in the Mini-Barn near the boat ramp. 
 
 ### 5.5 Piping Systems
 
@@ -278,7 +271,6 @@ Subtract displacement from tanks/equipment: _____ cu ft
 Net capacity: _____ cu ft × 7.48 gal/cu ft = _____ gallons
 Largest tank capacity: _____ gallons
 Containment capacity is _____% of largest tank capacity
-
 
 *[Detailed calculations to be completed based on actual tank dimensions]*
 
