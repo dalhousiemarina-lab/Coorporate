@@ -627,14 +627,27 @@ If a spill occurs in the fuel storage area:
 6- Clean up and properly dispose of contaminated materials
 
 
-**Dock/Fueling Area:**
-If a spill occurs at the dock during fueling:
+**Boat Launch Ramp - PRIMARY FUELING LOCATION:**
+
+If a spill occurs at the boat launch ramp during fueling:
 1- STOP FUELING IMMEDIATELY
-2- Activate emergency shut-off valve (over-land)
-3- Deploy absorbent booms around the spill to contain
+2- Activate emergency shut-off for Wayne pump
+3- Deploy absorbent booms AROUND the spill to contain and prevent water entry
 4- Use absorbent pads to recover product
-5- Notify facility manager immediately
-6- Contact authorities if spill reaches water
+5- Notify facility manager IMMEDIATELY
+6- Call 911 if spill poses immediate threat
+7- Contact Canadian Coast Guard (VHF Channel 16 or 1-800-267-7270) if spill reaches water
+8- Report to Environment Canada Spill Reporting (1-800-565-1633) if reportable quantity
+
+**Docks:**
+⚠️ NO FUELING AT DOCKS PERMITTED ⚠️
+If a spill is discovered at docks (unauthorized fueling or other source):
+1- Ensure personal safety
+2- STOP any fueling immediately if occurring
+3- Deploy spill booms around spill to contain
+4- Notify Harbour Master IMMEDIATELY
+5- Call 911 and Canadian Coast Guard
+6- Document and report unauthorized fueling per Code of Conduct
 
 ### 10.4 Spill Response Flowchart
 
@@ -670,46 +683,58 @@ If a spill occurs at the dock during fueling:
 - Update records
 - Review lessons
 
+
 ---
 
 ## SECTION 11.0: EMERGENCY CONTACTS
 
-### 11.1 Internal Contacts
+### 11.1 Internal Contacts (per ERP Section 4)
 
 | **Contact** | **Name** | **Title** | **Phone** | **24-Hour** |
 |-------------|----------|-----------|-----------|-------------|
-| Emergency Coordinator | Marc Girouard | [Title] | [Phone] | [24-hr phone] |
-| Facility Manager | Marc Girouard | [Title] | [Phone] | [24-hr phone] |
+| Emergency Coordinator | Marc Girouard | [Title] | (506) 684-5298 | [24-hr phone] |
+| Facility Manager | Marc Girouard | [Title] | (506) 684-5298 | [24-hr phone] |
+| Harbour Master | [Name] | Harbour Master | [Insert Cell Number] | [Insert Cell Number] |
+| Campground Manager | [Name] | Campground Manager | [Insert Cell Number] | [Insert Cell Number] |
+| Commodore | [Name] | Commodore | [Insert Cell Number] | [Insert Cell Number] |
+| Treasurer | [Name] | Treasurer | [Insert Cell Number] | [Insert Cell Number] |
+| Secretary | [Name] | Secretary | [Insert Cell Number] | [Insert Cell Number] |
 | Safety Officer | [Name] | [Title] | [Phone] | [24-hr phone] |
-| Board of Directors Contact | [Name] | Chair | [Phone] | [24-hr phone] |
 
-### 11.2 Emergency Services
+### 11.2 Emergency Services (per ERP Section 4)
 
 | **Service** | **Phone** | **Contact Priority** |
 |-------------|-----------|----------------------|
 | Fire Department | 911 | Immediate threat |
 | Police Department | 911 | Immediate threat |
 | Ambulance | 911 | Injury |
-| Dalhousie Regional Hospital | [Local number] | If transported |
+| **RCMP (Dalhousie Detachment)** | **(506) 684-7575** | Non-emergency |
+| **Fire Department (Dalhousie)** | **(506) 684-2360** | Non-emergency |
+| **Local Hospital (Campbellton Regional)** | **(506) 789-7000** | Medical |
+| Poison Control Centre | 1-800-222-1222 | Poisoning |
 
-### 11.3 Regulatory Agencies (Canada)
+### 11.3 Regulatory Agencies (Canada) (per ERP Section 4)
 
 | **Agency** | **Phone** | **Reporting Requirement** |
 |------------|-----------|---------------------------|
-| National Environmental Emergencies Centre | 1-866-283-2333 | Reportable spills |
-| Environment Canada | [Regional number] | As required |
+| **Canadian Coast Guard – Search & Rescue** | **1-800-267-7270 or VHF Channel 16** | Spill to water |
+| **Environment Canada Spill Reporting** | **1-800-565-1633** | Reportable spills |
 | New Brunswick Department of Environment | [Provincial number] | As required |
-| Canadian Coast Guard | [Regional number] | If navigable waters affected |
 
 ### 11.4 Response Resources
 
 | **Resource** | **Company** | **Phone** | **Response Time** |
 |--------------|-------------|-----------|-------------------|
+| **Fuel Supplier / Lessor** | **Michaud Harnois Energies Inc.** | **[Phone]** | **[Time]** |
 | Spill Response Contractor | [Local contractor] | [Phone] | [Time] |
 | Environmental Consultant | [Local consultant] | [Phone] | [Time] |
 | Waste Disposal Contractor | [Local contractor] | [Phone] | [Time] |
 
-### 11.5 Emergency Phone List Locations
+### 11.5 Emergency Phone List Locations (per ERP Section 4)
+
+Emergency contact
+
+
 
 Emergency contact lists are posted at:
 
