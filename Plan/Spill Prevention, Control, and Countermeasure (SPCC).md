@@ -618,7 +618,9 @@ Training records will be maintained for at least 3 years and include:
 ### 10.3 Spill Response Procedures by Location
 
 **Fuel Storage Area:**
+
 If a spill occurs in the fuel storage area:
+
 1. Ensure personal safety
 2. Stop the source (close valves, shut pumps)
 3. Contain using spill kit materials
@@ -643,7 +645,9 @@ If a spill occurs at the boat launch ramp during fueling:
 **Docks:**
 
 ⚠️ NO FUELING AT DOCKS PERMITTED ⚠️
+
 If a spill is discovered at docks (unauthorized fueling or other source):
+
 1. Ensure personal safety
 2. STOP any fueling immediately if occurring
 3. Deploy spill booms around spill to contain
