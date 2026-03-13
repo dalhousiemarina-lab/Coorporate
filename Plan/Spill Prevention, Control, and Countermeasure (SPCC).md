@@ -1,38 +1,38 @@
 # Spill Prevention, Control, and Countermeasure (SPCC) Plan
 
-In accordance with 40 CFR Part 112
+**In accordance with 40 CFR Part 112**
 
 ---
 
 ## FACILITY INFORMATION
 
- Field  Information 
-----------------------------
- Facility Name  
- Street Address  
- City, State, ZIP  
- County  
- LatitudeLongitude  
- Phone Number  
- Fax Number  
+| **Field** | **Information** |
+|-----------|-----------------|
+| Facility Name | Dalhousie Regional Marina Ltd |
+| Street Address | 111 Rock Island Rd |
+| City, State, ZIP | Dalhousie, NB E8C 2K9 |
+| County | Restigouche County |
+| Latitude/Longitude | [To be determined] |
+| Phone Number | [Facility phone number] |
+| Fax Number | [Facility fax number] |
 
 ---
 
-## OWNER  OPERATOR INFORMATION
+## OWNER / OPERATOR INFORMATION
 
- Field  Information 
-----------------------------
- Owner Name  
- Owner Address  
- City, State, ZIP  
- Owner Phone  
+| **Field** | **Information** |
+|-----------|-----------------|
+| Owner Name | Non-Profit Organisation |
+| Owner Address | [Address of NPO] |
+| City, State, ZIP | [City, Province, Postal Code] |
+| Owner Phone | [Owner phone number] |
 
- Field  Information 
-----------------------------
- Operator Name (if different)  
- Operator Address  
- City, State, ZIP  
- Operator Phone  
+| **Field** | **Information** |
+|-----------|-----------------|
+| Operator Name (if different) | Board of Directors (BoD) of the NPO |
+| Operator Address | c/o Dalhousie Regional Marina Ltd |
+| City, State, ZIP | 111 Rock Island Rd, Dalhousie, NB E8C 2K9 |
+| Operator Phone | [Operator phone number] |
 
 ---
 
@@ -40,255 +40,152 @@ In accordance with 40 CFR Part 112
 
 ### Person Accountable for Spill Prevention
 
- Field  Information 
-----------------------------
- Name  
- Title  
- Work Phone  
- 24-Hour Emergency Phone  
- Email  
+| **Field** | **Information** |
+|-----------|-----------------|
+| Name | Marc Girouard |
+| Title | [Title - e.g., Facility Manager] |
+| Work Phone | [Work phone number] |
+| 24-Hour Emergency Phone | [Emergency contact number] |
+| Email | [Email address] |
 
 ### Alternate Emergency Contact
 
- Field  Information 
-----------------------------
- Name  
- Title  
- Work Phone  
- 24-Hour Emergency Phone  
- Email  
+| **Field** | **Information** |
+|-----------|-----------------|
+| Name | [Name of alternate contact] |
+| Title | [Title] |
+| Work Phone | [Work phone number] |
+| 24-Hour Emergency Phone | [Emergency contact number] |
+| Email | [Email address] |
 
 ---
 
 ## PLAN ADMINISTRATION
 
- Item  Date 
---------------------
- Original Plan Date  
- Last Review Date  
- Last Amendment Date  
- Next Review Date (5 years)  
+| **Item** | **Date** |
+|----------|----------|
+| Original Plan Date | March 12, 2026 |
+| Last Review Date | March 12, 2026 |
+| Last Amendment Date | March 12, 2026 |
+| Next Review Date (5 years) | March 12, 2031 |
 
 ---
 
 ## TABLE OF CONTENTS
 
- Section  Title  Page 
-----------------------------------
- 1.0  Facility Description  
- 2.0  Oil Storage Inventory  
- 3.0  Spill History  
- 4.0  Potential Spill Predictions  
- 5.0  Prevention Measures  
- 6.0  Secondary Containment  
- 7.0  Inspections and Monitoring  
- 8.0  Site Security  
- 9.0  Personnel Training  
- 10.0  Spill Response Procedures  
- 11.0  Emergency Contacts  
- 12.0  Plan Review and Amendment  
- 13.0  Certification  
- Appendices  Supporting Documents  
+| **Section** | **Title** | **Page** |
+|-------------|-----------|----------|
+| 1.0 | Facility Description | |
+| 2.0 | Oil Storage Inventory | |
+| 3.0 | Spill History | |
+| 4.0 | Potential Spill Predictions | |
+| 5.0 | Prevention Measures | |
+| 6.0 | Secondary Containment | |
+| 7.0 | Inspections and Monitoring | |
+| 8.0 | Site Security | |
+| 9.0 | Personnel Training | |
+| 10.0 | Spill Response Procedures | |
+| 11.0 | Emergency Contacts | |
+| 12.0 | Plan Review and Amendment | |
+| 13.0 | Certification | |
+| Appendices | Supporting Documents | |
 
 ---
 
-## SECTION 1.0 FACILITY DESCRIPTION
+## SECTION 1.0: FACILITY DESCRIPTION
 
 ### 1.1 Facility Operations
-
 Describe day-to-day operations, hours of operation, number of personnel,
 and how oil products are received (pipeline, railcar, tanker truck):
+
 
 **Operations Summary:**
 
 | **Field** | **Information** |
 |-----------|-----------------|
-| Type of Facility | |
-| Hours of Operation | |
-| Number of Employees | |
-| Days of Operation | |
+| Type of Facility | Marina and Campground |
+| Hours of Operation | [e.g., 8:00 AM - 8:00 PM daily, seasonal] |
+| Number of Employees | [Number of employees] |
+| Days of Operation | Seasonal / Year-round operation |
 
 **Oil Handling Activities:**
 
-- 
-- 
-- 
+- Fueling of recreational watercraft
+- Storage of marine fuels (gasoline/diesel)
+- Fuel transfer operations at dockside
+- Maintenance of fueling equipment
 
 **Product Receipt Methods:**
 
-- 
-- 
-- 
+- Tanker truck delivery to storage tanks
+- [Frequency of deliveries]
 
 ### 1.2 Facility Layout
 
 **General Description:**
+The facility is a marina and campground located at 111 Rock Island Rd, Dalhousie, NB.
+The facility includes fuel storage tanks, docks with fueling capabilities, and
+campground facilities. The fuel storage area is located [describe location relative
+to water, buildings, etc.].
 
-Describe the facility layout, including location of storage areas,
-transfer points, and buildings:
 
 **Site Features:**
 
 | **Feature** | **Description** |
 |-------------|-----------------|
-| Total Acreage | |
-| Number of Buildings | |
-| Paved Areas | |
-| Unpaved Areas | |
+| Total Acreage | [Total acreage] |
+| Number of Buildings | [Number of buildings] |
+| Paved Areas | [Description of paved areas] |
+| Unpaved Areas | [Description of unpaved areas] |
 
 ### 1.3 Nearby Waterways
 
 | **Water Body** | **Distance** | **Direction** | **Flow Path** |
 |----------------|--------------|---------------|---------------|
-| | | | |
-| | | | |
-| | | | |
+| [Name of water body - e.g., Baie des Chaleurs] | Adjacent | [Direction] | Direct runoff to water |
+| [Name of adjacent river/lake] | [Distance] | [Direction] | [Flow path description] |
 
 **Description of Drainage Pathways:**
-
-Describe ditches, storm drains, culverts, or other pathways that could
-transport oil to waterways:
-
-### 1.4 Climate and Weather Considerations
-
-| **Factor** | **Description** |
-|------------|-----------------|
-| Average Rainfall | |
-| 100-Year Flood Level | |
-| Prevailing Wind Direction | |
-| Freeze/Thaw Cycles | |
-
----
-
-## SECTION 2.0: OIL STORAGE INVENTORY
-
-### 2.1 Aboveground Storage Tanks (ASTs)
-
-| **Tank ID** | **Contents** | **Capacity (gal)** | **Construction** | **Year Installed** | **Secondary Containment** |
-|-------------|--------------|--------------------|-------------------|---------------------|---------------------------|
-| T-101 | | | | | |
-| T-102 | | | | | |
-| T-103 | | | | | |
-| T-104 | | | | | |
-| T-105 | | | | | |
-
-### 2.2 Underground Storage Tanks (USTs)
-
-| **Tank ID** | **Contents** | **Capacity (gal)** | **Construction** | **Year Installed** | **Leak Detection** |
-|-------------|--------------|--------------------|-------------------|---------------------|---------------------|
-| U-101 | | | | | |
-| U-102 | | | | | |
-| U-103 | | | | | |
-
-### 2.3 Mobile/Portable Containers
-
-| **Container Type** | **Contents** | **Typical Quantity** | **Typical Capacity (gal)** | **Storage Location** |
-|--------------------|--------------|----------------------|----------------------------|----------------------|
-| Drums (55-gal) | | | | |
-| Totes (IBCs) | | | | |
-| Day Tanks | | | | |
-| Fuel Trailers | | | | |
-
-### 2.4 Oil-Filled Equipment
-
-| **Equipment** | **Contents** | **Capacity (gal)** | **Location** |
-|---------------|--------------|--------------------|--------------|
-| Transformers | | | |
-| Hydraulic Systems | | | |
-| Generators | | | |
-
-### 2.5 Summary Totals
-
-| **Category** | **Capacity (gallons)** |
-|--------------|------------------------|
-| Total Aboveground Storage Capacity | |
-| Total Buried Storage Capacity | |
-| Largest Single Container Capacity | |
-| Total Facility Oil Storage Capacity | |
-| Total Oil-Filled Equipment Capacity | |
-
----
-
-## SECTION 3.0: SPILL HISTORY [40 CFR 112.4]
-
-### 3.1 Spills Within Past 12 Months
-
-| **Date** | **Oil Type** | **Amount (gal)** | **Cause** | **Corrective Action** |
-|----------|--------------|------------------|-----------|----------------------|
-| | | | | |
-| | | | | |
-| | | | | |
-
-☐ **No spills have occurred in the past 12 months.**
-
-### 3.2 Spills Within Past 5 Years
-
-| **Date** | **Oil Type** | **Amount (gal)** | **Cause** | **Corrective Action** |
-|----------|--------------|------------------|-----------|----------------------|
-| | | | | |
-| | | | | |
-| | | | | |
-
-### 3.3 Reportable Spill Determination
-
-☐ Facility has had a reportable spill (>42 gal to water) in past 12 months
-☐ Facility has had two or more reportable spills in past 12 months
-☐ Facility has not had any reportable spills
-
----
-
-## SECTION 4.0: POTENTIAL SPILL PREDICTIONS [40 CFR 112.7(b)]
-
-### 4.1 Potential Failure Scenarios
-
-| **Failure Type** | **Source** | **Rate of Flow** | **Duration** | **Potential Volume** |
-|------------------|------------|------------------|--------------|----------------------|
-| Tank Overflow | | | | |
-| Tank Rupture | | | | |
-| Pipe Failure | | | | |
-| Hose Failure | | | | |
-| Pump Seal Failure | | | | |
-| Valve Failure | | | | |
-| Transfer Spill | | | | |
-| Vehicle Collision | | | | |
-| Vandalism | | | | |
-| Natural Disaster | | | | |
-
-### 4.2 Worst-Case Discharge Scenario
-
 The worst-case discharge scenario would involve failure of the largest
-container with discharge reaching a navigable waterway.
+storage tank with discharge reaching the adjacent water body.
 
-**Scenario Description:**
 
 | **Parameter** | **Details** |
 |---------------|-------------|
-| Container Involved | |
-| Contents | |
-| Total Potential Volume | gallons |
-| Time to Detect | minutes |
-| Time to Respond | minutes |
-| Estimated Discharge to Water | gallons |
+| Container Involved | [Largest tank ID] |
+| Contents | [Fuel type] |
+| Total Potential Volume | [Largest tank capacity] gallons |
+| Time to Detect | [Estimated detection time] minutes |
+| Time to Respond | [Estimated response time] minutes |
+| Estimated Discharge to Water | [Estimated volume to water] gallons |
 
 **Pathway to Waterway:**
+The fuel storage area is located [distance] from the water's edge. In the event
+of a tank failure, fuel would flow [describe drainage path - e.g., across paved
+surface, through storm drains] and discharge to [water body name]. Fueling docks
+are located directly over the water, presenting an immediate pathway during
+dispensing operations.
 
-Describe how oil would reach navigable waters:
 
 **Potential Environmental Impact:**
+A discharge to [water body name] could impact water quality, aquatic life,
+waterfowl, and recreational users of the waterway. The facility is adjacent to
+[a swimming area? - Note from Marina supplement: "None known" for recreational
+swimming area within 600 metres]. Cleanup would be difficult and could result
+in significant environmental damage and regulatory penalties.
 
-Describe potential impact on waterway, sensitive areas, and wildlife:
 
 ### 4.3 Substantial Harm Determination [40 CFR 112.20]
 
 | **Criteria** | **Yes/No** |
 |--------------|------------|
-| Does facility have total storage > 42,000 gallons? | |
-| Does facility lack secondary containment for largest container? | |
-| Is facility within 1/4 mile of navigable waterway? | |
-| Has facility had a reportable spill in past 5 years? | |
-| Does facility transfer oil over water? | |
+| Does facility have total storage > 42,000 gallons? | [Yes/No] |
+| Does facility lack secondary containment for largest container? | [Yes/No] |
+| Is facility within 1/4 mile of navigable waterway? | Yes |
+| Has facility had a reportable spill in past 5 years? | No |
+| Does facility transfer oil over water? | Yes |
 
-☐ **Facility DOES pose substantial harm to environment**
+☒ **Facility DOES pose substantial harm to environment** (due to proximity to water and over-water transfers)
 ☐ **Facility DOES NOT pose substantial harm to environment**
 
 ---
@@ -299,25 +196,22 @@ Describe potential impact on waterway, sensitive areas, and wildlife:
 
 | **Tank ID** | **Manufacturer** | **Model** | **Standard** | **Double-Bottom?** |
 |-------------|------------------|-----------|--------------|---------------------|
-| | | | UL 142 / API 650 | Yes/No |
-| | | | UL 142 / API 650 | Yes/No |
-| | | | UL 142 / API 650 | Yes/No |
+| [Tank ID] | [Manufacturer] | [Model] | [UL 142 / API 650] | [Yes/No] |
+| [Tank ID] | [Manufacturer] | [Model] | [UL 142 / API 650] | [Yes/No] |
 
 ### 5.2 Corrosion Protection
 
 | **Tank ID** | **Material** | **Coating** | **Cathodic Protection** | **Last Tested** |
 |-------------|--------------|-------------|------------------------|-----------------|
-| | Steel/Fiberglass | | Yes/No | |
-| | Steel/Fiberglass | | Yes/No | |
-| | Steel/Fiberglass | | Yes/No | |
+| [Tank ID] | [Steel/Fiberglass] | [Type] | [Yes/No] | [Date] |
+| [Tank ID] | [Steel/Fiberglass] | [Type] | [Yes/No] | [Date] |
 
 ### 5.3 Overfill Prevention
 
 | **Tank ID** | **High-Level Alarm** | **Auto Shutoff** | **Visual Gauge** | **Last Calibrated** |
 |-------------|---------------------|------------------|------------------|---------------------|
-| | Yes/No | Yes/No | Yes/No | |
-| | Yes/No | Yes/No | Yes/No | |
-| | Yes/No | Yes/No | Yes/No | |
+| [Tank ID] | [Yes/No] | [Yes/No] | [Yes/No] | [Date] |
+| [Tank ID] | [Yes/No] | [Yes/No] | [Yes/No] | [Date] |
 
 ### 5.4 Transfer Operations
 
@@ -325,34 +219,43 @@ Describe potential impact on waterway, sensitive areas, and wildlife:
 
 | **Area** | **Transfer Type** | **Frequency** | **Supervision** | **Precautions** |
 |----------|-------------------|---------------|-----------------|-----------------|
-| | Truck Offloading | | | |
-| | Railcar Loading | | | |
-| | Drum Filling | | | |
+| Fuel Delivery Area | Truck Offloading | As needed | Attended during transfer | Spill kit present,专人 supervision |
+| Fueling Docks | Boat Fueling | Daily | Attended | Impact protection, shut-off valve |
 
 **Transfer Procedures:**
 
-1. 
-2. 
-3. 
-4. 
-5. 
+1. Attendant must be present during all fuel transfers
+2. Verify tank ullage before beginning transfer
+3. Monitor transfer continuously
+4. Shut off flow immediately if any spill occurs
+5. Inspect hoses before each use
 
 **Transfer Equipment:**
 
 | **Equipment** | **Location** | **Inspection Frequency** |
 |---------------|--------------|--------------------------|
-| Hoses | | |
-| Pumps | | |
-| Valves | | |
-| Meters | | |
+| Fuel Hoses | Docks/Transfer area | Before each use |
+| Dispensing Pumps | Docks | Monthly |
+| Emergency Shut-off Valves | [Location] | Monthly |
+
+**Over-water Transfer Shut-off Valve:**
+
+☒ Facility has a shut-off valve located over land that will stop the flow of product
+
+**Description of shut-off valve placement:**
+[Describe the placement of the shut-off valve and how it works - required by
+Marina supplement question 6]
+
 
 ### 5.5 Piping Systems
 
 | **Pipe ID** | **Material** | **Contents** | **Diameter** | **Length** | **Buried/Air** |
 |-------------|--------------|--------------|--------------|------------|----------------|
-| | | | | | |
-| | | | | | |
-| | | | | | |
+| [Pipe ID] | [Material] | [Fuel type] | [Diameter] | [Length] | [Buried/Air] |
+| [Pipe ID] | [Material] | [Fuel type] | [Diameter] | [Length] | [Buried/Air] |
+
+☐ All underground piping is double-walled
+☐ All aboveground piping is above ground (not buried)
 
 ---
 
@@ -362,108 +265,14 @@ Describe potential impact on waterway, sensitive areas, and wildlife:
 
 | **Area** | **Containment Type** | **Material** | **Dimensions (L×W×H)** | **Capacity (gal)** | **Largest Tank (gal)** | **% Capacity** |
 |----------|----------------------|--------------|------------------------|---------------------|------------------------|----------------|
-| Area 1 | Dike/Berm | Concrete | | | | |
-| Area 2 | Double-Walled | Steel | N/A | | | 100%+ |
-| Area 3 | Remote Impoundment | Liner | | | | |
-| Area 4 | Spill Pallet | Poly | | | | |
+| AST Area | [Dike/Berm/Double-walled] | [Concrete/Steel/Liner] | [Dimensions] | [Capacity] | [Largest tank] | [%] |
+| UST Area | [Double-walled tank] | Steel | N/A | [Integral] | [Tank capacity] | 100%+ |
+
+☐ All aboveground storage tanks have secondary containment via double-walled tank or impermeable dike
 
 ### 6.2 Containment Capacity Calculations
 
 **Area 1 Calculation:**
-
-### 4.3 Substantial Harm Determination [40 CFR 112.20]
-
-| **Criteria** | **Yes/No** |
-|--------------|------------|
-| Does facility have total storage > 42,000 gallons? | |
-| Does facility lack secondary containment for largest container? | |
-| Is facility within 1/4 mile of navigable waterway? | |
-| Has facility had a reportable spill in past 5 years? | |
-| Does facility transfer oil over water? | |
-
-☐ **Facility DOES pose substantial harm to environment**
-☐ **Facility DOES NOT pose substantial harm to environment**
-
----
-
-## SECTION 5.0: PREVENTION MEASURES
-
-### 5.1 Tank Construction and Standards
-
-| **Tank ID** | **Manufacturer** | **Model** | **Standard** | **Double-Bottom?** |
-|-------------|------------------|-----------|--------------|---------------------|
-| | | | UL 142 / API 650 | Yes/No |
-| | | | UL 142 / API 650 | Yes/No |
-| | | | UL 142 / API 650 | Yes/No |
-
-### 5.2 Corrosion Protection
-
-| **Tank ID** | **Material** | **Coating** | **Cathodic Protection** | **Last Tested** |
-|-------------|--------------|-------------|------------------------|-----------------|
-| | Steel/Fiberglass | | Yes/No | |
-| | Steel/Fiberglass | | Yes/No | |
-| | Steel/Fiberglass | | Yes/No | |
-
-### 5.3 Overfill Prevention
-
-| **Tank ID** | **High-Level Alarm** | **Auto Shutoff** | **Visual Gauge** | **Last Calibrated** |
-|-------------|---------------------|------------------|------------------|---------------------|
-| | Yes/No | Yes/No | Yes/No | |
-| | Yes/No | Yes/No | Yes/No | |
-| | Yes/No | Yes/No | Yes/No | |
-
-### 5.4 Transfer Operations
-
-**Loading/Unloading Areas:**
-
-| **Area** | **Transfer Type** | **Frequency** | **Supervision** | **Precautions** |
-|----------|-------------------|---------------|-----------------|-----------------|
-| | Truck Offloading | | | |
-| | Railcar Loading | | | |
-| | Drum Filling | | | |
-
-**Transfer Procedures:**
-
-1. 
-2. 
-3. 
-4. 
-5. 
-
-**Transfer Equipment:**
-
-| **Equipment** | **Location** | **Inspection Frequency** |
-|---------------|--------------|--------------------------|
-| Hoses | | |
-| Pumps | | |
-| Valves | | |
-| Meters | | |
-
-### 5.5 Piping Systems
-
-| **Pipe ID** | **Material** | **Contents** | **Diameter** | **Length** | **Buried/Air** |
-|-------------|--------------|--------------|--------------|------------|----------------|
-| | | | | | |
-| | | | | | |
-| | | | | | |
-
----
-
-## SECTION 6.0: SECONDARY CONTAINMENT [40 CFR 112.7(c)]
-
-### 6.1 Secondary Containment Systems
-
-| **Area** | **Containment Type** | **Material** | **Dimensions (L×W×H)** | **Capacity (gal)** | **Largest Tank (gal)** | **% Capacity** |
-|----------|----------------------|--------------|------------------------|---------------------|------------------------|----------------|
-| Area 1 | Dike/Berm | Concrete | | | | |
-| Area 2 | Double-Walled | Steel | N/A | | | 100%+ |
-| Area 3 | Remote Impoundment | Liner | | | | |
-| Area 4 | Spill Pallet | Poly | | | | |
-
-### 6.2 Containment Capacity Calculations
-
-**Area 1 Calculation:**
-
 Length: _____ ft × Width: _____ ft × Height: _____ ft = _____ cu ft
 Subtract displacement from tanks/equipment: _____ cu ft
 Net capacity: _____ cu ft × 7.48 gal/cu ft = _____ gallons
@@ -471,25 +280,26 @@ Largest tank capacity: _____ gallons
 Containment capacity is _____% of largest tank capacity
 
 
+*[Detailed calculations to be completed based on actual tank dimensions]*
+
 ### 6.3 Drainage Control
 
 **Diked Area Drainage:**
 
 | **Area** | **Drain Type** | **Valve Type** | **Normal Position** | **Valve Location** | **Inspection Frequency** |
 |----------|---------------|----------------|---------------------|--------------------|--------------------------|
-| Area 1 | Gravity | Gate | Closed | | |
-| Area 2 | Pumped | Ball | Closed | | |
+| AST Area | [Gravity/Pumped] | [Gate/Ball] | Closed | [Location] | Weekly |
 
 **Undiked Area Drainage:**
-Describe drainage from areas without secondary containment:
+Fueling docks are located over water. Spill response equipment is maintained
+at the dock area for immediate deployment.
 
 
 ### 6.4 Rainwater Removal
 
 | **Area** | **Rainwater Removal Method** | **Inspection Before Removal** | **Records Kept** |
 |----------|------------------------------|-------------------------------|------------------|
-| Area 1 | Pump/Valve | Yes/No | Yes/No |
-| Area 2 | Pump/Valve | Yes/No | Yes/No |
+| AST Area | [Pump/Valve] | Yes | Yes |
 
 ---
 
@@ -499,19 +309,25 @@ Describe drainage from areas without secondary containment:
 
 | **Item** | **Frequency** | **Responsible Party** | **Form Used** |
 |----------|--------------|----------------------|---------------|
-| Tank Exteriors | Weekly | | Form A |
-| Secondary Containment | Weekly | | Form A |
-| Piping/Valves | Monthly | | Form B |
-| Spill Equipment | Monthly | | Form C |
-| Level Monitoring | Daily/Continuous | | Log |
-| Security Systems | Weekly | | Form D |
-| Overfill Prevention | Monthly | | Form E |
-| Corrosion Protection | Quarterly | | Form F |
+| Tank Exteriors | Weekly | Facility Manager | Form A |
+| Secondary Containment | Weekly | Facility Manager | Form A |
+| Piping/Valves | Monthly | Facility Manager | Form B |
+| Spill Equipment | Monthly | Facility Manager | Form C |
+| Level Monitoring | Daily | Operator | Log |
+| Security Systems | Weekly | Facility Manager | Form D |
+| Overfill Prevention | Monthly | Facility Manager | Form E |
+| Leak Detection (UST) | [Frequency] | [Responsible] | [Form] |
 
 ### 7.2 Inspection Procedures
-
-Describe what inspectors look for: corrosion, leaks, cracks,
-vegetation in diked areas, valve positions, etc.
+Inspectors shall check for:
+Visible leaks, stains, or signs of release
+Corrosion, rust, or deterioration
+Damage to tanks, piping, or dispensers
+Vegetation growth in diked areas (indicating possible leaks)
+Proper valve positioning
+Accumulated liquid in secondary containment
+Functionality of overfill prevention equipment
+Availability and condition of spill response equipment
 
 
 **Tank Inspection Checklist:**
@@ -530,8 +346,8 @@ vegetation in diked areas, valve positions, etc.
 - ☐ Cracks in concrete
 - ☐ Vegetation growth
 - ☐ Accumulated liquid
-- ☐ Valve position
-- ☐ Liner condition
+- ☐ Valve position (closed)
+- ☐ Liner condition (if applicable)
 - ☐ Seals/gaskets
 - ☐ Freeboard level
 
@@ -557,9 +373,9 @@ vegetation in diked areas, valve positions, etc.
 
 | **Date** | **Inspector** | **Equipment** | **Location** | **Status** | **Deficiencies** |
 |----------|--------------|---------------|--------------|------------|-------------------|
-| | | | | | |
-| | | | | | |
-| | | | | | |
+| | | Spill Kit | Dock Area | | |
+| | | Spill Kit | Fuel Storage | | |
+| | | Absorbents | [Location] | | |
 
 ### 7.4 Recordkeeping
 
@@ -580,19 +396,17 @@ Inspection records will be maintained for at least 3 years and include:
 
 | **Measure** | **Description** | **Location** |
 |-------------|-----------------|--------------|
-| Fencing | | |
-| Lighting | | |
-| Locks on Valves | | |
-| Security Cameras | | |
-| Restricted Access | | |
-| Alarm Systems | | |
-| Security Personnel | | |
-| Motion Sensors | | |
-| Security Signs | | |
+| Fencing | [Type of fencing] | Around fuel storage area |
+| Lighting | [Type of lighting] | Fuel storage and dock areas |
+| Locks on Valves | [Yes/No - description] | [Location] |
+| Security Cameras | [Yes/No] | [Location] |
+| Restricted Access | Limited access to fuel area | Fuel storage |
+| Security Signs | Warning signs posted | Facility entrances, fuel area |
 
 ### 8.2 Control of Access
-
-Describe who has access, key control procedures, visitor policies:
+Access to fuel storage areas is restricted to authorized personnel only.
+Visitors and contractors must be escorted. Fuel dispensing to boats is
+supervised by facility staff.
 
 
 **Access Authorization:**
@@ -600,34 +414,35 @@ Describe who has access, key control procedures, visitor policies:
 | **Role** | **Access Level** | **Key/Code Holder** |
 |----------|------------------|---------------------|
 | Facility Manager | Full | Yes |
-| Operators | Operating Areas | Yes |
+| Operators | Fuel dispensing areas | Yes |
 | Maintenance | As needed | Yes |
 | Visitors | Escorted only | No |
 | Contractors | Escorted/Work area | Temporary |
 
 **Key/Code Control Procedures:**
 
-- 
-- 
-- 
+- Keys are issued only to authorized personnel
+- Key inventory is maintained
+- Lost keys must be reported immediately
+- Access codes are changed [frequency]
 
 ### 8.3 Lighting
 
 | **Area** | **Lighting Type** | **Hours of Operation** | **Last Checked** |
 |----------|-------------------|------------------------|------------------|
-| Tank Farm | | Dusk to Dawn | |
-| Transfer Areas | | During operations | |
-| Entry Points | | Dusk to Dawn | |
+| Fuel Storage | [Type] | Dusk to Dawn / During operations | [Date] |
+| Dock Area | [Type] | During operations | [Date] |
+| Entry Points | [Type] | Dusk to Dawn | [Date] |
 
 ### 8.4 Security Inspections
 
 | **Item** | **Frequency** | **Last Inspection** | **Findings** |
 |----------|--------------|---------------------|--------------|
-| Fence Integrity | Weekly | | |
-| Gate Locks | Weekly | | |
-| Lighting | Weekly | | |
-| Camera Operation | Monthly | | |
-| Alarm Test | Monthly | | |
+| Fence Integrity | Weekly | [Date] | [Findings] |
+| Gate Locks | Weekly | [Date] | [Findings] |
+| Lighting | Weekly | [Date] | [Findings] |
+| Camera Operation | Monthly | [Date] | [Findings] |
+| Alarm Test | Monthly | [Date] | [Findings] |
 
 ---
 
@@ -653,10 +468,9 @@ All oil-handling personnel shall receive training on:
 | **Position** | **Initial Training** | **Annual Refresher** | **Drill Participation** |
 |--------------|---------------------|----------------------|------------------------|
 | Facility Manager | 8 hours | 2 hours | Yes |
-| Operators | 4 hours | 2 hours | Yes |
+| Fuel Attendants | 4 hours | 2 hours | Yes |
 | Maintenance | 4 hours | 1 hour | Yes |
-| Supervisors | 4 hours | 2 hours | Yes |
-| Security | 2 hours | 1 hour | No |
+| Campground Staff | 2 hours | 1 hour | No |
 
 ### 9.3 Discharge Prevention Briefings
 
@@ -674,11 +488,9 @@ Annual briefings will be conducted for all oil-handling personnel to discuss:
 
 | **Drill Type** | **Frequency** | **Last Conducted** | **Next Scheduled** | **Participants** |
 |----------------|--------------|-------------------|---------------------|-------------------|
-| Tabletop Exercise | Annual | | | |
-| Equipment Deployment | Semi-annual | | | |
-| Full-Scale Drill | Annual | | | |
-| Notification Drill | Quarterly | | | |
-| Walkthrough Drill | Monthly | | | |
+| Tabletop Exercise | Annual | [Date] | [Date + 1 year] | Management |
+| Equipment Deployment | Semi-annual | [Date] | [Date + 6 months] | Fuel attendants |
+| Notification Drill | Quarterly | [Date] | [Date + 3 months] | All staff |
 
 ### 9.5 Training Documentation
 
@@ -709,14 +521,14 @@ Training records will be maintained for at least 3 years and include:
 
 **Step 1: ENSURE PERSONAL SAFETY**
 - Evacuate area if necessary
-- Eliminate ignition sources
+- Eliminate ignition sources (no smoking, shut off engines)
 - Wear appropriate PPE
 - Do not walk through spilled material
 - Alert others in the area
 
 **Step 2: STOP THE SOURCE** (if safe to do so)
 - Shut down pumps
-- Close valves
+- Close valves (including over-land shut-off valve)
 - Stop transfer operations
 - Right overturned containers
 - Plug leaks if possible
@@ -725,8 +537,8 @@ Training records will be maintained for at least 3 years and include:
 - Deploy spill kits/absorbents
 - Block drains
 - Create dikes/berms
-- Cover drains with plastic/absorbents
-- Use booms for water protection
+- Use booms to protect water (critical for dock areas)
+- Prevent product from reaching water
 
 **Step 4: NOTIFY**
 - Notify supervisor immediately
@@ -744,38 +556,36 @@ Training records will be maintained for at least 3 years and include:
 
 | **Equipment Type** | **Quantity** | **Location** | **Capacity** | **Last Inspected** |
 |-------------------|--------------|--------------|--------------|---------------------|
-| Spill Kits | | | | |
-| Absorbent Pads | | | | |
-| Absorbent Booms | | | | |
-| Absorbent Socks | | | | |
-| Absorbent Granules | | | lbs | |
-| Drain Covers | | | | |
-| PPE - Gloves | | | pairs | |
-| PPE - Goggles | | | pairs | |
-| PPE - Suits | | | each | |
-| PPE - Boots | | | pairs | |
-| Portable Pumps | | | gpm | |
-| Empty Drums | | | 55 gal | |
-| Shovels/Picks | | | | |
-| Emergency Eye Wash | | | | |
-| Fire Extinguishers | | | | |
-| Plastic Sheeting | | | sq ft | |
-| Emergency Lighting | | | | |
+| Spill Kits | [Quantity] | Dock Area | [Size] | [Date] |
+| Spill Kits | [Quantity] | Fuel Storage Area | [Size] | [Date] |
+| Absorbent Pads | [Quantity] | [Location] | | [Date] |
+| Absorbent Booms | [Quantity] | [Location] | [Length] | [Date] |
+| Absorbent Socks | [Quantity] | [Location] | | [Date] |
+| Drain Covers | [Quantity] | [Location] | | [Date] |
+| PPE - Gloves | [Quantity] | [Location] | pairs | [Date] |
+| PPE - Goggles | [Quantity] | [Location] | pairs | [Date] |
+| Fire Extinguishers | [Quantity] | [Location] | [Type] | [Date] |
 
 ### 10.3 Spill Response Procedures by Location
 
-**Tank Farm Area:**
+**Fuel Storage Area:**
+If a spill occurs in the fuel storage area:
+1- Ensure personal safety
+2- Stop the source (close valves, shut pumps)
+3- Contain using spill kit materials
+4- Prevent flow to drains or toward water
+5- Notify facility manager
+6- Clean up and properly dispose of contaminated materials
 
-Specific procedures for tank farm spills:
 
-
-**Loading/Unloading Area:**
-Specific procedures for transfer area spills:
-
-
-**Drum Storage Area:**
-Specific procedures for drum storage spills:
-
+**Dock/Fueling Area:**
+If a spill occurs at the dock during fueling:
+1- STOP FUELING IMMEDIATELY
+2- Activate emergency shut-off valve (over-land)
+3- Deploy absorbent booms around the spill to contain
+4- Use absorbent pads to recover product
+5- Notify facility manager immediately
+6- Contact authorities if spill reaches water
 
 ### 10.4 Spill Response Flowchart
 ┌─────────────────┐
@@ -793,26 +603,26 @@ Specific procedures for drum storage spills:
 │ STOP THE SOURCE │
 │ - Close valves │
 │ - Shut pumps │
-│ - Right drums │
+│ - Activate shut-off │
 └─────────┬─────────┘
 │
 ┌─────────▼─────────┐
 │ CONTAIN THE SPILL│
+│ - Deploy booms │
 │ - Block drains │
-│ - Deploy sorbents│
-│ - Build berms │
+│ - Use sorbents │
 └─────────┬─────────┘
 │
 ┌─────────▼─────────┐
 │ NOTIFY │
 │ - Supervisor │
-│ - Emergency coord│
-│ - Agencies if needed│
+│ - Facility Manager│
+│ - NRC if >42 gal │
 └─────────┬─────────┘
 │
 ┌─────────▼─────────┐
 │ CLEAN UP │
-│ - Recover oil │
+│ - Recover product│
 │ - Dispose waste │
 │ - Restore area │
 └─────────┬─────────┘
@@ -833,13 +643,10 @@ Specific procedures for drum storage spills:
 
 | **Contact** | **Name** | **Title** | **Phone** | **24-Hour** |
 |-------------|----------|-----------|-----------|-------------|
-| Emergency Coordinator | | | | |
-| Facility Manager | | | | |
-| Safety Officer | | | | |
-| Environmental Manager | | | | |
-| Operations Supervisor | | | | |
-| Maintenance Supervisor | | | | |
-| Security | | | | |
+| Emergency Coordinator | Marc Girouard | [Title] | [Phone] | [24-hr phone] |
+| Facility Manager | Marc Girouard | [Title] | [Phone] | [24-hr phone] |
+| Safety Officer | [Name] | [Title] | [Phone] | [24-hr phone] |
+| Board of Directors Contact | [Name] | Chair | [Phone] | [24-hr phone] |
 
 ### 11.2 Emergency Services
 
@@ -848,36 +655,33 @@ Specific procedures for drum storage spills:
 | Fire Department | 911 | Immediate threat |
 | Police Department | 911 | Immediate threat |
 | Ambulance | 911 | Injury |
-| Local Hospital | | If transported |
+| Dalhousie Regional Hospital | [Local number] | If transported |
 
-### 11.3 Regulatory Agencies
+### 11.3 Regulatory Agencies (Canada)
 
 | **Agency** | **Phone** | **Reporting Requirement** |
 |------------|-----------|---------------------------|
-| National Response Center | **(800) 424-8802** | >42 gal to water |
-| State Environmental Agency | | Within 2 hours |
-| Local Emergency Planning Committee | | Within 24 hours |
-| EPA Regional Office | | As required |
-| US Coast Guard | | If navigable waters |
+| National Environmental Emergencies Centre | 1-866-283-2333 | Reportable spills |
+| Environment Canada | [Regional number] | As required |
+| New Brunswick Department of Environment | [Provincial number] | As required |
+| Canadian Coast Guard | [Regional number] | If navigable waters affected |
 
 ### 11.4 Response Resources
 
 | **Resource** | **Company** | **Phone** | **Response Time** |
 |--------------|-------------|-----------|-------------------|
-| Spill Response Contractor | | | |
-| Environmental Consultant | | | |
-| Waste Disposal Contractor | | | |
-| Tank Vacuum Service | | | |
-| Legal Counsel | | | |
-| Insurance Provider | | | |
+| Spill Response Contractor | [Local contractor] | [Phone] | [Time] |
+| Environmental Consultant | [Local consultant] | [Phone] | [Time] |
+| Waste Disposal Contractor | [Local contractor] | [Phone] | [Time] |
 
 ### 11.5 Emergency Phone List Locations
 
 Emergency contact lists are posted at:
 
-- 
-- 
-- 
+- Fuel storage area
+- Dock office
+- Main office
+- Campground registration area
 
 ---
 
@@ -891,9 +695,9 @@ This Plan will be reviewed at least once every five years from the certification
 
 | **Review** | **Date Due** | **Completed** | **Changes Needed?** |
 |------------|--------------|---------------|---------------------|
-| 1st Review | | | |
-| 2nd Review | | | |
-| 3rd Review | | | |
+| 1st Review | March 12, 2031 | | |
+| 2nd Review | March 12, 2036 | | |
+| 3rd Review | March 12, 2041 | | |
 
 **Review Documentation:**
 
@@ -922,8 +726,6 @@ This Plan will be amended within six months if:
 | 1 | | | | |
 | 2 | | | | |
 | 3 | | | | |
-| 4 | | | | |
-| 5 | | | | |
 
 ---
 
@@ -943,34 +745,16 @@ _________________________________________
 Signature of Facility Owner/Operator
 
 _________________________________________
+Marc Girouard
 Printed Name
 
 _________________________________________
+[Title - e.g., Facility Manager]
 Title
 
 _________________________________________
+March 12, 2026
 Date
-
----
-
-**For Facilities Requiring Professional Engineer Certification:**
-
-I hereby certify that this SPCC Plan has been prepared in accordance with good engineering practices, including consideration of applicable industry standards, and with the requirements of 40 CFR 112.
-
-_________________________________________
-Signature of Registered Professional Engineer
-
-_________________________________________
-Printed Name
-
-_________________________________________
-PE License Number and State
-
-_________________________________________
-Date
-
-_________________________________________
-[PE SEAL]
 
 ---
 
@@ -978,42 +762,30 @@ _________________________________________
 
 ### Appendix A: Facility Site Plan/Diagram
 
-*[Include detailed facility map showing:]*
+*[Facility diagram to be attached showing:]*
 
-- All tank/vessel locations and IDs
-- Transfer areas
-- Secondary containment boundaries
-- Drainage patterns and direction
-- Spill equipment locations
-- Nearby waterways (with distances)
-- Facility boundaries
-- Access points
-- Utility shutoffs
-- Emergency assembly areas
-- Fire extinguisher locations
-- First aid stations
-- Evacuation routes
+- [ ] All tank/vessel locations and IDs
+- [ ] Transfer areas
+- [ ] Secondary containment boundaries
+- [ ] Drainage patterns and direction
+- [ ] Spill equipment locations
+- [ ] Nearby waterways (with distances)
+- [ ] Facility boundaries
+- [ ] Access points
+- [ ] Utility shutoffs (including over-land shut-off valve)
+- [ ] Emergency assembly areas
+- [ ] Fire extinguisher locations
 
 ### Appendix B: Secondary Containment Calculations
 
-*[Include detailed volume calculations for each containment area:]*
+*[Detailed volume calculations for each containment area to be attached]*
 
-- Dimensions
-- Gross volume calculations
-- Displacement calculations
-- Net capacity calculations
-- Percentage of largest tank
-- Photos if available
-- Date of calculations
-- Person performing calculations
-
-### Appendix C: Inspection Forms (Blank)
+### Appendix C: Inspection Forms
 
 **Form A: Weekly Tank/Containment Inspection**
 
 | **Date** | **Inspector** | **Item** | **Status** | **Deficiencies** | **Corrective Action** |
 |----------|--------------|----------|------------|-------------------|----------------------|
-| | | | | | |
 | | | | | | |
 | | | | | | |
 
@@ -1022,27 +794,16 @@ _________________________________________
 | **Date** | **Inspector** | **Item** | **Status** | **Deficiencies** | **Corrective Action** |
 |----------|--------------|----------|------------|-------------------|----------------------|
 | | | | | | |
-| | | | | | |
-| | | | | | |
 
 **Form C: Monthly Spill Equipment Inspection**
 
 | **Date** | **Inspector** | **Equipment** | **Location** | **Status** | **Deficiencies** |
 |----------|--------------|---------------|--------------|------------|-------------------|
 | | | | | | |
-| | | | | | |
-| | | | | | |
 
 ### Appendix D: Training Records
 
-*[Include:]*
-
-- Training sign-in sheets
-- Training agendas
-- Instructor qualifications
-- Drill/exercise evaluations
-- Training certificates
-- Photo documentation
+*[Training sign-in sheets and records to be attached]*
 
 ### Appendix E: Spill Report Forms
 
@@ -1068,44 +829,9 @@ _________________________________________
 | Report Prepared By | |
 | Date of Report | |
 
-### Appendix F: Regulatory Requirements Reference
+### Appendix F: Leak Detection Records
 
-**40 CFR Part 112 - Oil Pollution Prevention**
-
-- **112.1:** General applicability
-- **112.3:** Requirement to prepare SPCC Plan
-- **112.4:** Amendment of SPCC Plan by Regional Administrator
-- **112.5:** Amendment of SPCC Plan by owner/operator
-- **112.6:** Qualified Facilities
-- **112.7:** General requirements
-- **112.8:** Specific requirements for facilities
-- **112.9:** Specific requirements for production facilities
-- **112.10:** Specific requirements for oil drilling facilities
-- **112.12:** Specific requirements for onshore facilities
-
-### Appendix G: Facility Photos
-
-*[Include photos of:]*
-
-- Each tank with ID visible
-- Secondary containment structures
-- Spill equipment locations
-- Transfer areas
-- Drainage pathways
-- Nearby waterways
-- Security features
-- Inspection points
-
-### Appendix H: Equipment Data Sheets
-
-*[Include manufacturer specifications for:]*
-
-- Tanks
-- Pumps
-- Valves
-- Spill equipment
-- Monitoring systems
-- Alarm systems
+*[For USTs over 15 years of age, leak detection records for the past three months to be attached]*
 
 ---
 
@@ -1116,15 +842,19 @@ _________________________________________
 This SPCC Plan is hereby approved for implementation:
 
 _________________________________________
+Marc Girouard
 Facility Manager
 
 _________________________________________
+March 12, 2026
 Date
 
 _________________________________________
-Environmental/Safety Manager
+[Name]
+[Title - e.g., Board of Directors Representative]
 
 _________________________________________
+[Date]
 Date
 
 ### Distribution
@@ -1133,11 +863,9 @@ This Plan is distributed to:
 
 | **Copy #** | **Holder** | **Location** | **Date Issued** |
 |------------|------------|--------------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
+| 1 | Marc Girouard | Facility Manager Office | March 12, 2026 |
+| 2 | [Name] | Dock Office | March 12, 2026 |
+| 3 | [Name] | Board of Directors | March 12, 2026 |
 
 ---
 
@@ -1149,10 +877,7 @@ This Plan is distributed to:
 | CFR | Code of Federal Regulations |
 | EPA | Environmental Protection Agency |
 | gal | Gallons |
-| IBC | Intermediate Bulk Container |
-| LEPC | Local Emergency Planning Committee |
 | NRC | National Response Center |
-| PE | Professional Engineer |
 | PPE | Personal Protective Equipment |
 | SPCC | Spill Prevention, Control, and Countermeasure |
 | UST | Underground Storage Tank |
@@ -1163,10 +888,7 @@ This Plan is distributed to:
 
 | **Version** | **Date** | **Description** | **Author** | **Approved By** |
 |-------------|----------|-----------------|------------|-----------------|
-| 1.0 | | Original Plan | | |
-| 1.1 | | | | |
-| 1.2 | | | | |
-| 2.0 | | | | |
+| 1.0 | March 12, 2026 | Original Plan for Dalhousie Regional Marina Ltd | [Author] | Marc Girouard |
 
 ---
 
@@ -1176,15 +898,23 @@ This Plan is distributed to:
 
 *This document is maintained in accordance with 40 CFR Part 112. Please report any discrepancies or suggested updates to the Facility Manager.*
 
-*For questions regarding this plan, contact:*
+*For questions regarding this plan, please contact:*
 
-**[Name]**
+**Marc Girouard**
 **[Title]**
 **[Phone]**
 **[Email]**
 
 ---
 
-*This SPCC Plan template is provided for informational purposes only and should be reviewed by qualified professionals to ensure compliance with all applicable regulations.*
+**Note to Facility:** This SPCC Plan requires the following information to be completed:
 
-
+1. **Tank details** - All tank IDs, capacities, contents, installation dates, construction types
+2. **Secondary containment** - Actual dimensions and calculations for containment areas
+3. **Shut-off valve description** - Details of the over-land shut-off valve required by Marina supplement
+4. **Leak detection system type** - For UST systems (Marina supplement question 9)
+5. **AST leak detection type** - For aboveground tanks (Marina supplement question 12)
+6. **Products list** - All products contained in tanks (Marina supplement question 13)
+7. **Dispenser protection details** - How dispensers are protected from impact (Marina supplement question 14)
+8. **Site diagram** - To be attached as Appendix A
+9. **Leak detection records** - For USTs over 15 years old, if applicable
