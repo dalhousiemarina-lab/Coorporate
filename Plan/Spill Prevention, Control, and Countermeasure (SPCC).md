@@ -619,35 +619,37 @@ Training records will be maintained for at least 3 years and include:
 
 **Fuel Storage Area:**
 If a spill occurs in the fuel storage area:
-1- Ensure personal safety
-2- Stop the source (close valves, shut pumps)
-3- Contain using spill kit materials
-4- Prevent flow to drains or toward water
-5- Notify facility manager
-6- Clean up and properly dispose of contaminated materials
+1. Ensure personal safety
+2. Stop the source (close valves, shut pumps)
+3. Contain using spill kit materials
+4. Prevent flow to drains or toward water
+5. Notify facility manager
+6. Clean up and properly dispose of contaminated materials
 
 
 **Boat Launch Ramp - PRIMARY FUELING LOCATION:**
 
 If a spill occurs at the boat launch ramp during fueling:
-1- STOP FUELING IMMEDIATELY
-2- Activate emergency shut-off for Wayne pump
-3- Deploy absorbent booms AROUND the spill to contain and prevent water entry
-4- Use absorbent pads to recover product
-5- Notify facility manager IMMEDIATELY
-6- Call 911 if spill poses immediate threat
-7- Contact Canadian Coast Guard (VHF Channel 16 or 1-800-267-7270) if spill reaches water
-8- Report to Environment Canada Spill Reporting (1-800-565-1633) if reportable quantity
+
+1. STOP FUELING IMMEDIATELY
+2. Activate emergency shut-off for Wayne pump
+3. Deploy absorbent booms AROUND the spill to contain and prevent water entry
+4. Use absorbent pads to recover product
+5. Notify facility manager IMMEDIATELY
+6. Call 911 if spill poses immediate threat
+7. Contact Canadian Coast Guard (VHF Channel 16 or 1-800-267-7270) if spill reaches water
+8. Report to Environment Canada Spill Reporting (1-800-565-1633) if reportable quantity
 
 **Docks:**
+
 ⚠️ NO FUELING AT DOCKS PERMITTED ⚠️
 If a spill is discovered at docks (unauthorized fueling or other source):
-1- Ensure personal safety
-2- STOP any fueling immediately if occurring
-3- Deploy spill booms around spill to contain
-4- Notify Harbour Master IMMEDIATELY
-5- Call 911 and Canadian Coast Guard
-6- Document and report unauthorized fueling per Code of Conduct
+1. Ensure personal safety
+2. STOP any fueling immediately if occurring
+3. Deploy spill booms around spill to contain
+4. Notify Harbour Master IMMEDIATELY
+5. Call 911 and Canadian Coast Guard
+6. Document and report unauthorized fueling per Code of Conduct
 
 ### 10.4 Spill Response Flowchart
 
