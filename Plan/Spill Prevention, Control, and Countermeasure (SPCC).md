@@ -588,51 +588,38 @@ If a spill occurs at the dock during fueling:
 6- Contact authorities if spill reaches water
 
 ### 10.4 Spill Response Flowchart
-┌─────────────────┐
-│ SPILL DISCOVERED │
-└─────────┬─────────┘
-│
-┌─────────▼─────────┐
-│ ASSESS SAFETY │
-│ - Evacuate if needed │
-│ - Remove ignition │
-│ - Wear PPE │
-└─────────┬─────────┘
-│
-┌─────────▼─────────┐
-│ STOP THE SOURCE │
-│ - Close valves │
-│ - Shut pumps │
-│ - Activate shut-off │
-└─────────┬─────────┘
-│
-┌─────────▼─────────┐
-│ CONTAIN THE SPILL│
-│ - Deploy booms │
-│ - Block drains │
-│ - Use sorbents │
-└─────────┬─────────┘
-│
-┌─────────▼─────────┐
-│ NOTIFY │
-│ - Supervisor │
-│ - Facility Manager│
-│ - NRC if >42 gal │
-└─────────┬─────────┘
-│
-┌─────────▼─────────┐
-│ CLEAN UP │
-│ - Recover product│
-│ - Dispose waste │
-│ - Restore area │
-└─────────┬─────────┘
-│
-┌─────────▼─────────┐
-│ DOCUMENT │
-│ - Complete report│
-│ - Update records │
-│ - Review lessons │
-└───────────────────┘
+
+SPILL DISCOVERED
+▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼
+ASSESS SAFETY
+- Evacuate if needed
+- Remove ignition
+- Wear PPE
+▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼
+STOP THE SOURCE
+- Close valves
+- Shut pumps
+- Activate shut-off
+▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼
+CONTAIN THE SPIL
+- Deploy booms
+- Block drains
+- Use sorbents
+▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼
+NOTIFY
+- Supervisor
+- Facility Manager
+- NRC if >42 gal
+▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼
+CLEAN UP
+- Recover product
+- Dispose waste
+- Restore area
+▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼
+DOCUMENT
+- Complete report
+- Update records
+- Review lessons
 
 
 ---
