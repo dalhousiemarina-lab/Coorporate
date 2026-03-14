@@ -25,10 +25,10 @@ Documents are grouped into the following categories. Click any link to view the 
 - **[DRMC Membership & Facility Use Agreement.md](./DRMC%20membership%20&%20Facility%20use%20Agreement.md)** – Agreement every member signs.
 
 ### 🧾 Policies & Procedures
-- **[DRMC Executive & Nomination Protocol.md](./DRMC%20Executive%20&%20Nomination%20Protocol.md)** – Election and nomination procedures.
+- **[DRMC Executive & Nomination Protocol.md](./DRMC%20Executive%20%26%20Nomination%20Protocole.md)** – Election and nomination procedures.
 - **[DRMC Membership & Access Classifications Summary.md](./DRMC%20Membership%20&%20Access%20Classifications%20Summary.md)** – Overview of membership tiers and voting.
 - **[DRMC Standing Operating Procedures (SOPs).md](./SOG/DRMC%20Standing%20Operating%20Procedures%20(SOPs).md)** – Step‑by‑step instructions for key officer roles.
-- **[DRMC Reserves & Investment Policy.md](https://github.com/dalhousiemarina-lab/Coorporate/blob/main/Policy/DRMC%20Reserves%20%26%20Investment%20Policy.md)** – Guidelines for managing capital reserves.
+- **[DRMC Reserves & Investment Policy.md](./Policy/DRMC%20Reserves%20%26%20Investment%20Policy.md)** – Guidelines for managing capital reserves.
 - **[DRMC Document Retention Policy.md](./Policy/DRMC%20Document%20Retention%20Policy.md)** – Rules for keeping and disposing of records.
 - **[DRMC Privacy Policy (PIPEDA Compliance).md](./Policy/DRMC%20Privacy%20Policy%20(PIPEDA%20Compliance).md)** – How we handle personal information.
 - **[DRMC Volunteer Position Descriptions.md](./DRMC%20Volunteer%20Position%20Descriptions.md)** – Clear expectations for all volunteer roles.
@@ -74,7 +74,7 @@ The table below provides a quick overview of every document, its purpose, who it
 | **Governing** | [DRMC Code of Conduct & Facility Regulations.md](./DRMC%20Code%20of%20Conduct%20&%20Facility%20Regulations.md) | "House rules": safety, quiet hours, pets, environment. | Every person on property. | Adopted by Bylaws Art. V‑A; must be signed in Membership Agreement. |
 | **Agreements** | [DRMC Director Agreement & Consent to Act.md](./DRMC%20Director%20Agreement%20&%20Consent%20to%20Act.md) | Contract for directors: duties, 4% rule, confidentiality. | Board members. | Enforces Bylaws and NFP Act. |
 | **Agreements** | [DRMC Membership & Facility Use Agreement.md](./DRMC%20membership%20&%20Facility%20use%20Agreement.md) | Legal contract between Corporation and each member (Voting Unit). | Every member. | Incorporates Bylaws and Code of Conduct by reference. |
-| **Policies & Procedures** | [DRMC Executive & Nomination Protocol.md](./DRMC%20Executive%20&%20Nomination%20Protocol.md) | Election playbook: timeline, GNC role, nomination, voting. | GNC, candidates, voters. | Governed by Bylaws Art. XI. |
+| **Policies & Procedures** | [DRMC Executive & Nomination Protocol.md](./DRMC%20Executive%20%26%20Nomination%20Protocole.md) | Election playbook: timeline, GNC role, nomination, voting. | GNC, candidates, voters. | Governed by Bylaws Art. XI. |
 | **Policies & Procedures** | [DRMC Membership & Access Classifications Summary.md](./DRMC%20Membership%20&%20Access%20Classifications%20Summary.md) | Plain‑language guide to Voting Unit system. | All members. | Summarizes Bylaws Art. IV. |
 | **Policies & Procedures** | [DRMC Standing Operating Procedures (SOPs).md](./SOG/DRMC%20Standing%20Operating%20Procedures%20(SOPs).md) | Step‑by‑step instructions for Harbour Master, Treasurer, Secretary. | Officers and successors. | Empowered by Bylaws Art. XII. |
 | **Policies & Procedures** | [DRMC Reserves & Investment Policy.md](./Policy/DRMC%20Reserves%20%26%20Investment%20Policy.md) | Guidelines for capital reserves and investments. | Treasurer, Executive. | Implied by Bylaws Art. VI (financial stewardship). |
