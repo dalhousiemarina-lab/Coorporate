@@ -40,8 +40,8 @@ Documents are grouped into the following categories. Click any link to view the 
 - **[DRMC Waiting List Management Procedure.md](./Procedure/DRMC%20Waiting%20List%20Management%20Procedure.md)** – How vacancies are offered and waiting list maintained.
 - **[DRMC Insurance Management Policy.md](./DRMC%20Insurance%20Management%20Policy.md)** – Approach to obtaining and reviewing insurance coverage.
 - **[DRMC Member Communication Policy.md](./Policy/DRMC%20Member%20Communication%20Policy.md)** – Standards for official communications.
-- **[DRMC Donation, Sponsorship and Fundraising Policy.md](./DRMC%20Donation,%20Sponsorship%20and%20Fundraising%20Policy.md)** – Guidelines for ethical, transparent sponsorship and fundraising practices.
-- **[DRMC Sites Restricted to Transient (Short-Term) Use Only.md](./DRMC%20Sites%20Restricted%20to%20Transient%20(Short-Term)%20Use%20Only.md)** – Policy addressing insurance and environmental requirements for affected sites.
+- **[DRMC Donation, Sponsorship and Fundraising Policy.md](./policy/DRMC%20Donation,%20Sponsorship%20and%20Fundraising%20Policy.md)** – Guidelines for ethical, transparent sponsorship and fundraising practices.
+- **[DRMC Sites Restricted to Transient (Short-Term) Use Only.md](./Policy/DRMC%20Sites%20Restricted%20to%20Transient%20(Short-Term)%20Use%20Only.md)** – Policy addressing insurance and environmental requirements for affected sites.
 - **[DRMC Alcohol Service Guidelines.md](./Procedure/DRMC%20Alcohol%20Service%20Guidelines.md)** – Rules for events where alcohol is served.
 - **[DRMC Volunteer Screening Policy.md](./Policy/DRMC%20Volunteer%20Screening%20Policy.md)** – Background checks for sensitive volunteer roles.
 
