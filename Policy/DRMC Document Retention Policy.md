@@ -1,135 +1,116 @@
-# DRMC Reserves & Investment Policy
+# DRMC Document Retention Policy
 
-| | |
-|---|---|
-| **Document Version:** | 1.0 |
-| **Effective Date:** | March 2026 |
-| **Approved By:** | Executive |
-| **Next Review:** | March 2027 |
+**Version:** 1.0
+**Approved by:** DRMC Board of Directors
+**Date of Approval:** March 13, 2026
+**Effective Date:** March 13, 2026
+**Next Review Date:** March 2027
 
----
+## 1.0 Purpose
 
-## 1. Purpose
+The purpose of this Document Retention Policy is to ensure that the Dalhousie Regional Marina Club (DRMC) maintains its records in a consistent, reliable, and legally compliant manner. This policy establishes standardized procedures for the retention and destruction of all DRMC documents and records, whether in physical or electronic format.
 
-The purpose of this Reserves & Investment Policy is to establish clear guidelines for the accumulation, management, and expenditure of the Corporation's operating reserves and capital reserve funds. This policy ensures that DRMC maintains sufficient financial stability to address unexpected expenses, fund capital improvements, and secure the long-term sustainability of the marina and campground operations.
+Proper document retention:
+- Ensures compliance with federal and provincial laws (including PIPEDA and the Canada Not-for-profit Corporations Act).
+- Supports operational continuity and informed decision-making.
+- Preserves the organization's historical record.
+- Minimizes legal risk by ensuring timely destruction of obsolete records.
+- Reduces storage costs and administrative burden.
 
----
+## 2.0 Scope
 
-## 2. Definitions
+This policy applies to all DRMC directors, officers, committee members, volunteers, and staff who create, receive, or maintain records on behalf of the Corporation. It covers all records, regardless of format, including but not limited to:
 
-- **Operating Reserve**: Funds set aside to cover unforeseen operating shortfalls, emergency repairs, or temporary cash flow disruptions. These funds are intended to be readily accessible.
+- Paper documents
+- Electronic files (emails, Word documents, spreadsheets, PDFs)
+- Databases
+- Photographs and videos
+- Financial records
+- Board meeting minutes and materials
+- Membership records
+- Legal and contractual documents
 
-- **Capital Reserve Fund**: A designated fund accumulated for major capital projects, significant repairs, or asset replacements as identified in the Corporation's long-term capital plan.
+## 3.0 Policy Definitions
 
-- **GIC (Guaranteed Investment Certificate)**: A Canadian investment that guarantees a fixed rate of interest over a set term, offered by banks and trust companies. GICs are considered low‑risk and are eligible for deposit insurance (CDIC) within limits.
+- **Record:** Any document or information created, received, or maintained by DRMC in the course of its operations.
+- **Permanent Record:** Documents that must be retained indefinitely due to legal, historical, or operational significance.
+- **Active Record:** Documents currently in use that must be readily accessible.
+- **Inactive Record:** Documents no longer in regular use but which must be retained for a specific period.
+- **Destruction:** The secure and permanent disposal of records, rendering them unreadable and irrecoverable.
 
-- **CDIC (Canada Deposit Insurance Corporation)**: A federal Crown corporation that insures eligible deposits at member institutions up to $100,000 per depositor, per institution.
+## 4.0 General Principles
 
-- **Board/Executive**: The Board of Directors of Dalhousie Regional Marina Ltd.
+1.  **Legal Compliance:** All records will be retained for at least the minimum period required by applicable laws and regulations.
+2.  **Consistency:** Records will be retained and destroyed according to uniform schedules, not on an ad hoc basis.
+3.  **Confidentiality:** Records containing personal information or sensitive corporate data will be stored securely and destroyed in a manner that prevents unauthorized access or disclosure.
+4.  **Suspension of Destruction:** In the event of actual or reasonably anticipated litigation, government investigation, or audit, all relevant records must be preserved. The Board may issue a "legal hold" suspending destruction until the matter is resolved.
 
-- **Treasurer**: The elected officer responsible for financial oversight.
+## 5.0 Retention Schedules
 
----
+The following table outlines the minimum retention periods for various classes of DRMC records. Retention begins from the date the record is created or last updated, unless otherwise specified.
 
-## 3. Reserve Targets
+| Record Category | Examples | Retention Period | Authority / Rationale |
+| :--- | :--- | :--- | :--- |
+| **Corporate Records (Permanent)** | Letters Patent (Charter), Bylaws, Board meeting minutes, Board resolutions, Annual Reports | Permanent | Canada Not-for-profit Corporations Act; Historical record |
+| **Legal Documents** | Contracts, agreements, easements, title documents | Permanent or 10 years after expiry/termination | Legal and operational necessity |
+| **Financial Records** | Annual audited financial statements, general ledgers | Permanent | Canada Revenue Agency (CRA) requirements; Financial accountability |
+| **Financial Records** | Bank statements, cancelled cheques, deposit slips | 7 years | CRA requirements |
+| **Financial Records** | Invoices, receipts, expense claims, payroll records | 7 years | CRA requirements |
+| **Tax Records** | T4 summaries, T3010 Registered Charity Information Return | Permanent | CRA requirements |
+| **Membership Records** | Membership applications and agreements | Duration of membership + 7 years | Contract management; Limitation of Actions Act |
+| **Membership Records** | Archived membership lists (historical) | Permanent | Historical record |
+| **Personnel/Volunteer Records** | Director agreements, volunteer position descriptions, screening records | Duration of service + 7 years | Employment standards; Liability management |
+| **Insurance Policies** | All insurance policies and certificates | Permanent | Claims history; Coverage verification |
+| **Insurance Records** | Claims files | 10 years after claim settlement | Limitation of Actions Act |
+| **Incident Reports** | Accident reports, incident reports (safety, security) | 10 years | Limitation of Actions Act; Risk management |
+| **Property Records** | Maintenance logs, inspection reports | Life of asset + 2 years | Operational history; Warranty claims |
+| **Correspondence** | General administrative correspondence (email, letters) | 2 years | Operational efficiency; Privacy considerations |
+| **Project Files** | Completed project proposals, reports, and close-out documents | 7 years | Grant accountability; Historical record |
+| **Temporary Records** | Draft documents, working notes, duplicate copies | Until no longer needed or final version approved | Administrative efficiency |
 
-The Corporation shall maintain reserves at levels that provide adequate financial stability without unnecessarily tying up funds that could be used for member benefit.
+## 6.0 Record Storage
 
-### 3.1 Operating Reserve Target
+1.  **Physical Records:** Will be stored in a secure, locked, and environmentally appropriate location within the DRMC office or designated storage area. Access will be limited to authorized personnel.
+2.  **Electronic Records:** Will be stored on secure, password-protected servers or approved cloud-based platforms (e.g., GitHub repository, Google Workspace for Nonprofits). Access controls will be maintained by the Secretary and IT volunteer(s).
+3.  **Backup:** Electronic records will be backed up regularly according to the DRMC Standing Operating Procedures (SOPs) for the Secretary and Treasurer.
 
-The Operating Reserve shall be maintained at a level equivalent to **three (3) to six (6) months of average operating expenses**. Operating expenses include all costs necessary to run the day‑to‑day activities of the marina and campground (utilities, insurance, routine maintenance, administrative costs, etc.).
+## 7.0 Record Destruction
 
-- **Minimum Operating Reserve**: Three months of operating expenses.
-- **Target Operating Reserve**: Six months of operating expenses.
-- **Maximum Operating Reserve**: If the reserve exceeds six months, the surplus may be transferred to the Capital Reserve Fund or used for member‑approved projects, at the discretion of the Executive with membership consultation.
+1.  **Authorization:** No records may be destroyed without the prior approval of the Secretary or, for major record categories, the Board of Directors.
+2.  **Secure Methods:**
+    - **Paper Records:** Must be shredded using a cross-cut shredder or destroyed by a professional shredding service.
+    - **Electronic Records:** Must be permanently deleted from all locations, including backups and cloud storage. For hard drives or other storage media, secure wiping or physical destruction is required.
+3.  **Certification:** When records are destroyed, the Secretary will maintain a log or certificate of destruction, noting the records destroyed, the date, and the method of destruction. This log is a permanent record.
 
-### 3.2 Capital Reserve Fund
+## 8.0 Suspension of Destruction (Legal Hold)
 
-The Capital Reserve Fund shall be accumulated over time to fund major capital projects (e.g., dock replacement, building renovations, significant equipment purchases) as identified in the Corporation's long‑term capital plan. There is no fixed target; contributions to the Capital Reserve Fund shall be made based on:
+Upon notification by the Board or legal counsel, all destruction of records related to a pending or reasonably anticipated legal proceeding, audit, or investigation must cease immediately. The Secretary will notify all relevant individuals of the hold and its scope. Destruction may only resume upon written authorization from the Board after the matter is resolved.
 
-- Annual budget surpluses.
-- Proceeds from the New Member Initiation Fee (as per Bylaw Article VI.8).
-- Transfers from the Operating Reserve when it exceeds the six‑month target.
-- Grants, donations, or fundraising proceeds designated for capital purposes.
-- Any other funds allocated by the Executive or membership.
+## 9.0 Roles and Responsibilities
 
----
+- **Board of Directors:** Oversees the implementation of this policy; authorizes destruction of permanent records; issues legal holds.
+- **Secretary:** Maintains this policy; oversees day-to-day record management; maintains destruction log; ensures secure storage of corporate records.
+- **Treasurer:** Ensures financial records are retained according to schedule; manages destruction of outdated financial documents.
+- **All Members, Directors, and Volunteers:** Responsible for managing records they create according to this policy; alerting the Secretary to potential legal holds; ensuring records are not destroyed prematurely.
 
-## 4. Authorized Investments
+## 10.0 Compliance and Enforcement
 
-All reserve funds must be invested in a manner that prioritizes **capital preservation and liquidity**, with modest income generation as a secondary goal. Speculative investments are strictly prohibited.
+Failure to comply with this policy may result in disciplinary action, up to and including removal from the Board or termination of membership. Individuals who intentionally destroy records subject to a legal hold may be subject to legal penalties and personal liability.
 
-### 4.1 Operating Reserve
+## 11.0 Related Documents
 
-The Operating Reserve must be held in **highly liquid, low‑risk instruments** to ensure immediate availability when needed. Authorized investments for the Operating Reserve include:
+- DRMC Bylaws 2026 (Art. XXIII – Records and Reports)
+- DRMC Privacy Policy (PIPEDA Compliance)
+- DRMC Standing Operating Procedures (SOPs) for Secretary and Treasurer
 
-- High‑interest savings accounts at CDIC‑member financial institutions.
-- Money market funds.
-- Short‑term GICs (terms of 90 days to one year) that can be redeemed early if necessary (subject to any interest penalty).
+## 12.0 Policy Review
 
-The Operating Reserve shall not be invested in equities, mutual funds, or any vehicle with significant market risk.
-
-### 4.2 Capital Reserve Fund
-
-The Capital Reserve Fund shall be invested primarily in **GICs (Guaranteed Investment Certificates)** with terms aligned with the Corporation's capital spending timeline. This ensures safety of principal and a predictable return, in accordance with the user's directive to save in GIC accounts.
-
-- **Permitted Investments**:
-  - GICs issued by CDIC‑member banks, trust companies, or credit unions (within CDIC coverage limits).
-  - If the Capital Reserve Fund exceeds the CDIC coverage limit at a single institution, funds shall be distributed across multiple institutions or invested in a mix of GICs and other low‑risk instruments (e.g., treasury bills) to maintain full deposit insurance.
-- **Term Strategy**: GIC terms should be laddered (e.g., 1‑year, 2‑year, 3‑year, 4‑year, 5‑year) to balance liquidity with higher interest rates. Maturity dates should be staggered to ensure a portion of the fund becomes available each year for planned projects or reinvestment.
-- **Reinvestment**: Upon maturity, GICs shall be reinvested in new GICs unless funds are needed for an approved project. The Treasurer shall monitor interest rates and recommend optimal terms.
-
-No other investments (equities, bonds, mutual funds) are permitted for the Capital Reserve Fund without a specific membership vote approving an exception.
-
----
-
-## 5. Authority and Withdrawal Thresholds
-
-### 5.1 Operating Reserve Withdrawals
-
-- Withdrawals from the Operating Reserve for **emergencies or unexpected operating shortfalls** may be authorized by a simple majority vote of the Executive. The Treasurer must report any such withdrawal at the next Executive meeting and to the membership at the next scheduled update meeting.
-- Any withdrawal that would reduce the Operating Reserve below the **three‑month minimum** requires a membership vote (simple majority) unless the withdrawal is to cover an emergency that poses an immediate threat to safety or property. In such an emergency, the Executive may act but must convene a Special Membership Meeting within 30 days to report and seek retroactive approval.
-
-### 5.2 Capital Reserve Fund Withdrawals
-
-- Withdrawals from the Capital Reserve Fund for **approved capital projects** must follow the project approval process defined in Bylaw Article X and the Project Proposal Template. If the project requires membership approval (based on spending thresholds), the withdrawal is automatically authorized upon project approval.
-- For **emergency capital repairs** not covered by an approved project, the Executive may authorize a withdrawal of up to **$5,000** without a membership vote, provided the funds are used to address an immediate safety hazard or prevent significant property damage. Any such withdrawal must be reported to the membership within 14 days.
-- Withdrawals exceeding $5,000 for unplanned capital needs require a membership vote (simple majority) unless they are part of a previously approved multi‑phase project.
-
----
-
-## 6. Reporting and Transparency
-
-- The Treasurer shall provide a **reserve status update** at every Executive meeting, including current balances, investment holdings, and any recent withdrawals.
-- A summary of reserve fund balances and investment performance shall be included in the **financial statements** presented at the Annual General Meeting (AGM) and Spring General Meeting.
-- Any changes to this policy must be approved by a **two‑thirds (2/3) majority vote of the Executive** and communicated to the membership at least 30 days before taking effect. Substantive changes (e.g., altering investment strategy) should also be presented for member comment.
-
----
-
-## 7. Annual Review
-
-The Executive shall review this policy annually, typically in conjunction with the budget preparation for the upcoming fiscal year. The review shall assess:
-
-- Whether reserve targets remain appropriate.
-- Performance of existing investments.
-- Compliance with CDIC coverage limits.
-- Any changes in financial markets or interest rates that may warrant adjustments to the investment strategy.
+This policy will be reviewed annually by the Board of Directors to ensure it remains current with legal requirements and organizational needs.
 
 ---
 
-## 8. Compliance with Bylaws
+**Document History**
 
-This policy is established under the authority of the DRMC Bylaws, particularly Article VI (Membership Fees and Pricing) and Article XII (Executive Spending Authority). In the event of any conflict between this policy and the Bylaws, the Bylaws shall prevail.
-
----
-
-## 9. Effective Date and Amendments
-
-This policy takes effect on **March 1, 2026**. It may be amended by a two‑thirds (2/3) majority vote of the Executive, with member notification as described in Section 6.
-
----
-
-**Document Version:** 1.0  
-**Effective Date:** March 2026  
-**Maintained by:** Treasurer, Dalhousie Regional Marina Ltd.  
-**Repository Location:** Corporate Document Repository / Policies / Current
+| Version | Date | Author | Description of Change |
+| :--- | :--- | :--- | :--- |
+| 1.0 | 2026-03-13 | [Your Name/Title] | Initial policy adopted by Board |
