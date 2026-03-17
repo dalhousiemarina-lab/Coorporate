@@ -9,7 +9,8 @@
 
 ## 1. Purpose
 
-The purpose of this procedure is to establish a fair, consistent, and transparent process for managing waiting lists for moorage (slips and sites) at the Dalhousie Regional Marina Club (DRMC). This procedure ensures that all members are treated equitably, that vacancies are offered in a clear and timely manner, and that the club maintains accurate records to reduce conflict and build trust.
+The purpose of this procedure is to establish a fair, consistent, and transparent process for managing waiting lists for moorage (slips and sites) at the Dalhousie Regional Marina Club (DRMC). 
+This procedure ensures that all members are treated equitably, that vacancies are offered in a clear and timely manner, and that the club maintains accurate records to reduce conflict and build trust.
 
 This document is governed by the DRMC Bylaws (Articles VI.8 and VII.3) and supplements the duties of the Harbour Master as outlined in the Standing Operating Procedures (SOPs).
 
@@ -39,7 +40,7 @@ This procedure applies to:
 ### 4.1 Application Process
 - Members may apply for the waiting list by submitting a completed **Waiting List Application Form** (available on the member portal or from the Harbour Master).
 - The application must include:
-  - Member name and Voting Unit ID.
+  - Member name.
   - Vessel details (type, length, beam, draft).
   - Preferred moorage type(s) and any specific requirements (e.g., power pedestal, accessibility).
   - Contact information (email and phone).
@@ -51,7 +52,7 @@ This procedure applies to:
 - The list must be stored in a secure digital format (e.g., spreadsheet or database) with restricted access (Harbour Master and Executive only).
 
 ### 4.3 Annual Confirmation
-- In January of each year, the Harbour Master shall contact all members on the waiting list to confirm their continued interest.
+- In April of each year, the Harbour Master shall contact all members on the waiting list to confirm their continued interest.
 - Contact shall be made via email, with a follow‑up phone call if no response is received within 14 days.
 - Members must respond within 30 days of the initial contact. Non‑response after two attempts (email + phone) will result in removal from the list.
 - Confirmed members retain their original application date.

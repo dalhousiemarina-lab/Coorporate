@@ -2,7 +2,7 @@
 
 | | |
 |---|---|
-| **Document Version:** | 1.0 |
+| **Document Version:** | 1.8 |
 | **Effective Date:** | March 2026 |
 | **Approved By:** | Executive |
 | **Next Review:** | March 2027 |
@@ -54,7 +54,7 @@ Based on the 2026 insurance audit and recommendations, DRMC shall maintain the f
 
 | Coverage Element | Requirement |
 |------------------|-------------|
-| **Minimum Limit** | $3,000,000 |
+| **Third Party Liability Limit** | $3,000,000 any one occurrence |
 | **Rationale** | Following Bill C‑47 (2023), Canadian law increased settlement targets for marine accidents by 50%. A single incident can result in settlements exceeding $2,250,000 before legal fees. |
 | **Member Impact** | To maintain coverage, every vessel must have a fully signed moorage agreement on file with proof of liability insurance. |
 
@@ -62,15 +62,15 @@ Based on the 2026 insurance audit and recommendations, DRMC shall maintain the f
 
 **Purpose:** Ensures the Corporation's physical assets are insured for their true replacement cost.
 
-| Coverage Element | Requirement |
-|------------------|-------------|
-| **Docks** | $550,000 (replacement cost) |
-| **Buildings** | As per current appraisal |
-| **Breakwater** | To be added in 2027 at $500,000 (allows time for right‑to‑use land agreement) |
-| **Storm Deductible** | $75,000 |
-| **Rationale** | Post‑COVID inflation has significantly increased marine material costs. Updated valuations ensure rebuild capability after a disaster. |
+| Coverage Element | Summary | Key Details |
+|------------------|---------|-------------|
+| **Docks** | $550,000 (replacement cost) | 2014 Floating Docks - Wood - Maritime Dock. See Section 4.5 for full details. |
+| **Buildings** | $420,000 total insured value | Includes Rented Building, Office, Washroom, Electrical Shed, and Mini-Barn. See Section 4.5 for individual values. |
+| **Other Structures** | $500,000 (to be confirmed) | Breakwater coverage to be reviewed in 2027, contingent on right‑to‑use land agreement. |
+| **Storm Deductible** | $75,000 | The Corporation effectively self‑insures the first $75,000 of any catastrophic storm loss. |
+| **Rationale** | Post‑COVID inflation has significantly increased marine material and construction costs. Updated valuations ensure rebuild capability after a disaster. |
 
-**Note:** The Corporation effectively self‑insures the first $75,000 of any catastrophic storm loss.
+**Note:** For a detailed breakdown of all insured property values, deductibles, and specific coverage notes, refer to **Section 4.5 Summary of Current Policy Coverages**.
 
 ### 4.3 Pillar 3: Environmental Stewardship
 
@@ -78,9 +78,9 @@ Based on the 2026 insurance audit and recommendations, DRMC shall maintain the f
 
 | Coverage Element | Requirement |
 |------------------|-------------|
-| **Pollution Liability Limit** | $2,000,000 |
+| **Pollution Liability Limit** | $3,000,000 |
 | **Coverage B (Cleanup Costs)** | Included |
-| **Rationale** | Doubling the limit and reinstating Coverage B protects members from personal financial responsibility for ecological cleanup. |
+| **Rationale** | Increasing the limit to $3,000,000 and ensuring cleanup costs are included protects members from personal financial responsibility for ecological cleanup. |
 
 ### 4.4 Pillar 4: Corporate Governance (Directors' & Officers' Liability)
 
@@ -88,8 +88,42 @@ Based on the 2026 insurance audit and recommendations, DRMC shall maintain the f
 
 | Coverage Element | Requirement |
 |------------------|-------------|
-| **D&O Limit** | $2,000,000 |
-| **Rationale** | Ensures leadership remains shielded from personal ruin in the event of a claim. |
+| **D&O Limit** | $3,000,000 |
+| **Rationale** | Increasing the limit to $3,000,000 ensures leadership remains shielded from personal ruin in the event of a claim. |
+
+### 4.5 Summary of Current Policy Coverages
+
+**Purpose:** To provide a consolidated reference of the coverage limits, deductibles, and exclusions as outlined in the Corporation's Marine Trade Insurance Policy Schedule.
+
+| Section | Coverage Element | Insured Value / Limit | Deductible | Notes |
+|---------|------------------|------------------------|------------|-------|
+| **Section 1** | **Physical Damage to Building and Contents** | | $2,500 | |
+| | Rented Building (1940 - Frame) | $150,000 | | |
+| | Office (1970 - Frame) | $150,000 | | |
+| | Washroom (2022 – Frame) | $40,000 | | |
+| | Electrical Shed (2019 – Frame) | $50,000 | | |
+| | Mini-Barn | $30,000 | | |
+| | **Money Coverage** | | $1,000 | |
+| | Employee Dishonesty – Per Form A | $5,000 | | |
+| | Loss inside the premises | $5,000 | | |
+| | Loss outside premises | $5,000 | | |
+| | Money Orders and Counterfeit Paper Currency | $5,000 | | |
+| | Depositors Forgery Coverage | $5,000 | | |
+| **Section 2** | **Physical Damage to Marine Structures** | | $5,000 | |
+| | 2014 Floating Docks - Wood - Maritime Dock | $550,000 | | Does not include breakwaters, retaining walls, or sea walls. |
+| **Section 3** | **Third Party Liability** | | $2,500 | |
+| | Third Party Liability (any one occurrence) | $2,000,000 | | Maximum aggregate limit for all liability sections. |
+| | Marina Operators Liability | $2,000,000 | | |
+| | Product Liability (Each Occurrence & Aggregate) | $2,000,000 | | |
+| | Pollution Liability | $500,000 | | |
+| | Non-Owned Automobile (SPF#6) | $1,000,000 | | |
+| | Legal Liability for Damage to Hired Automobiles (SEF 94) | $75,000 | | |
+| **Section 4** | **Business Interruption** | No Coverage | N/A | |
+| **Section 5** | **Physical Damage to Handling Equipment** | No Coverage | N/A | |
+| **Section 6** | **Vessels under Construction** | No Coverage | N/A | |
+| **Section 7** | **Vessels** | No Coverage | N/A | |
+| **Additional Coverages** | **Directors' & Officers' Liability (D&O)** | $3,000,000 | | Protects volunteer board members from personal financial liability. |
+| | **Environmental / Pollution Liability** | $3,000,000 | | Includes cleanup costs (Coverage B). |
 
 ---
 
@@ -183,10 +217,11 @@ Failure to maintain these records can void coverage entirely.
 
 ### 8.2 The 2029 "ACV Cliff"
 
-In 2029, the docks will reach their **15‑year mark**, at which point the insurance valuation transitions from **Replacement Cost** to **Actual Cash Value (ACV)** .
+In 2029, the docks will reach their **15‑year mark**, at which point the insurance valuation typically transitions from **Replacement Cost** to **Actual Cash Value (ACV)** , potentially reducing payouts for storm losses.
 
-- **Impact**: After 2029, payouts for storm losses will cover less than 50% of the cost to rebuild.
-- **Mitigation**: The Corporation shall immediately begin building an **infrastructure replacement fund** (see Reserves & Investment Policy) to bridge the gap between ACV payouts and actual rebuild costs.
+- **Impact**: Without intervention, post-2029 payouts for storm losses could cover significantly less than the full cost to rebuild.
+- **Mitigation**: The Corporation shall immediately work with the Insurance Broker to explore options with the insurer to extend the replacement cost valuation beyond the standard 15-year mark. 
+Continuous investment has been made by the Corporation to maintain the docks in pristine condition, and this proactive maintenance record will be used as leverage in negotiations to push the "ACV Cliff" deadline further into the future.
 
 ### 8.3 Claims Management
 
@@ -227,35 +262,19 @@ The Treasurer shall provide an **insurance update** at least annually, typically
 
 ---
 
-## 11. Premium Summary (2026)
-
-The following table summarizes the 2026 insurance portfolio as approved by the Executive:
-
-| Insurance Pillar | 2025 Status | 2026 Recommendation | 2025 Premium | "Bump" Cost | Total 2026 Premium |
-|------------------|-------------|---------------------|--------------|-------------|---------------------|
-| **Pillar 1: Liability** | $2M Limit | $3M Limit | $13,106 | +$595 | $13,701 |
-| **Pillar 2: Property** | $430k Docks | $550k Docks + New Bldg | Included | +$1,886 | $1,886 |
-| **Pillar 3: Environment** | $1M (No Cleanup) | $2M + Coverage B | $2,032 | +$1,250 | $3,282 |
-| **Pillar 4: Board (D&O)** | $1M Limit | $2M Limit | $1,050 | +$475 | $1,525 |
-| **ANNUAL TOTAL** | | | **$16,188** | **+$4,206** | **$20,394** |
-
-*Note: Premiums are subject to change based on market conditions and claims history.*
-
----
-
-## 12. Policy Review and Amendments
+## 11. Policy Review and Amendments
 
 This policy shall be reviewed **annually** by the Executive, typically in conjunction with the insurance renewal process. Amendments require a **two‑thirds (2/3) majority vote** of the Executive. Members shall be notified of significant changes.
 
 ---
 
-## 13. Effective Date
+## 12. Effective Date
 
 This policy takes effect on **March 1, 2026**.
 
 ---
 
-**Document Version:** 1.0  
+**Document Version:** 1.8  
 **Effective Date:** March 2026  
 **Maintained by:** Treasurer, Dalhousie Regional Marina Ltd.  
 **Repository Location:** Corporate Document Repository / Policies / Current
