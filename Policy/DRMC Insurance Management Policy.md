@@ -100,6 +100,7 @@ Based on the 2026 insurance audit and recommendations, DRMC shall maintain the f
 | **Section 1** | **Physical Damage to Building and Contents** | | $2,500 | |
 | | Rented Building (1940 - Frame) | $150,000 | | |
 | | Office (1970 - Frame) | $150,000 | | |
+| | Gazebo (1970 - Frame) | $50,000 | | |
 | | Washroom (2022 – Frame) | $40,000 | | |
 | | Electrical Shed (2019 – Frame) | $50,000 | | |
 | | Mini-Barn | $30,000 | | |
@@ -112,9 +113,9 @@ Based on the 2026 insurance audit and recommendations, DRMC shall maintain the f
 | **Section 2** | **Physical Damage to Marine Structures** | | $5,000 | |
 | | 2014 Floating Docks - Wood - Maritime Dock | $550,000 | | Does not include breakwaters, retaining walls, or sea walls. |
 | **Section 3** | **Third Party Liability** | | $2,500 | |
-| | Third Party Liability (any one occurrence) | $2,000,000 | | Maximum aggregate limit for all liability sections. |
-| | Marina Operators Liability | $2,000,000 | | |
-| | Product Liability (Each Occurrence & Aggregate) | $2,000,000 | | |
+| | Third Party Liability (any one occurrence) | $3,000,000 | | Maximum aggregate limit for all liability sections. |
+| | Marina Operators Liability | $3,000,000 | | |
+| | Product Liability (Each Occurrence & Aggregate) | $3,000,000 | | |
 | | Pollution Liability | $500,000 | | |
 | | Non-Owned Automobile (SPF#6) | $1,000,000 | | |
 | | Legal Liability for Damage to Hired Automobiles (SEF 94) | $75,000 | | |
