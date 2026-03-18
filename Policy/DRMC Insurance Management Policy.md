@@ -185,13 +185,13 @@ The 2026 insurance audit confirmed that volunteers are **not automatically cover
 
 ### 7.2 Volunteer Coverage Solution
 
-The Executive shall pursue formalizing **elective WorkSafeNB coverage** for members who assist with maintenance and other volunteer activities. This coverage:
+The Executive shall pursue formalizing **elective volunteer coverage** for members who assist with maintenance and other volunteer activities. This coverage:
 
 - Provides medical and wage benefits to injured volunteers.
 - Generally prevents the volunteer from suing the marina for negligence.
 - Shall be offered to volunteers in designated roles (e.g., grounds maintenance, dock work, event setup).
 
-Until WorkSafeNB coverage is in place, all volunteers must sign a **Volunteer Waiver and Assumption of Risk** form (to be developed) acknowledging the risks and releasing the Corporation from liability.
+Until Volunteer coverage is in place, all volunteers must sign a **Volunteer Waiver and Assumption of Risk** form (to be developed) acknowledging the risks and releasing the Corporation from liability.
 
 ### 7.3 Volunteer Supervision
 
