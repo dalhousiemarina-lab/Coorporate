@@ -44,6 +44,9 @@ Gaps were identified and prioritised using the following criteria:
 
 ## 4. Comprehensive Gap Inventory
 
+### 4.1 Special one
+
+| # | Gap / Document | Description | Priority | Status | Recommended Action |
 |:---|:---|:---|:---|:---|:---|
 | 0 | DRMC Document Retention Policy |  | 🔴 High | Drafted |  |
 | 0 | DRMC Procurement Policy |  | 🔴 High | Drafted |  |
@@ -54,7 +57,7 @@ Gaps were identified and prioritised using the following criteria:
 | 0 | DRMC Donation, Sponsorship and Fundraising Policy | Criteria for accepting donations, sponsorships, and grants, including ethical considerations and donor recognition. | 🟡 Medium | Drafted | Important for SaveTheMarina Squad's fundraising efforts |
 
 
-### 4.1 Previously Identified Gaps (from Version 2.0)
+### 4.2 Previously Identified Gaps (from Version 2.0)
 
 | # | Gap / Document | Description | Priority | Status | Recommended Action |
 |:---|:---|:---|:---|:---|:---|
@@ -72,7 +75,7 @@ Gaps were identified and prioritised using the following criteria:
 | 12 | Harassment / Discrimination Policy | Dedicated policy with reporting mechanisms and investigation procedures. | 🟢 Low | Not started | Discuss need; draft if required |
 | 13 | Policy on Policy Development | Standard process for creating, amending, and approving policies. | 🟢 Low | Not started | Consider for consistency as policy count grows |
 
-### 4.2 Newly Identified Gaps (Supplementary Analysis)
+### 4.3 Newly Identified Gaps (Supplementary Analysis)
 
 | # | Gap / Document | Description | Priority | Status | Recommended Action |
 |:---|:---|:---|:---|:---|:---|
