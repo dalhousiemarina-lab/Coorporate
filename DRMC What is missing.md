@@ -44,12 +44,22 @@ Gaps were identified and prioritised using the following criteria:
 
 ## 4. Comprehensive Gap Inventory
 
+|:---|:---|:---|:---|:---|:---|
+| 0 | DRMC Document Retention Policy |  | 🔴 High | Drafted |  |
+| 0 | DRMC Procurement Policy |  | 🔴 High | Drafted |  |
+| 0 | DRMC Insurance Management Policy |  | 🔴 High | Drafted |  |
+| 0 | DRMC Landscaping and Docks Construction Policy |  | 🔴 High | Drafted |  |
+| 0 | DRMC Procurement Policy |  | 🔴 High | Drafted |  |
+| 0 | DRMC Sites Restricted to Transient (Short-Term) Use Only |  | 🔴 High | Drafted |  |
+| 0 | DRMC Donation, Sponsorship and Fundraising Policy | Criteria for accepting donations, sponsorships, and grants, including ethical considerations and donor recognition. | 🟡 Medium | Drafted | Important for SaveTheMarina Squad's fundraising efforts |
+
+
 ### 4.1 Previously Identified Gaps (from Version 2.0)
 
 | # | Gap / Document | Description | Priority | Status | Recommended Action |
 |:---|:---|:---|:---|:---|:---|
-| 1 | Document Retention Policy | Defines retention periods and disposal procedures for all corporate records. Required by Bylaws Article XXIII. | 🔴 High | Not started (file misnamed) | Create new policy; correct file name |
-| 2 | Conflict of Interest Policy | Applies to all members and volunteers; complements Bylaws Article XVII. Needed for procurement, volunteer screening, and general governance. | 🔴 High | Not started | Draft standalone policy or expand Code of Conduct |
+| 1 | Document Retention Policy | Defines retention periods and disposal procedures for all corporate records. Required by Bylaws Article XXIII. | 🔴 High | Drafted | Create new policy; correct file name |
+| 2 | Conflict of Interest Policy | Applies to all members and volunteers; complements Bylaws Article XVII. Needed for procurement, volunteer screening, and general governance. | 🔴 High | Drafted | Draft standalone policy or expand Code of Conduct |
 | 3 | Standing Operating Procedures (SOPs) | Step-by-step instructions for Harbour Master, Treasurer, Secretary. | 🟡 Medium | Drafted | Review and approve |
 | 4 | Volunteer Position Descriptions | Clear expectations for all squad and committee roles. | 🟡 Medium | Drafted | Review and approve |
 | 5 | Access Control Policy | Issuance and use of keys, fobs, gate codes. | 🟡 Medium | Drafted | Review and approve |
@@ -71,7 +81,6 @@ Gaps were identified and prioritised using the following criteria:
 | 16 | Child Protection / Youth Policy | Specific rules for minors on site, including supervision requirements, youth program guidelines, and safeguarding protocols. | 🔴 High | Not started | Critical if offering youth programs; consult with insurers |
 | 17 | Key Control & Master Key Policy | Specific controls for master keys, emergency access keys, and high-security areas (electrical rooms, pump stations). | 🟡 Medium | Part of Access Control draft | Ensure Access Control Policy includes master key provisions |
 | 18 | Guest Pass & Visitor Policy | Rules for member guests, including duration limits, registration requirements, and guest conduct liability. | 🟡 Medium | Not started | Draft policy clarifying guest privileges and member responsibilities |
-| 19 | Donation & Sponsorship Acceptance Policy | Criteria for accepting donations, sponsorships, and grants, including ethical considerations and donor recognition. | 🟡 Medium | Not started | Important for SaveTheMarina Squad's fundraising efforts |
 | 20 | Whistleblower Policy | Protects individuals who report wrongdoing (financial misconduct, safety violations) from retaliation. | 🟡 Medium | Not started | Best practice for non-profits; consult legal advisor |
 | 21 | Records Access & Member Inspection Procedure | Detailed process for members to inspect corporate records as permitted by Bylaws Article XXIII.8. | 🟡 Medium | Not started | Clarifies request process, fees, and timelines |
 | 22 | IT & Cybersecurity Policy | Rules for use of club computers, email accounts, member database, and protection against cyber threats. | 🟡 Medium | Not started | Increasingly important as club relies on digital tools |
