@@ -18,8 +18,8 @@ This procedure is supplementary to the Bylaws and must be followed by the Treasu
 ## 1. Accounts Payable / Receivable Process
 
 ### 1.1 Invoicing Members
-- Generate annual membership and moorage invoices by January 15 each year, using the current fee schedule approved by the membership.
-- Send invoices via email with a clear payment deadline (usually March 1).
+- Generate annual membership and moorage invoices by March 15th each year, using the current fee schedule approved by the membership.
+- Send invoices via email with a clear payment deadline (usually April 1).
 - Record all payments in the accounting software within 3 business days.
 
 ### 1.2 Paying Bills
