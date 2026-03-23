@@ -1,141 +1,135 @@
-# DRMC Official Documents
+# DRMC Governance Documents
 
-Welcome to the official governance repository of the Dalhousie Regional Marina (DRMC). This repository stores all governing documents, policies, agreements, and templates that define and guide our community.
+**Welcome to the Dalhousie Road Marina Club (DRMC) Governance Repository.**
 
-## 📋 Purpose
+This repository contains the complete governance framework for the DRMC, organized to provide clarity, transparency, and ease of use for members, board members, and volunteers.
 
-This repository ensures that all members have transparent, up‑to‑date access to the documents that govern our club. Everything here is version‑controlled, so you can always see the history of changes and find the current approved versions.
+---
 
-## 📁 Repository Structure
+## Quick Navigation
 
-Documents are grouped into the following categories. Click any link to view the file.
+| If you want to... | Start here |
+|-------------------|------------|
+| **Understand the whole system** | [Where to start.md](./DRMC%20Where%20to%20start.md) |
+| **See what changed from 2025** | [What has changed.md](./DRMC%20What%20has%20changed.md) |
+| **See what's still missing** | [What is missing.md](./DRMC%20What%20is%20missing.md) |
+| **Join as a new member** | [Membership Agreement](./DRMC%20membership%20%26%20Facility%20use%20Agreement.md) |
+| **Join the Board** | [Director Agreement](./DRMC%20Director%20Agreement%20%26%20Consent%20to%20Act.md) |
 
-### 📘 Getting Started
+---
 
-- [DRMC Where to start.md](https://github.com/dalhousiemarina-lab/Coorporate/blob/work-In-Progress/DRMC%20Where%20to%20start.md) – A beginner's guide to navigating our documents.
+## Repository Structure
+├── 📜 Foundation Documents
+│ ├── DRMC Charter 2026.md
+│ └── DRMC Bylaws 2026.md
+│
+├── 📋 Guides & References
+│ ├── DRMC Where to start.md
+│ ├── DRMC What has changed.md
+│ ├── DRMC What is missing.md
+│ └── DRMC Membership & Access Classifications Summary.md
+│
+├── ⚖️ Policies
+│ ├── DRMC Code of Conduct & Facility Regulations.md
+│ ├── DRMC Access Control Policy.md
+│ ├── DRMC Conflict of Interest Policy.md
+│ ├── DRMC Document Retention Policy.md
+│ ├── DRMC Donation, Sponsorship and Fundraising Policy.md
+│ ├── DRMC Expense Reimbursement Policy.md
+│ ├── DRMC Insurance Management Policy.md
+│ ├── DRMC Landscaping and Docks Construction Policy.md
+│ ├── DRMC Member Communication Policy.md
+│ ├── DRMC Privacy Policy (PIPEDA Compliance).md
+│ ├── DRMC Procurement Policy.md
+│ ├── DRMC Reserves & Investment Policy.md
+│ ├── DRMC Sites Restricted to Transient (Short-Term) Use Only.md
+│ ├── DRMC Volunteer Screening Policy.md
+│ └── Spill Prevention, Control, and Countermeasure (SPCC).md
+│
+├── 📝 Procedures
+│ ├── DRMC Grievance Procedure.md
+│ ├── DRMC Incident Reporting Procedure.md
+│ ├── DRMC Waiting List Management Procedure.md
+│ └── Meeting Procedures Quick Reference Guide.md
+│
+├── 🛠️ Standing Operating Guides & Procedures
+│ ├── DRMC Standing Operating Procedures (SOPs).md
+│ └── DRMC Emergency Response Plan.md
+│
+├── 📄 Templates & Agreements
+│ ├── DRMC Activity Proposal & Execution Template.md
+│ ├── DRMC Project Proposal Template.md
+│ ├── DRMC Volunteer Position Descriptions.md
+│ ├── DRMC Membership & Facility Use Agreement.md
+│ ├── DRMC Director Agreement & Consent to Act.md
+│ └── DRMC Executive & Nomination Protocol.md
+│
+└── 🗄️ Archive
+└── Document1.mdown (draft/placeholder)
 
-### 📜 Governing Documents
 
-- [DRMC Charter 2026.md](https://github.com/dalhousiemarina-lab/Coorporate/blob/work-In-Progress/DRMC%20Charter%202026.md) – Our mission, vision, and core principles (Articles of Incorporation).
-- [DRMC Bylaws 2026.md](https://github.com/dalhousiemarina-lab/Coorporate/blob/work-In-Progress/DRMC%20Bylaws%202026.md) – The official rules and operating procedures.
-- [DRMC Code of Conduct & Facility Regulations.md](https://github.com/dalhousiemarina-lab/Coorporate/blob/work-In-Progress/DRMC%20Code%20of%20Conduct%20%26%20Facility%20Regulations.md) – Expected behaviour and facility rules.
+---
 
-### 🤝 Agreements & Forms
+## Document Categories at a Glance
 
-- [DRMC Director Agreement & Consent to Act.md](https://github.com/dalhousiemarina-lab/Coorporate/blob/work-In-Progress/DRMC%20Director%20Agreement%20%26%20Consent%20to%20Act.md) – Contract for board members.
-- [DRMC Membership & Facility Use Agreement.md](https://github.com/dalhousiemarina-lab/Coorporate/blob/work-In-Progress/DRMC%20Membership%20%26%20Facility%20Use%20Agreement.md) – Agreement every member signs.
+| Category | Purpose | Key Documents |
+|----------|---------|---------------|
+| **Foundation** | Core governing documents, hard to change | Charter, Bylaws |
+| **Guides** | Orientation and navigation aids | Where to start, What has changed, What is missing |
+| **Policies** | High-level rules guiding decisions | Code of Conduct, Privacy, Conflict of Interest, Financial Policies |
+| **Procedures** | Step-by-step instructions for specific situations | Grievance, Incident Reporting, Waiting List Management |
+| **SOGs/SOPs** | Day-to-day operational guides | Standing Operating Procedures, Emergency Response Plan |
+| **Templates & Agreements** | Forms and contracts used in practice | Membership Agreement, Activity Template, Project Template |
 
-### 🧾 Policies & Procedures
+---
 
-- [DRMC Executive & Nomination Protocol.md](https://github.com/dalhousiemarina-lab/Coorporate/blob/work-In-Progress/DRMC%20Executive%20%26%20Nomination%20Protocol.md) – Election and nomination procedures.
-- [DRMC Membership & Access Classifications Summary.md](https://github.com/dalhousiemarina-lab/Coorporate/blob/work-In-Progress/DRMC%20Membership%20%26%20Access%20Classifications%20Summary.md) – Overview of membership tiers and voting.
-- [DRMC Standing Operating Procedures (SOPs).md](https://github.com/dalhousiemarina-lab/Coorporate/blob/work-In-Progress/DRMC%20Standing%20Operating%20Procedures%20%28SOPs%29.md) – Step‑by‑step instructions for key officer roles.
-- [DRMC Reserves & Investment Policy.md](https://github.com/dalhousiemarina-lab/Coorporate/blob/work-In-Progress/DRMC%20Reserves%20%26%20Investment%20Policy.md) – Guidelines for managing capital reserves.
-- [DRMC Document Retention Policy.md](https://github.com/dalhousiemarina-lab/Coorporate/blob/work-In-Progress/DRMC%20Document%20Retention%20Policy.md) – Rules for keeping and disposing of records.
-- [DRMC Privacy Policy (PIPEDA Compliance).md](https://github.com/dalhousiemarina-lab/Coorporate/blob/work-In-Progress/DRMC%20Privacy%20Policy%20%28PIPEDA%20Compliance%29.md) – How we handle personal information.
-- [DRMC Volunteer Position Descriptions.md](https://github.com/dalhousiemarina-lab/Coorporate/blob/work-In-Progress/DRMC%20Volunteer%20Position%20Descriptions.md) – Clear expectations for all volunteer roles.
-- [DRMC Emergency Response Plan.md](https://github.com/dalhousiemarina-lab/Coorporate/blob/work-In-Progress/DRMC%20Emergency%20Response%20Plan.md) – Procedures for fires, spills, medical emergencies, etc.
-- [DRMC Grievance Procedure.md](https://github.com/dalhousiemarina-lab/Coorporate/blob/work-In-Progress/DRMC%20Grievance%20Procedure.md) – Formal process for resolving disputes.
-- [DRMC Access Control Policy.md](https://github.com/dalhousiemarina-lab/Coorporate/blob/work-In-Progress/DRMC%20Access%20Control%20Policy.md) – Issuance and use of keys, fobs, and codes.
-- [DRMC Procurement Policy.md](https://github.com/dalhousiemarina-lab/Coorporate/blob/work-In-Progress/DRMC%20Procurement%20Policy.md) – Transparent acquisition of goods and services.
-- [DRMC Expense Reimbursement Policy.md](https://github.com/dalhousiemarina-lab/Coorporate/blob/work-In-Progress/DRMC%20Expense%20Reimbursement%20Policy.md) – Rules for reimbursing out‑of‑pocket expenses.
-- [DRMC Waiting List Management Procedure.md](https://github.com/dalhousiemarina-lab/Coorporate/blob/work-In-Progress/DRMC%20Waiting%20List%20Management%20Procedure.md) – How vacancies are offered and waiting list maintained.
-- [DRMC Insurance Management Policy.md](https://github.com/dalhousiemarina-lab/Coorporate/blob/work-In-Progress/DRMC%20Insurance%20Management%20Policy.md) – Approach to obtaining and reviewing insurance coverage.
-- [DRMC Member Communication Policy.md](https://github.com/dalhousiemarina-lab/Coorporate/blob/work-In-Progress/DRMC%20Member%20Communication%20Policy.md) – Standards for official communications.
-- [DRMC Donation, Sponsorship and Fundraising Policy.md](https://github.com/dalhousiemarina-lab/Coorporate/blob/work-In-Progress/DRMC%20Donation%2C%20Sponsorship%20and%20Fundraising%20Policy.md) – Guidelines for ethical, transparent sponsorship and fundraising practices.
-- [DRMC Sites Restricted to Transient (Short-Term) Use Only.md](https://github.com/dalhousiemarina-lab/Coorporate/blob/work-In-Progress/DRMC%20Sites%20Restricted%20to%20Transient%20%28Short-Term%29%20Use%20Only.md) – Policy addressing insurance and environmental requirements for affected sites.
-- [DRMC Alcohol Service Guidelines.md](https://github.com/dalhousiemarina-lab/Coorporate/blob/work-In-Progress/DRMC%20Alcohol%20Service%20Guidelines.md) – Rules for events where alcohol is served.
-- [DRMC Volunteer Screening Policy.md](https://github.com/dalhousiemarina-lab/Coorporate/blob/work-In-Progress/DRMC%20Volunteer%20Screening%20Policy.md) – Background checks for sensitive volunteer roles.
-- [DRMC Conflict of Interest Policy.md](https://github.com/dalhousiemarina-lab/Coorporate/blob/work-In-Progress/DRMC%20Conflict%20of%20Interest%20Policy.md) – Standards for identifying, disclosing, and managing conflicts of interest.
+## How to Use This Repository
 
-### 📋 Plans
+### For New Members
+1. Start with [Where to start.md](./DRMC%20Where%20to%20start.md) for an overview
+2. Read the [Code of Conduct](./DRMC%20Code%20of%20Conduct%20%26%20Facility%20Regulations.md)
+3. Review the [Membership & Access Summary](./DRMC%20Membership%20%26%20Access%20Classifications%20Summary.md)
+4. Sign the [Membership Agreement](./DRMC%20membership%20%26%20Facility%20use%20Agreement.md)
 
-- [Spill Prevention, Control, and Countermeasure (SPCC) Plan.md](https://github.com/dalhousiemarina-lab/Coorporate/blob/work-In-Progress/Spill%20Prevention%2C%20Control%2C%20and%20Countermeasure%20%28SPCC%29%20Plan.md) – Comprehensive plan for preventing, containing, and responding to oil spills in compliance with environmental regulations.
+### For Board Members
+1. Read the [Charter](./DRMC%20Charter%202026.md) and [Bylaws](./DRMC%20Bylaws%202026.md)
+2. Review [Conflict of Interest Policy](./DRMC%20Conflict%20of%20Interest%20Policy.md)
+3. Sign the [Director Agreement](./DRMC%20Director%20Agreement%20%26%20Consent%20to%20Act.md)
+4. Familiarize with [Executive & Nomination Protocol](./DRMC%20Executive%20%26%20Nomination%20Protocole.md)
+5. Understand financial policies (Expense, Procurement, Reserves)
 
-### 📝 Templates
+### For Volunteers
+1. Review [Volunteer Position Descriptions](./DRMC%20Volunteer%20Position%20Descriptions.md)
+2. Read relevant [SOPs](./DRMC%20Standing%20Operating%20Procedures%20%28SOPs%29.md)
+3. Review [Volunteer Screening Policy](./DRMC%20Volunteer%20Screening%20Policy.md)
 
-- [DRMC Activity Proposal & Execution Template.md](https://github.com/dalhousiemarina-lab/Coorporate/blob/work-In-Progress/DRMC%20Activity%20Proposal%20%26%20Execution%20Template.md) – Mandatory form for club‑organized events.
-- [DRMC Project Proposal Template.md](https://github.com/dalhousiemarina-lab/Coorporate/blob/work-In-Progress/DRMC%20Project%20Proposal%20Template.md) – Mandatory form for capital projects.
+### For Event Organizers
+1. Use [Activity Proposal Template](./DRMC%20Activity%20Proposal%20%26%20Execution%20Template.md)
+2. Follow [Code of Conduct](./DRMC%20Code%20of%20Conduct%20%26%20Facility%20Regulations.md)
+3. Review [SOPs](./DRMC%20Standing%20Operating%20Procedures%20%28SOPs%29.md) for facility use
 
-### 📜 With Description Documents (Plain‑Language Versions)
+### For Project Leads
+1. Use [Project Proposal Template](./DRMC%20Project%20Proposal%20Template.md)
+2. Follow [Procurement Policy](./DRMC%20Procurement%20Policy.md)
+3. Review relevant policies (Landscaping, SPCC, etc.)
 
-- [DRMC Charter 2026 (with description).md](https://github.com/dalhousiemarina-lab/Coorporate/blob/work-In-Progress/DRMC%20Charter%202026%20%28with%20description%29.md) – Plain‑language version of Charter.
-- [DRMC Bylaws 2026 (with description).md](https://github.com/dalhousiemarina-lab/Coorporate/blob/work-In-Progress/DRMC%20Bylaws%202026%20%28with%20description%29.md) – Plain‑language version of Bylaws.
+---
 
-### 📚 Historical & Reference
+## Document Relationships
 
-- [DRMC What has changed.md](https://github.com/dalhousiemarina-lab/Coorporate/blob/work-In-Progress/DRMC%20What%20has%20changed.md) – Summary of differences between 2025 and 2026 frameworks.
-- BY-LAWS 2025.doc – Old bylaws (available upon request).
-
-## 🗺️ Document-by-Document Breakdown
-
-The table below provides a quick overview of every document, its purpose, who it's for, and how it relates to others.
-
-| Category | Document | Purpose | Who It's For | Relationship to Others |
-| :--- | :--- | :--- | :--- | :--- |
-| Getting Started | [DRMC Where to start.md](https://github.com/dalhousiemarina-lab/Coorporate/blob/work-In-Progress/DRMC%20Where%20to%20start.md) | Beginner's guide to navigating documents. | Everyone, especially new members. | Points you to the right document based on your role. |
-| Governing | [DRMC Charter 2026.md](https://github.com/dalhousiemarina-lab/Coorporate/blob/work-In-Progress/DRMC%20Charter%202026.md) | Articles of Incorporation: name, purpose, dissolution clause. | Everyone. | Overrides all other documents. Empowers the Bylaws. |
-| Governing | [DRMC Bylaws 2026.md](https://github.com/dalhousiemarina-lab/Coorporate/blob/work-In-Progress/DRMC%20Bylaws%202026.md) | Comprehensive rulebook for governance, membership, meetings, finances, etc. | Everyone, especially Executive. | Governs Election Protocol, Project Template, Activity Template, Code of Conduct. |
-| Governing | [DRMC Code of Conduct & Facility Regulations.md](https://github.com/dalhousiemarina-lab/Coorporate/blob/work-In-Progress/DRMC%20Code%20of%20Conduct%20%26%20Facility%20Regulations.md) | "House rules": safety, quiet hours, pets, environment. | Every person on property. | Adopted by Bylaws Art. V‑A; must be signed in Membership Agreement. |
-| Agreements | [DRMC Director Agreement & Consent to Act.md](https://github.com/dalhousiemarina-lab/Coorporate/blob/work-In-Progress/DRMC%20Director%20Agreement%20%26%20Consent%20to%20Act.md) | Contract for directors: duties, 4% rule, confidentiality. | Board members. | Enforces Bylaws and NFP Act. |
-| Agreements | [DRMC Membership & Facility Use Agreement.md](https://github.com/dalhousiemarina-lab/Coorporate/blob/work-In-Progress/DRMC%20Membership%20%26%20Facility%20Use%20Agreement.md) | Legal contract between Corporation and each member (Voting Unit). | Every member. | Incorporates Bylaws and Code of Conduct by reference. |
-| Policies & Procedures | [DRMC Executive & Nomination Protocol.md](https://github.com/dalhousiemarina-lab/Coorporate/blob/work-In-Progress/DRMC%20Executive%20%26%20Nomination%20Protocol.md) | Election playbook: timeline, GNC role, nomination, voting. | GNC, candidates, voters. | Governed by Bylaws Art. XI. |
-| Policies & Procedures | [DRMC Membership & Access Classifications Summary.md](https://github.com/dalhousiemarina-lab/Coorporate/blob/work-In-Progress/DRMC%20Membership%20%26%20Access%20Classifications%20Summary.md) | Plain‑language guide to Voting Unit system. | All members. | Summarizes Bylaws Art. IV. |
-| Policies & Procedures | [DRMC Standing Operating Procedures (SOPs).md](https://github.com/dalhousiemarina-lab/Coorporate/blob/work-In-Progress/DRMC%20Standing%20Operating%20Procedures%20%28SOPs%29.md) | Step‑by‑step instructions for Harbour Master, Treasurer, Secretary. | Officers and successors. | Empowered by Bylaws Art. XII. |
-| Policies & Procedures | [DRMC Reserves & Investment Policy.md](https://github.com/dalhousiemarina-lab/Coorporate/blob/work-In-Progress/DRMC%20Reserves%20%26%20Investment%20Policy.md) | Guidelines for capital reserves and investments. | Treasurer, Executive. | Implied by Bylaws Art. VI (financial stewardship). |
-| Policies & Procedures | [DRMC Document Retention Policy.md](https://github.com/dalhousiemarina-lab/Coorporate/blob/work-In-Progress/DRMC%20Document%20Retention%20Policy.md) | Defines retention schedules and secure disposal of records. | Secretary, Executive. | Required by Bylaws Art. XXIII; supports Privacy Policy. |
-| Policies & Procedures | [DRMC Privacy Policy (PIPEDA Compliance).md](https://github.com/dalhousiemarina-lab/Coorporate/blob/work-In-Progress/DRMC%20Privacy%20Policy%20%28PIPEDA%20Compliance%29.md) | How we collect, use, and protect personal information. | All members, Executive. | Mandated by federal PIPEDA. |
-| Policies & Procedures | [DRMC Volunteer Position Descriptions.md](https://github.com/dalhousiemarina-lab/Coorporate/blob/work-In-Progress/DRMC%20Volunteer%20Position%20Descriptions.md) | Clear expectations for squad and committee roles. | Volunteers, squad leads. | Governed by Bylaws Art. XV. |
-| Policies & Procedures | [DRMC Emergency Response Plan.md](https://github.com/dalhousiemarina-lab/Coorporate/blob/work-In-Progress/DRMC%20Emergency%20Response%20Plan.md) | Procedures for fire, spill, medical, weather emergencies. | All members, Harbour Master. | Required by Bylaws Art. XX.2. |
-| Policies & Procedures | [DRMC Grievance Procedure.md](https://github.com/dalhousiemarina-lab/Coorporate/blob/work-In-Progress/DRMC%20Grievance%20Procedure.md) | Formal, confidential process for disputes. | Members, Executive. | Implied by Code of Conduct Sec. 9. |
-| Policies & Procedures | [DRMC Access Control Policy.md](https://github.com/dalhousiemarina-lab/Coorporate/blob/work-In-Progress/DRMC%20Access%20Control%20Policy.md) | Rules for keys, fobs, gate codes. | Members, Harbour Master. | Enhances security; no direct Bylaw link but implied. |
-| Policies & Procedures | [DRMC Procurement Policy.md](https://github.com/dalhousiemarina-lab/Coorporate/blob/work-In-Progress/DRMC%20Procurement%20Policy.md) | Transparent purchasing and vendor selection. | Executive, project leads. | Complements spending limits in Bylaws Art. XII.7. |
-| Policies & Procedures | [DRMC Expense Reimbursement Policy.md](https://github.com/dalhousiemarina-lab/Coorporate/blob/work-In-Progress/DRMC%20Expense%20Reimbursement%20Policy.md) | Reimbursable expenses and claim process. | Directors, volunteers. | Clarifies out‑of‑pocket expenses not covered elsewhere. |
-| Policies & Procedures | [DRMC Waiting List Management Procedure.md](https://github.com/dalhousiemarina-lab/Coorporate/blob/work-In-Progress/DRMC%20Waiting%20List%20Management%20Procedure.md) | How vacancies are offered and waiting list maintained. | Harbour Master, applicants. | Implied by Bylaws Art. VI.8, VII.3. |
-| Policies & Procedures | [DRMC Insurance Management Policy.md](https://github.com/dalhousiemarina-lab/Coorporate/blob/work-In-Progress/DRMC%20Insurance%20Management%20Policy.md) | Framework for procurement, maintenance, and management of insurance coverage. | Treasurer, Executive. | Supports Bylaws Art. XVIII.3 (D&O insurance); addresses member insurance requirements. |
-| Policies & Procedures | [DRMC Member Communication Policy.md](https://github.com/dalhousiemarina-lab/Coorporate/blob/work-In-Progress/DRMC%20Member%20Communication%20Policy.md) | Standards for email, website, social media, notices. | Executive, members. | Ensures consistent messaging; no direct Bylaw link. |
-| Policies & Procedures | [DRMC Donation, Sponsorship and Fundraising Policy.md](https://github.com/dalhousiemarina-lab/Coorporate/blob/work-In-Progress/DRMC%20Donation%2C%20Sponsorship%20and%20Fundraising%20Policy.md) | Guidelines for ethical, transparent acceptance and management of sponsorships and fundraising activities. | Treasurer, Executive, event organizers. | Complements Activity Proposal Template; addresses CRA compliance and NB gaming regulations. |
-| Policies & Procedures | [DRMC Sites Restricted to Transient (Short-Term) Use Only.md](https://github.com/dalhousiemarina-lab/Coorporate/blob/work-In-Progress/DRMC%20Sites%20Restricted%20to%20Transient%20%28Short-Term%29%20Use%20Only.md) | Establishes transient-only use for sites affected by underground services issues, addressing insurance and environmental requirements. | Affected members, Harbour Master, Campground Manager. | Required by insurance duty to defend; supports Bylaws Art. VII and Environmental Stewardship (Art. XXII). |
-| Policies & Procedures | [DRMC Alcohol Service Guidelines.md](https://github.com/dalhousiemarina-lab/Coorporate/blob/work-In-Progress/DRMC%20Alcohol%20Service%20Guidelines.md) | Detailed rules for events serving alcohol. | Event organizers. | Complements Activity Proposal Template requirements. |
-| Policies & Procedures | [DRMC Volunteer Screening Policy.md](https://github.com/dalhousiemarina-lab/Coorporate/blob/work-In-Progress/DRMC%20Volunteer%20Screening%20Policy.md) | Background checks for sensitive roles. | Volunteer coordinators. | Mitigates risk for roles with vulnerable populations. |
-| Policies & Procedures | [DRMC Conflict of Interest Policy.md](https://github.com/dalhousiemarina-lab/Coorporate/blob/work-In-Progress/DRMC%20Conflict%20of%20Interest%20Policy.md) | Standards for identifying, disclosing, and managing conflicts of interest. | Directors, officers, committee members, decision-makers. | Enforces Bylaws Art. XI (Duties of Directors); complements Director Agreement and Code of Conduct. |
-| Plans | [Spill Prevention, Control, and Countermeasure (SPCC) Plan.md](https://github.com/dalhousiemarina-lab/Coorporate/blob/work-In-Progress/Spill%20Prevention%2C%20Control%2C%20and%20Countermeasure%20%28SPCC%29%20Plan.md) | Comprehensive plan for preventing, containing, and responding to oil spills in compliance with 40 CFR Part 112. | Facility Manager, Harbour Master, fuel attendants. | Required by environmental regulations; supports Bylaws Art. XXII (Environmental Stewardship) and Emergency Response Plan. |
-| Templates | [DRMC Activity Proposal & Execution Template.md](https://github.com/dalhousiemarina-lab/Coorporate/blob/work-In-Progress/DRMC%20Activity%20Proposal%20%26%20Execution%20Template.md) | Mandatory form for club‑organized events. | Activity organizers. | Governed by Bylaws Art. XV & XXI. |
-| Templates | [DRMC Project Proposal Template.md](https://github.com/dalhousiemarina-lab/Coorporate/blob/work-In-Progress/DRMC%20Project%20Proposal%20Template.md) | Mandatory form for capital projects. | Project leads. | Governed by Bylaws Art. X. |
-| With Description | [DRMC Charter 2026 (with description).md](https://github.com/dalhousiemarina-lab/Coorporate/blob/work-In-Progress/DRMC%20Charter%202026%20%28with%20description%29.md) | Plain‑language version of Charter. | New members, anyone wanting summary. | Companion to official Charter. |
-| With Description | [DRMC Bylaws 2026 (with description).md](https://github.com/dalhousiemarina-lab/Coorporate/blob/work-In-Progress/DRMC%20Bylaws%202026%20%28with%20description%29.md) | Plain‑language version of Bylaws. | New members, anyone wanting summary. | Companion to official Bylaws. |
-| Historical | [DRMC What has changed.md](https://github.com/dalhousiemarina-lab/Coorporate/blob/work-In-Progress/DRMC%20What%20has%20changed.md) | Summary of differences between 2025 and 2026 frameworks. | Everyone. | Explains the "why" behind the new system. |
-| Historical | BY-LAWS 2025.doc | Old bylaws (available upon request). | Historical reference. | Replaced by 2026 Bylaws. |
-
-## 🚀 What's Next? (Our Continuous Improvement Roadmap)
-
-With the addition of the documents listed above, we have filled all previously identified gaps in our governance framework. These policies, procedures, and plans now provide a solid foundation for operational continuity, financial controls, safety, environmental stewardship, and community well‑being.
-
-We will continue to refine these documents based on member feedback and changing needs. If you have suggestions for improvements or identify new gaps, please follow the contribution guidelines below.
-
-## 🚀 How to Use This Repository
-
-- For new members: Begin with the Getting Started guide and the Document-by-Document Breakdown to get the big picture. Then read the Charter, Bylaws, and Code of Conduct. If you want an even simpler start, check the With Description Documents.
-- When submitting a proposal: Use the appropriate template from the/templates section.
-- To find a specific policy: Browse the file list or use the search bar in GitHub.
-
-## 🔄 Versioning and Updates
-
-We use Git to track all changes. The main branch (main) always reflects the most recent approved versions. Major releases (e.g., updated bylaws) are tagged with version numbers (e.g., v3.0). You can view the full history of any file by clicking on it and then “History”.
-
-## ✍️ Contributing
-
-If you have a suggested change to any document (e.g., a bylaw amendment or a new template), please follow these steps:
-
-1.  Discuss the proposal with the executive team or the general membership first.
-2.  Fork this repository and create a new branch for your changes.
-3.  Make your edits in the Markdown files.
-4.  Submit a pull request describing your changes and why they are needed.
-
-All changes to governing documents must be approved according to the procedures in our Bylaws.
-
-## 📬 Contact
-
-For questions about these documents or the repository, please contact the DRMC executive team at [insert email or other contact method].
-
-**Last updated:** March 2026
+```mermaid
+graph TD
+    Charter["📜 Charter"]
+    Bylaws["📘 Bylaws"]
+    
+    Charter --> Bylaws
+    Bylaws --> Policies["⚖️ Policies"]
+    Bylaws --> Procedures["📝 Procedures"]
+    Bylaws --> Templates["📄 Templates"]
+    
+    Policies --> Agreements["📝 Agreements"]
+    Procedures --> SOPs["🛠️ SOPs"]
+    Templates --> SOPs
+    
+    WhereStart["📍 Where to start"] -.-> Charter
+    WhereStart -.-> Bylaws
