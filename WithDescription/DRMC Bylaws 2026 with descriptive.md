@@ -1759,7 +1759,6 @@ The dissolution of the Corporation shall be governed by Part 14 of the Canada No
 In the event of the dissolution or winding up of the Corporation, after the payment of all debts and liabilities, the remaining property and assets of the Corporation shall be distributed in the following order:
 
 Payment of Debts: All known debts, liabilities, and reasonable expenses of dissolution shall be paid in full.
-Distribution to Members: The remaining assets shall be liquidated and the proceeds distributed equally among the members of the Corporation who are in good standing at the time of dissolution, in accordance with a formula established by the Executive.
 Residual to Non-Profit: Any assets or funds that cannot be distributed to members (for example, unclaimed distributions) shall be transferred to one or more qualified non-profit or charitable organizations in Canada with purposes similar to those of the Corporation, as determined by the Executive.
 
 This provision is unalterable and reflects the distribution order set forth in the Corporation's Articles of Incorporation (Charter).
@@ -1768,9 +1767,7 @@ This provision is unalterable and reflects the distribution order set forth in t
 >
 > 1.  **Pay all debts:** First, we use our assets to pay off anyone we owe money to—creditors, suppliers, loans, and the reasonable costs of shutting down. This ensures we leave no unpaid obligations.
 >
-> 2.  **Distribute to members:** After all debts are paid, any remaining assets are converted to cash (liquidated) and distributed among members who are in good standing at the time of dissolution. The distribution is equal among eligible members, following a formula that the Executive will determine. This might mean equal shares per member, or it could be based on length of membership or other fair criteria. This step recognizes that the members have built the organization's value over time.
->
-> 3.  **Residual to non-profits:** If any assets can't be distributed to members (for example, if a member has died and no one claims their share, or a member can't be located), those remaining funds go to other Canadian non-profit or charitable organizations with purposes similar to ours—like other marinas, community boating clubs, or campground associations. The Executive decides which organizations receive these residual assets.
+> 2.  **Residual to non-profits:** If any assets can't be distributed to members (for example, if a member has died and no one claims their share, or a member can't be located), those remaining funds go to other Canadian non-profit or charitable organizations with purposes similar to ours—like other marinas, community boating clubs, or campground associations. The Executive decides which organizations receive these residual assets.
 >
 > This three-step process ensures a fair and orderly wind-down: first satisfy obligations, then return value to members, and finally ensure that any unclaimed assets stay in the non-profit community to continue serving purposes similar to ours.
 

@@ -855,7 +855,6 @@ If the Corporation is dissolved or wound up, any remaining assets after paying a
 Upon the dissolution or winding up of the Corporation, after the payment of all debts and liabilities, the remaining property and assets of the Corporation shall be distributed in the following order:
 
 Payment of Debts: All known debts, liabilities, and reasonable expenses of dissolution shall be paid in full.
-Distribution to Members: The remaining assets shall be liquidated and the proceeds distributed equally among the members of the Corporation who are in good standing at the time of dissolution, in accordance with a formula established by the Executive.
 Residual to Non-Profit: Any assets or funds that cannot be distributed to members (for example, unclaimed distributions) shall be transferred to one or more qualified non-profit or charitable organizations in Canada with purposes similar to those of the Corporation, as determined by the Executive.
 
 This provision is unalterable and reflects the distribution order set forth in the Corporation's Articles of Incorporation (Charter).

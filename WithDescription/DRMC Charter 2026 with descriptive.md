@@ -186,8 +186,7 @@ The Corporation shall operate without the intention of generating profit for its
 In the event of the dissolution or winding up of the Corporation, after the payment of all debts and liabilities, the remaining property and assets of the Corporation shall be distributed as follows:
 
 Step One – Payment of Debts: All known debts, liabilities, and costs of dissolution shall be paid in full.
-Step Two – Distribution to Members: The remaining assets shall be liquidated and the proceeds distributed equally among the members of the Corporation who are in good standing at the time of dissolution, in accordance with a formula established by the Executive/Board of Directors.
-Step Three – Residual to Non-Profit: Any assets or funds that cannot be distributed to members (for example, unclaimed distributions) shall be transferred to one or more qualified non-profit or charitable organizations in Canada whose purposes are similar to those of the Corporation, as determined by the Executive/Board of Directors.
+Step Two – Residual to Non-Profit: Any assets or funds that cannot be distributed to members (for example, unclaimed distributions) shall be transferred to one or more qualified non-profit or charitable organizations in Canada whose purposes are similar to those of the Corporation, as determined by the Executive/Board of Directors.
 
 This provision is unalterable and ensures that the Corporation's assets are first used to satisfy obligations, then returned to the members, and finally, any residual assets remain committed to the not-for-profit sector in perpetuity.
 
@@ -198,9 +197,7 @@ This provision is unalterable and ensures that the Corporation's assets are firs
 > **The Three-Step Process:**
 > 1.  **Step One – Pay all debts:** First, we use our assets to pay off anyone we owe money to—creditors, suppliers, loans, etc. This ensures we leave no unpaid obligations. All known debts, liabilities, and the costs of shutting down are paid in full.
 >
-> 2.  **Step Two – Distribute to members:** After all debts are paid, any remaining assets are converted to cash (liquidated) and distributed among members who are in good standing at the time of dissolution. The distribution is equal among eligible members, following a formula that the Executive will determine. This might mean equal shares per member, or it could be based on length of membership or other fair criteria. This step recognizes that the members have built the organization's value over time and should share in what remains after debts are paid.
->
-> 3.  **Step Three – Residual to non-profits:** If any assets can't be distributed to members (for example, if a member has died and no one claims their share, or a member can't be located), those remaining funds go to other Canadian non-profit or charitable organizations with purposes similar to ours—like other marinas, community boating clubs, or campground associations. The Executive decides which organizations receive these residual assets.
+> 2.  **Step Two – Residual to non-profits:** If any assets can't be distributed to members (for example, if a member has died and no one claims their share, or a member can't be located), those remaining funds go to other Canadian non-profit or charitable organizations with purposes similar to ours—like other marinas, community boating clubs, or campground associations. The Executive decides which organizations receive these residual assets.
 >
 > **Why "unalterable"?** This clause ensures a clear, fair, and permanent process if we ever dissolve. It follows a logical order: first satisfy our obligations, then return value to the members who built the organization, and finally ensure that any unclaimed assets stay in the non-profit community to continue serving purposes similar to ours. Because it's unalterable, no future leadership or membership could change this fundamental promise about how our assets would be handled.
 >
