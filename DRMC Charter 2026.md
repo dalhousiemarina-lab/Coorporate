@@ -70,9 +70,10 @@ The Corporation shall operate without the intention of generating profit for its
 In the event of the dissolution or winding up of the Corporation, after the payment of all debts and liabilities, the remaining property and assets of the Corporation shall be distributed as follows:
 
 Step One – Payment of Debts: All known debts, liabilities, and costs of dissolution shall be paid in full.
-Step Three – Residual to Non-Profit: Any assets or funds that cannot be distributed to members (for example, unclaimed distributions) shall be transferred to one or more qualified non-profit or charitable organizations in Canada whose purposes are similar to those of the Corporation, as determined by the Executive/Board of Directors.
 
-This provision is unalterable and ensures that the Corporation's assets are first used to satisfy obligations, then returned to the members, and finally, any residual assets remain committed to the not-for-profit sector in perpetuity.
+Step Two – Residual to Non-Profit: All remaining property and assets shall be transferred to one or more qualified non-profit or charitable organizations in Canada whose purposes are similar to those of the Corporation, as determined by the Executive/Board of Directors. No portion of the remaining assets shall be distributed to members.
+
+This provision is unalterable and reflects the requirements of the Canada Not-for-profit Corporations Act, under which a non-profit corporation may not distribute residual assets to its members upon dissolution.
 
 ## **ARTICLE IX: BY-LAWS**
 
@@ -86,5 +87,7 @@ All By-Laws shall be legally subordinate to this Charter.
 
 ---
 
-**Document Version: 3.0**  
-**Effective Date: February 28, 2026**
+**Document Version: 3.1 (Amended)**
+**Effective Date: June 25, 2026**
+**Previous Version: 3.0 (February 28, 2026)**
+**Amendment Summary:** Dissolution clause Article VIII corrected — illegal member distribution step removed; two-step sequence (pay debts → residual to non-profit) now compliant with the Canada Not-for-profit Corporations Act.

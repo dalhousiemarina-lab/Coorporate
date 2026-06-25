@@ -94,6 +94,8 @@ For any vote, the total number of votes cast is the sum of all base votes and bo
 
 The Corporation maintains a public Volunteer Registry to monitor each Unit's progress toward the 20-hour goal. Volunteered and verified volunteer hours must be documented either by the Squad Coordinator or an Executive member. Any disputes regarding volunteer hours are resolved by the Executive.
 
+**Election Freeze:** The Volunteer Registry shall be frozen and certified by the Secretary no later than fourteen (14) days before the AGM. The certified Registry determines which Voting Units are entitled to a bonus vote at the AGM election. No hours recorded after the freeze date shall count toward bonus vote eligibility for that election cycle. Members with disputed hours must submit their appeal to the Executive no later than twenty-one (21) days before the AGM; the Executive shall render a decision within seven (7) days of receiving the appeal.
+
 ### IV.10 Resignation of Membership
 
 A member may resign from the Corporation at any time by delivering a written notice of resignation to the Secretary. The resignation shall be effective upon receipt by the Secretary or on a later date specified in the notice. Upon resignation, the member forfeits all rights and privileges of membership, and no refund of dues or fees shall be provided unless otherwise determined by the Executive.
@@ -139,7 +141,7 @@ Suspended members forfeit their membership fee and are not entitled to a refund.
 A membership may be terminated if the member does not utilize their assigned slip or campsite for a full season, as follows:
 
 **V.7.1 Definition of Non-Use**
-- Non-use means the member's assigned slip or campsite remains vacant and unoccupied for the entire operational season (May 1 to October 31)
+- Non-use means the member's assigned slip or campsite remains vacant and unoccupied for the entire operational season (**May 15 to October 15**)
 - Occasional, sporadic, or de minimis use (e.g., less than 7 total days occupied) may be deemed non-use at the Executive's discretion
 
 **V.7.2 Notification Requirement**
@@ -162,6 +164,62 @@ Requests for exceptions must be submitted in writing prior to the season.
 
 **V.7.5 Fee Forfeiture**
 Members whose membership is terminated under this section forfeit all fees paid and are not entitled to any refund.
+
+---
+
+## ARTICLE V-C: Member Grievance Procedure
+
+### V-C.1 Purpose
+
+This Article establishes a formal, transparent process for members to raise complaints or grievances against the Corporation, the Executive, or other members, beyond the day-to-day conduct issues addressed in the Code of Conduct.
+
+### V-C.2 Scope
+
+This procedure applies to complaints regarding: Executive decisions, allocation of resources, enforcement of Bylaws, and member-to-member disputes that cannot be resolved informally.
+
+### V-C.3 Step 1 — Informal Resolution
+
+The complainant shall first attempt to resolve the matter directly with the relevant party. If unresolved within fourteen (14) days, the member may proceed to Step 2.
+
+### V-C.4 Step 2 — Written Complaint
+
+The member submits a written grievance to the Secretary (or the Commodore if the grievance involves the Secretary), including: a description of the issue, the date(s) of the relevant events, the parties involved, and the remedy sought. The Secretary shall acknowledge receipt within seven (7) days.
+
+### V-C.5 Step 3 — Executive Review
+
+The Executive shall review the grievance and provide a written response within thirty (30) days of receipt. The complainant shall be given an opportunity to present their case, in person or in writing, before a decision is rendered.
+
+### V-C.6 Step 4 — Membership Appeal
+
+If the complainant is unsatisfied with the Executive's decision, they may appeal to the membership at the next General Meeting. The membership shall decide by majority vote of Voting Units present. The membership's decision is final.
+
+### V-C.7 Confidentiality
+
+All grievance proceedings shall be kept confidential to the extent possible, consistent with the need to conduct a fair investigation and provide the respondent an opportunity to be heard.
+
+---
+
+## ARTICLE V-D: Privacy Policy (PIPEDA Compliance)
+
+### V-D.1 Collection of Personal Information
+
+The Corporation collects personal information from members (including name, address, contact details, vessel/RV information, and insurance details) solely for the purposes of administering membership, managing facilities, and complying with legal obligations.
+
+### V-D.2 Use and Disclosure
+
+Personal information shall not be used or disclosed for purposes other than those for which it was collected, except with the consent of the member or as required by law. Member contact details shall not be shared with third parties without consent.
+
+### V-D.3 Access and Correction
+
+Members may request access to their personal information held by the Corporation and may request corrections to inaccurate information by written notice to the Secretary.
+
+### V-D.4 Retention and Destruction
+
+Personal information shall be retained only as long as necessary for the purposes for which it was collected, or as required by law. Information no longer required shall be securely destroyed.
+
+### V-D.5 Responsibility
+
+The Secretary is the designated Privacy Officer of the Corporation and is responsible for ensuring compliance with applicable privacy legislation, including the *Personal Information Protection and Electronic Documents Act* (PIPEDA).
 
 ---
 
@@ -201,7 +259,7 @@ All members are responsible for the timely payment of all membership fees and as
 
 ### V-B.4 Site Improvement
 
-All site improvements must be approved by the maintenance and executive. Units delimited must be respected.
+All site improvements must be approved in writing by the Harbour Master and the Executive before work commences. Members seeking approval must submit a written description of the proposed improvement, including materials, dimensions, and estimated cost, to the Secretary. The Executive shall respond within thirty (30) days. Improvements made without approval may be ordered removed at the member's expense. Members may appeal a denial to the full membership at the next General Meeting.
 
 ### V-B.5 Care of Facilities
 
@@ -235,7 +293,7 @@ In extraordinary circumstances, the Executive may convene a Special Membership M
 - **Membership Year:** All membership rights expire on April 30th each year.
 - **Invoicing:** Invoices for the upcoming membership year shall be issued on **April 1st**.
 - **Payment Due Date:** All fees are due by **May 1st**. Fees unpaid after May 1st shall be subject to a penalty charge as determined by the Executive, and the assigned slip or campsite may be forfeited and offered to the waiting list.
-- **Late Fees:** The Executive may establish a late fee schedule, which shall be communicated to members with the invoice.
+- **Late Fees:** Fees unpaid after May 1st shall be subject to a penalty charge of one and one-quarter percent (1.25%) per month on the outstanding balance, compounding monthly, until paid in full. The Executive may waive or reduce late fees in exceptional circumstances upon written request.
 
 ### VI.5 Fee Structure Transparency
 
@@ -273,8 +331,12 @@ New memberships shall be granted only when an assigned slip (for Berth Holders) 
 **VI.8.2 One-Time Initiation Fee**
 All new members admitted to the Corporation shall pay a one-time, non-refundable initiation fee in addition to the applicable annual seasonal fees. The amount of the initiation fee shall be established annually by the Executive and presented to the membership for information at the Annual General Meeting.
 
-**VI.8.3 Exceptions**
-Transfers of membership rights under Article VII are not subject to the initiation fee. The initiation fee does not apply to Associate Members unless otherwise determined by the Executive.
+**VI.8.4 Waitlist Management**
+The Secretary shall maintain the waiting list in chronological order of application. When a vacancy arises:
+- The next qualified applicant on the list shall be notified in writing (email acceptable) within fourteen (14) days of the vacancy being confirmed.
+- The applicant shall have fourteen (14) days from the date of notification to accept or decline in writing.
+- If the applicant declines or does not respond within fourteen (14) days, the offer passes to the next applicant on the list; the declining applicant is moved to the bottom of the waitlist.
+- The Secretary shall publish the waitlist length (number of applicants, without personal details) at each General Meeting.
 
 ---
 
@@ -362,23 +424,35 @@ A Special Membership Meeting may be called by the Executive or by written reques
 
 Notice of the Annual General Meeting or any Special Meeting shall be given to all members not less than twenty-one (21) days nor more than sixty (60) days before the meeting date, via email, postal mail, or other electronic means as recorded in the membership register. Notice for Seasonal Update Meetings or the Spring General Meeting shall be given at least fourteen (14) days in advance.
 
-### VIII.7 Quorum
+### VIII.7 Proxy Voting
+
+A designated Primary or Secondary Voter who is unable to attend a General or Special Membership Meeting in person or by web conference may authorize another adult member of the same Voting Unit to cast the Unit's vote(s) by proxy, subject to the following conditions:
+
+- **Form:** The proxy must be submitted in writing (email to the Secretary is acceptable) no later than forty-eight (48) hours before the meeting.
+- **Content:** The proxy must identify the Voting Unit, the name of the proxy holder, and the meeting for which it is granted. It may be general (authorizing the holder to vote as they see fit) or specific (directing the holder to vote in a particular way on named motions).
+- **Eligibility of Proxy Holder:** The proxy holder must be an adult member of the same Voting Unit or, if no such person is available, another adult member in good standing designated in writing by the Unit. A proxy holder may not hold more than one proxy from a different Unit.
+- **Bonus Vote:** If the Voting Unit holds a bonus vote, the proxy must explicitly state whether the bonus vote is also delegated.
+- **Revocation:** A proxy may be revoked at any time before the vote is cast by written notice to the Secretary, or by the original voter attending the meeting in person or by web conference.
+- **Executive Elections:** Proxy voting is not permitted for Executive elections at the AGM, which require an in-person secret ballot (Article XI.3).
+- **Record:** The Secretary shall maintain a record of all proxies received for each meeting.
+
+### VIII.8 Quorum
 
 One-third (1/3) of eligible Voting Units constitutes a quorum for any General or Special Membership Meeting. No quorum is required for Seasonal Update Meetings.
 
-### VIII.8 Notice & Web Conference Details
+### VIII.9 Notice & Web Conference Details
 
 Written notice of all General Membership Meetings must be provided at least twenty-one (21) days in advance for the Annual and Spring Meetings, and at least fourteen (14) days in advance for the Seasonal Update Meetings.
 
-### VIII.9 Participation via Web Conference
+### VIII.10 Participation via Web Conference
 
 Members participating by web conference are considered present for all purposes. The Corporation shall ensure reasonable opportunity for participation via web conference technology.
 
-### VIII.10 Action Without a Meeting
+### VIII.11 Action Without a Meeting
 
 Actions required or permitted at a membership meeting may be conducted without an in-person meeting if the Corporation delivers an electronic or paper ballot to every Voting Unit entitled to vote, provided quorum and approval thresholds are met.
 
-### VIII.11 Summary of Meeting Powers
+### VIII.12 Summary of Meeting Powers
 
 | Meeting Type | When Held | Main Purpose | Binding Votes Held? |
 |--------------|-----------|--------------|----------------------|
@@ -482,16 +556,23 @@ Actual voting for Executive positions shall occur strictly in person at the Sept
 - Only designated Primary or Secondary Members of Voting Units in good standing may cast ballots. Each Voting Unit is entitled to cast its base vote and, if applicable, its bonus vote, up to a maximum of two votes.
 - Results shall be announced at the AGM and subsequently published to the membership.
 
-### XI.4 Election Committee
+### XI.4 Governance & Nominating Committee (GNC) / Election Committee
 
-At the Spring General Meeting, the Executive shall appoint an Election Committee consisting of at least three members from different Voting Units who are not standing for election in the current cycle. The Committee shall:
+The Corporation maintains a standing **Governance & Nominating Committee (GNC)**, which also serves as the Election Committee for all purposes under these Bylaws and the Election & Nomination Protocol. References to "Election Committee" and "GNC" throughout these Bylaws and all supporting documents refer to the same body.
 
-- Manage the nomination process,
-- Verify candidate eligibility,
-- Oversee the campaign period,
+The GNC shall be formed annually by June 1st and shall consist of at least three (3) members from different Voting Units who are not standing for election in the current cycle:
+- One (1) current Director who is **not** up for re-election in the current cycle.
+- Two (2) non-Director members appointed by the Board.
+
+The GNC shall:
+- Conduct the annual skills audit and succession planning (June–July),
+- Manage the nomination process and candidate vetting (August),
+- Oversee the campaign period and candidate forum,
 - Administer the in-person voting at the AGM,
 - Certify the results, and
 - Resolve any disputes or challenges.
+
+Members of the GNC may not be candidates in the election they oversee. The GNC reports directly to the membership on the outcome of the election.
 
 ### XI.5 Assumption of Office
 
@@ -576,7 +657,7 @@ Any Director becoming disqualified shall immediately resign or be removed per Ar
 
 ### XII.6 Executive Meetings & Quorum
 
-Executive meetings are held at least six times per year. A majority of filled Executive positions constitutes a quorum.
+Executive meetings are held at least six times per year. For quorum purposes, a "filled" position is any Executive role — required or optional — that has a currently serving member. A majority of filled Executive positions constitutes a quorum. The three required positions (Commodore, Treasurer, Harbour Master) must each be filled at all times; if any required position is vacant for more than thirty (30) days, the Executive must initiate an appointment under Article XII.4.
 
 ### XII.7 Spending Authority
 
@@ -597,8 +678,8 @@ The Executive may appoint special committees with specific mandates, which repor
 ## ARTICLE XIII: Duties of Executive Officers
 
 - **Commodore:** Presides at all meetings, serves as an ex-officio member of all committees, and ensures adherence to the Code of Conduct.
-- **Vice-Commodore:** Acts as Commodore in their absence or disability.
-- **Secretary:** Maintains meeting minutes, issues notices, is custodian of records and corporate seal, maintains member register and document repository.
+- **Vice-Commodore:** Acts as Commodore in their absence or disability. If the Vice-Commodore position is vacant or the Vice-Commodore is also unavailable, the Treasurer shall assume the duties of Commodore on an interim basis until the Executive appoints an Acting Commodore by majority vote. If the Commodore is unable to fulfill their duties for more than thirty (30) consecutive days, the Executive shall formally appoint an Acting Commodore to serve until the next General Meeting, at which the membership may elect a replacement to complete the remainder of the term.
+- **Secretary:** Maintains meeting minutes, issues notices, is custodian of records and corporate seal, maintains member register and document repository. If the Secretary position is vacant, the Commodore shall assume Secretary duties on an interim basis and must initiate recruitment for the role within thirty (30) days. All statutory filing deadlines (including Form 4006 under the NFP Act) remain in effect regardless of whether the Secretary position is filled.
 - **Treasurer:** Manages funds and securities, keeps accurate accounts, deposits monies, presents financial reports at the AGM, and maintains financial documents.
 - **Harbour Master:** Oversees maintenance and safety of marina facilities.
 - **Campground Manager:** Oversees maintenance, safety, and operations of the campground.
@@ -694,7 +775,20 @@ The directors shall approve the financial statements before they are issued to m
 - Members shall appoint a public accountant at each AGM to conduct a Review Engagement or Audit of the financial statements, as required by law.
 - The Treasurer shall present reviewed or audited financial statements to the membership for approval at the AGM.
 
-### XIX.5 Budget and Fee Integration
+### XIX.6 Capital Reserve Fund
+
+**XIX.6.1 Establishment:** The Corporation shall maintain a Capital Reserve Fund (the "Reserve") as a dedicated account separate from operating funds, intended to finance major capital expenditures, emergency repairs, and long-term asset renewal.
+
+**XIX.6.2 Funding:** The Executive shall allocate a minimum of five percent (5%) of annual gross membership fee revenue to the Reserve each fiscal year, subject to membership approval at the Spring General Meeting.
+
+**XIX.6.3 Minimum Balance:** The Reserve shall maintain a minimum balance of $10,000 at all times. If the balance falls below this threshold, the Executive must present a replenishment plan to the membership at the next General Meeting.
+
+**XIX.6.4 Drawdown Authorization:** Withdrawals from the Reserve require:
+- Executive approval for amounts up to $2,500 per project.
+- Majority membership vote for amounts exceeding $2,500.
+- A two-thirds (2/3) majority membership vote for amounts exceeding $10,000.
+
+**XIX.6.5 Reporting:** The Treasurer shall report the Reserve balance and any transactions at every General Meeting and include it in the annual financial statements.
 
 - The Executive shall prepare and present an annual operating budget for the upcoming fiscal year to the membership for approval at the Spring General Meeting.
 - The budget presentation must clearly show the relationship between projected expenses and proposed membership fees.
@@ -780,7 +874,15 @@ The Corporation shall operate in an environmentally responsible manner, minimizi
 
 ### XXII.2 Environmental Squad
 
-An Environmental Squad shall be established to monitor and improve environmental practices and educate members on sustainable boating and camping practices.
+An Environmental Squad shall be established to monitor and improve environmental practices and educate members on sustainable boating and camping practices. The Environmental Squad's mandate includes:
+
+- Monitoring the marina basin and grounds for pollution, illegal discharge, or environmental hazards, and reporting findings to the Harbour Master and Executive.
+- Organizing at least one annual environmental awareness event or cleanup for members.
+- Maintaining an inventory of environmental equipment (spill kits, absorbent materials, etc.) and reporting deficiencies to the Executive.
+- Reviewing and recommending updates to the Corporation's environmental policies as conditions change.
+- Liaising with relevant federal and provincial environmental authorities as directed by the Executive.
+
+The Environmental Squad Coordinator shall report to the membership at each Seasonal Update Meeting and submit an annual written report to the Secretary for inclusion in the corporate records.
 
 ---
 
@@ -851,13 +953,13 @@ The dissolution of the Corporation shall be governed by Part 14 of the Canada No
 
 ### XXIV.2 Distribution of Remaining Property
 
-If the Corporation is dissolved or wound up, any remaining assets after paying all liabilities shall be transferred to one or more qualified non-profit organizations in Canada with purposes similar to those of the Corporation. This provision is unalterable.~~
-Upon the dissolution or winding up of the Corporation, after the payment of all debts and liabilities, the remaining property and assets of the Corporation shall be distributed in the following order:
+Upon the dissolution or winding up of the Corporation, after the payment of all debts and liabilities, the remaining property and assets of the Corporation shall be distributed in the following order, consistent with the Articles of Incorporation (Charter, Article VIII) and the Canada Not-for-profit Corporations Act:
 
-Payment of Debts: All known debts, liabilities, and reasonable expenses of dissolution shall be paid in full.
-Residual to Non-Profit: Any assets or funds that cannot be distributed to members (for example, unclaimed distributions) shall be transferred to one or more qualified non-profit or charitable organizations in Canada with purposes similar to those of the Corporation, as determined by the Executive.
+**Step One – Payment of Debts:** All known debts, liabilities, and reasonable expenses of dissolution shall be paid in full.
 
-This provision is unalterable and reflects the distribution order set forth in the Corporation's Articles of Incorporation (Charter).
+**Step Two – Residual to Non-Profit:** All remaining property and assets shall be transferred to one or more qualified non-profit or charitable organizations in Canada with purposes similar to those of the Corporation, as determined by the Executive. No portion of the remaining assets shall be distributed to members.
+
+This provision is unalterable. Under the Canada Not-for-profit Corporations Act, a non-profit corporation may not distribute residual assets to its members upon dissolution.
 
 ### XXIV.3 Qualified Donees
 
@@ -913,9 +1015,9 @@ For the purposes of these Bylaws, the following definitions apply:
 
 ---
 
-**Document Version:** 3.3  
-**Effective Date:** February 27, 2026  
-**Maintained by:** Secretary, Dalhousie Regional Marina Ltd.  
-**Repository Location:** Corporate Document Repository / Bylaws / Current
+**Document Version:** 3.4 (Amended)
+**Effective Date:** June 25, 2026
+**Previous Version:** 3.3 (February 27, 2026)
+**Amendment Summary:** Dissolution clause aligned with Charter and NFP Act — illegal member distribution removed, two-step sequence (pay debts → residual to non-profit) now legally compliant; proxy voting procedure added (VIII.7); Capital Reserve Fund established (XIX.6); GNC/Election Committee reconciled (XI.4); Commodore succession clause added (XIII); Secretary vacancy fallback added (XIII); Executive quorum clarified (XII.6); late fee rate standardized (VI.4); non-use clause dates corrected (V.7.1); waitlist management procedure added (VI.8.4); site improvement process formalized (V-B.4); Volunteer Registry election freeze added (IV.9); Member Grievance Procedure added (V-C); Privacy Policy added (V-D); Environmental Squad mandate expanded (XXII.2).
 
----
+---	
