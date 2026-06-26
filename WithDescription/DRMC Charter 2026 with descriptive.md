@@ -1,7 +1,7 @@
 # DRMC Charter 2026 – Expanded Plain-Language Guide
 
-**Document Version:** 3.0
-**Effective Date:** February 28, 2026
+**Document Version:** 3.1 (Amended)
+**Effective Date:** June 25, 2026
 
 This document pairs each section of the official Articles of Incorporation (the "Charter") with a detailed, easy-to-understand explanation. The original legal text is shown first, followed by a **Descriptive Note** that translates it into everyday language for all members to understand.
 
@@ -186,22 +186,25 @@ The Corporation shall operate without the intention of generating profit for its
 In the event of the dissolution or winding up of the Corporation, after the payment of all debts and liabilities, the remaining property and assets of the Corporation shall be distributed as follows:
 
 Step One – Payment of Debts: All known debts, liabilities, and costs of dissolution shall be paid in full.
-Step Two – Residual to Non-Profit: Any assets or funds that cannot be distributed to members (for example, unclaimed distributions) shall be transferred to one or more qualified non-profit or charitable organizations in Canada whose purposes are similar to those of the Corporation, as determined by the Executive/Board of Directors.
 
-This provision is unalterable and ensures that the Corporation's assets are first used to satisfy obligations, then returned to the members, and finally, any residual assets remain committed to the not-for-profit sector in perpetuity.
+Step Two – Residual to Non-Profit: All remaining property and assets shall be transferred to one or more qualified non-profit or charitable organizations in Canada whose purposes are similar to those of the Corporation, as determined by the Executive/Board of Directors. No portion of the remaining assets shall be distributed to members.
+
+This provision is unalterable and reflects the requirements of the Canada Not-for-profit Corporations Act, under which a non-profit corporation may not distribute residual assets to its members upon dissolution.
 
 > **Descriptive Note:** This is one of the most important clauses in our entire Charter, and it has a special feature: it **can never be changed**. No vote, no resolution, no decision can ever alter this clause. It's permanent.
 >
 > **What it covers:** This clause tells us what happens if we ever close down the organization (called "dissolution" or "winding up").
 >
-> **The Three-Step Process:**
-> 1.  **Step One – Pay all debts:** First, we use our assets to pay off anyone we owe money to—creditors, suppliers, loans, etc. This ensures we leave no unpaid obligations. All known debts, liabilities, and the costs of shutting down are paid in full.
+> **The Two-Step Process:**
+> 1.  **Step One – Pay all debts:** First, we use our assets to pay off everyone we owe money to — creditors, suppliers, loans, and the reasonable costs of shutting down. All known debts and liabilities are paid in full before anything else happens.
 >
-> 2.  **Step Two – Residual to non-profits:** If any assets can't be distributed to members (for example, if a member has died and no one claims their share, or a member can't be located), those remaining funds go to other Canadian non-profit or charitable organizations with purposes similar to ours—like other marinas, community boating clubs, or campground associations. The Executive decides which organizations receive these residual assets.
+> 2.  **Step Two – Residual to non-profits:** After all debts are paid, every remaining asset — property, equipment, funds — is transferred to one or more Canadian non-profit or charitable organizations with purposes similar to ours (other marinas, community boating clubs, campground associations, etc.). The Executive decides which organizations receive these assets.
 >
-> **Why "unalterable"?** This clause ensures a clear, fair, and permanent process if we ever dissolve. It follows a logical order: first satisfy our obligations, then return value to the members who built the organization, and finally ensure that any unclaimed assets stay in the non-profit community to continue serving purposes similar to ours. Because it's unalterable, no future leadership or membership could change this fundamental promise about how our assets would be handled.
+> **Why can't assets go to members?** This is a legal requirement under the *Canada Not-for-profit Corporations Act*. A non-profit corporation cannot distribute its remaining assets to members when it dissolves. This is a fundamental feature of the non-profit structure: the assets are held in trust for the community and the organization's purpose, not for the personal benefit of individual members. This is also what distinguishes a non-profit from a co-operative or a for-profit company.
 >
-> **In plain terms:** If we ever close down, we first pay all our bills. Then whatever's left is shared equally among the members who are in good standing at that time. If any of that can't be given to members (because they can't be found), it goes to other non-profits doing similar work. This three-step process is permanent and can never be changed.
+> **Why "unalterable"?** This clause is locked permanently to ensure a clear, lawful process if we ever dissolve. No future leadership or membership vote can change it. This protects the organization's non-profit integrity in perpetuity.
+>
+> **In plain terms:** If we ever close down, we first pay all our bills. Then everything that's left — buildings, equipment, funds — goes to other non-profit organizations doing similar work. Members do not receive a payout.
 
 ---
 
@@ -236,7 +239,3 @@ All By-Laws shall be legally subordinate to this Charter.
 >
 > This structure gives us flexibility—we can change our operating rules (Bylaws) as circumstances change, without having to amend our constitution (Charter) every time. But the Charter ensures our fundamental character and principles remain protected.
 
----
-
-**Document Version:** 3.0
-**Effective Date:** February 28, 2026

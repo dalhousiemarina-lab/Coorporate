@@ -1013,11 +1013,3 @@ For the purposes of these Bylaws, the following definitions apply:
 - **"Ordinary Resolution"** means a resolution passed by a majority of the votes cast on that resolution.
 - **"Voting Unit"** means a single family unit using the same premises, entitled to one base vote and potentially one bonus vote, up to a maximum of two votes total.
 
----
-
-**Document Version:** 3.4 (Amended)
-**Effective Date:** June 25, 2026
-**Previous Version:** 3.3 (February 27, 2026)
-**Amendment Summary:** Dissolution clause aligned with Charter and NFP Act — illegal member distribution removed, two-step sequence (pay debts → residual to non-profit) now legally compliant; proxy voting procedure added (VIII.7); Capital Reserve Fund established (XIX.6); GNC/Election Committee reconciled (XI.4); Commodore succession clause added (XIII); Secretary vacancy fallback added (XIII); Executive quorum clarified (XII.6); late fee rate standardized (VI.4); non-use clause dates corrected (V.7.1); waitlist management procedure added (VI.8.4); site improvement process formalized (V-B.4); Volunteer Registry election freeze added (IV.9); Member Grievance Procedure added (V-C); Privacy Policy added (V-D); Environmental Squad mandate expanded (XXII.2).
-
----	

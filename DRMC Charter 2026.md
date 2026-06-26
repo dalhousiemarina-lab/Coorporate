@@ -85,9 +85,3 @@ Members of the Corporation shall have the authority to enact, repeal, and amend 
 
 All By-Laws shall be legally subordinate to this Charter.
 
----
-
-**Document Version: 3.1 (Amended)**
-**Effective Date: June 25, 2026**
-**Previous Version: 3.0 (February 28, 2026)**
-**Amendment Summary:** Dissolution clause Article VIII corrected — illegal member distribution step removed; two-step sequence (pay debts → residual to non-profit) now compliant with the Canada Not-for-profit Corporations Act.
