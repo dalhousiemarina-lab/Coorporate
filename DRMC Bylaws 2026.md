@@ -297,12 +297,6 @@ In extraordinary circumstances, the Executive may convene a Special Membership M
 - **Final Payment Due Date:** The remaining balance of all annual fees is due by **May 1st**. Fees unpaid after May 1st shall be subject to a penalty charge as determined by the Executive, and the assigned slip or campsite may be forfeited and offered to the waiting list.
 - **Late Fees:** Fees unpaid after May 1st shall be subject to a penalty charge of one and one-quarter percent (1.25%) per month on the outstanding balance, compounding monthly, until paid in full. The Executive may waive or reduce late fees in exceptional circumstances upon written request.
 
-Membership Year: All membership rights expire on April 30th each year.
-Payment Due Date: Late Fees: Fees unpaid after May 1st shall be subject to a penalty charge of one and one-quarter percent (1.25%) per month on the outstanding balance, compounding monthly, until paid in full...   
-
-
-Deposit Requirement: A non-refundable deposit of $250 is required by October 1st of the preceding season to reserve an assigned slip or campsite for the upcoming membership year.Forfeiture for Non-Payment of Deposit: If the required $250 deposit is not paid in full by October 31st, the member’s assigned slip or campsite shall be immediately forfeited and offered to the waiting list in accordance with Article VI.8.4.   Final Payment Due Date: The remaining balance of all annual membership fees is due by May 1st.   Late Fees: Any remaining balance unpaid after May 1st shall be subject to a penalty charge of one and one-quarter percent (1.25%) per month on the outstanding balance, compounding monthly, until paid in full.   
-
 ### VI.5 Fee Structure Transparency
 
 The Executive shall provide a detailed breakdown of how membership fees are allocated across operational areas. This breakdown will be included in Spring General Meeting materials and available to members upon request.
